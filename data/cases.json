@@ -1,6 +1,376 @@
 {
-"updated":"2026-10-20T20:41+05:30",
+"updated":"2026-10-20T20:55+05:30",
 "cases":[
+{
+"name":"Suo Motu Civil Reference v. Union of India",
+"cite":"2026 LiveLaw (Ker) 571",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Kerala High Court",
+"bench":"Sathish Ninan, P. Krishna Kumar JJ",
+"subjects":[
+"Family Law",
+"Constitutional Law"
+],
+"topic":"Succession – revocation of will",
+"tag":"Section 69 of the Indian Succession Act, under which a Christian's will is revoked by marriage, is constitutionally valid; it has a legitimate aim and is not discriminatory because Hindus are excluded.",
+"source":"https://www.livelaw.in/high-court/kerala-high-court/livelaw-kerala-high-court-weekly-round-up-october-2026-555351",
+"kind":"new",
+"year":2026,
+"id":"suo-motu-civil-reference-v-union-of-india-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Ayishath Ruksana v. State of Kerala",
+"cite":"2026 LiveLaw (Ker) 587",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Kerala High Court",
+"bench":"Anil K. Narendran, Muralee Krishna S. JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Preventive detention – Article 22(5)",
+"tag":"Detention order and grounds must be served in a language the detenu understands; serving a Kannada speaker otherwise breaches Article 22(5), so the KAAP Act detention was set aside.",
+"source":"https://www.livelaw.in/high-court/kerala-high-court/livelaw-kerala-high-court-weekly-round-up-october-2026-555351",
+"kind":"new",
+"year":2026,
+"id":"ayishath-ruksana-v-state-of-kerala-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Biju v. State of Kerala",
+"cite":"2026 LiveLaw (Ker) 588",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Kerala High Court",
+"bench":"A. Badharudeen J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Appellate powers – retrial",
+"tag":"An appellate court cannot enhance a sentence on its own motion, but it may order a retrial where the trial court wrongly acquitted on a charge despite credible victim testimony.",
+"source":"https://www.livelaw.in/high-court/kerala-high-court/livelaw-kerala-high-court-weekly-round-up-october-2026-555351",
+"kind":"new",
+"year":2026,
+"id":"biju-v-state-of-kerala-2026",
+"added":"2026-10-20"
+},
+{
+"name":"S v. J",
+"cite":"2026 LiveLaw (Ker) 581",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Kerala High Court",
+"bench":"C. Jayachandran J",
+"subjects":[
+"Family Law"
+],
+"topic":"Child maintenance",
+"tag":"A father's remarriage and a child from the new marriage are not grounds to reduce maintenance payable to a child of the first marriage.",
+"source":"https://www.livelaw.in/high-court/kerala-high-court/livelaw-kerala-high-court-weekly-round-up-october-2026-555351",
+"kind":"new",
+"year":2026,
+"id":"s-v-j-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Mohammad Haroon v. Union of India",
+"cite":"2026 LiveLaw (AB) 831",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Allahabad High Court",
+"bench":"Atul Sreedharan, Achal Sachdev JJ",
+"subjects":[
+"Constitutional Law",
+"Criminal Procedure"
+],
+"topic":"Preventive detention – NSA",
+"tag":"Black-marketing should ordinarily be handled under the PBMSEC Act; using the NSA to detain for a year where that Act caps detention at six months is a perversion of the law.",
+"source":"https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-round-up-october12-october18-2026-555257",
+"kind":"new",
+"year":2026,
+"id":"mohammad-haroon-v-union-of-india-2026",
+"added":"2026-10-20"
+},
+{
+"name":"H v. H",
+"cite":"2026 LiveLaw (AB) 836",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Allahabad High Court",
+"bench":"J.J. Munir, Indrajeet Shukla JJ",
+"subjects":[
+"Family Law"
+],
+"topic":"Divorce – cruelty",
+"tag":"Persistently pressuring an only son to abandon his elderly widowed mother and live separately amounts to mental cruelty, entitling him to divorce under Section 13 HMA.",
+"source":"https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-round-up-october12-october18-2026-555257",
+"kind":"new",
+"year":2026,
+"id":"h-v-h-2026",
+"added":"2026-10-20"
+},
+{
+"name":"M/s I Think Apps Pvt. Ltd. v. Anugya Gupta",
+"cite":"2026 LiveLaw (AB) 825",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Allahabad High Court",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Jurisdiction before amendment",
+"tag":"An objection to subject-matter jurisdiction under Order VII Rules 10–11 CPC must be decided before an amendment application; a court lacking jurisdiction cannot allow an amendment to cure it.",
+"source":"https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-round-up-october12-october18-2026-555257",
+"kind":"new",
+"year":2026,
+"id":"m-s-i-think-apps-pvt-ltd-v-anugya-gupta-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Tejaram v. State of Rajasthan",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"S.V.N. Bhatti, N.V. Anjaria JJ",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Prevention of Corruption Act",
+"tag":"Prior approval under Section 17A PC Act is not needed to probe a bribe demand, since demanding a bribe is a criminal act unconnected with any decision or recommendation made in official duty.",
+"source":"https://lawchakra.in/supreme-court/section-17a-bribe-demand/",
+"kind":"new",
+"cite":"2026 INSC 1147",
+"year":2026,
+"id":"tejaram-v-state-of-rajasthan-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Rajkumar Madki v. Dr. Shailendra Beldal",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Sheel Nagu JJ",
+"subjects":[
+"Criminal Procedure",
+"Election Law"
+],
+"topic":"False affidavit – RP Act",
+"tag":"A private complaint for filing a false election affidavit under Section 125-A RP Act is maintainable and is not subject to the Section 195 CrPC bar on complaints by courts.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1138",
+"year":2026,
+"id":"rajkumar-madki-v-dr-shailendra-beldal-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Satinder Pal Singh v. Bedi Hospital",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"Pamidighantam Sri Narasimha, Alok Aradhe JJ",
+"subjects":[
+"Administrative Law",
+"Contract"
+],
+"topic":"Public auctions",
+"tag":"Until a binding contract is concluded, a public authority may recall or revisit an auction to secure a better price; fresh e-auction directed.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1142",
+"year":2026,
+"id":"satinder-pal-singh-v-bedi-hospital-2026",
+"added":"2026-10-20"
+},
+{
+"name":"K. Ramalingam v. Government of Tamil Nadu",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"Pamidighantam Sri Narasimha, Alok Aradhe JJ",
+"subjects":[
+"Property Law"
+],
+"topic":"Religious endowments",
+"tag":"Inam land dedicated to a deity cannot be gifted, even to the State; such a gift is void from inception and no sanction under the TN HR&CE Act can cure it. The State, as trustee, cannot take it for itself.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1144",
+"year":2026,
+"id":"k-ramalingam-v-government-of-tamil-nadu-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Rano Singh v. Gurbax Singh",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"Aravind Kumar, Vipul M. Pancholi JJ",
+"subjects":[
+"Property Law",
+"Civil Procedure"
+],
+"topic":"Suit for possession",
+"tag":"A bare suit for possession fails where a registered sale deed clouds the plaintiff's title; declaratory relief must be sought. An agreement to sell creates no interest in property.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1137",
+"year":2026,
+"id":"rano-singh-v-gurbax-singh-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Senior Intelligence Officer v. Mohammed Kamran",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Sheel Nagu JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Parallel remedies",
+"tag":"An accused may challenge arrest and seek bail at the same time, but pursuing both while hiding one from the court is an abuse of process.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1140",
+"year":2026,
+"id":"senior-intelligence-officer-v-mohammed-kamran-2026",
+"added":"2026-10-20"
+},
+{
+"name":"R. Saravanan v. Periyar University",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"Prashant Kumar Mishra, Shree Chandrashekhar JJ",
+"subjects":[
+"Civil Procedure",
+"Administrative Law"
+],
+"topic":"Intra-court appeal",
+"tag":"A Letters Patent bench should not upset a just decision of the writ court merely because it spots some error or prefers another view; Single Judge's order restored.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1136",
+"year":2026,
+"id":"r-saravanan-v-periyar-university-2026",
+"added":"2026-10-20"
+},
+{
+"name":"YES Bank Ltd. v. Axis Trustee Services Ltd.",
+"date":"2026-10-15",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Augustine George Masih JJ",
+"subjects":[
+"Company Law",
+"Administrative Law"
+],
+"topic":"Banking regulation",
+"tag":"An Administrator appointed for a bank under the Banking Regulation Act cannot exercise RBI's regulatory power to write down AT-1 bonds; such power cannot be implied from a general savings clause.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1132",
+"year":2026,
+"id":"yes-bank-ltd-v-axis-trustee-services-ltd-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Just Rights for Children Alliance v. S. Harish",
+"date":"2026-10-15",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Article 21 – internet access",
+"tag":"Internet access is a fundamental right under Arts 19(1)(a) and 21 that children also hold; Court refused a blanket social-media ban and laid down measures on CSEAM removal, digital safety and sex education.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1149",
+"year":2026,
+"id":"just-rights-for-children-alliance-v-s-harish-2026",
+"added":"2026-10-20"
+},
+{
+"name":"M.S. Sharma Enterprises v. National Building Construction Corporation",
+"date":"2026-10-15",
+"court":"Supreme Court of India",
+"bench":"Aravind Kumar, Vipul M. Pancholi JJ",
+"subjects":[
+"Arbitration",
+"Contract"
+],
+"topic":"Interest – Section 31(7)",
+"tag":"A contractual bar on interest worded to cover interest 'or otherwise' is absolute; an arbitral tribunal bound by the contract cannot award pre-reference or pendente lite interest against it.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1135",
+"year":2026,
+"id":"m-s-sharma-enterprises-v-national-building-const-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Deepak Raheja v. Omkara Assets Reconstruction Pvt. Ltd.",
+"date":"2026-10-15",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Augustine George Masih JJ",
+"subjects":[
+"Insolvency"
+],
+"topic":"Section 7 IBC – default",
+"tag":"Default under Section 7 IBC need only be shown on a preponderance of probabilities; the NCLT need not reconcile accounts forensically. Court also deprecated citing AI-generated, non-existent judgments.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1134",
+"year":2026,
+"id":"deepak-raheja-v-omkara-assets-reconstruction-pvt-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Sunil Kumar v. IFFCO Tokio General Insurance Co. Ltd.",
+"date":"2026-10-15",
+"court":"Supreme Court of India",
+"bench":"S.V.N. Bhatti, N.V. Anjaria JJ",
+"subjects":[
+"Torts"
+],
+"topic":"Motor accident compensation",
+"tag":"A victim who has lost all earning capacity and needs a lifelong attendant may be treated as 100% functionally disabled even if the medical disability percentage is lower; compensation more than doubled.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1145",
+"year":2026,
+"id":"sunil-kumar-v-iffco-tokio-general-insurance-co-l-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Madhu Kudapa v. Lodha Healthy Constructions & Developer Pvt. Ltd.",
+"date":"2026-10-15",
+"court":"Supreme Court of India",
+"bench":"Pamidighantam Sri Narasimha, Alok Aradhe JJ",
+"subjects":[
+"Contract"
+],
+"topic":"Consumer – homebuyers",
+"tag":"A homebuyer refunded with interest for the builder's delay cannot also recover rent for the same period, as that would be double compensation.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1131",
+"year":2026,
+"id":"madhu-kudapa-v-lodha-healthy-constructions-deve-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Secretary to the Government of Tamil Nadu v. Sameer Ahmed",
+"date":"2026-10-15",
+"court":"Supreme Court of India",
+"bench":"Prashant Kumar Mishra, Shree Chandrashekhar JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Reservation – conversion",
+"tag":"Conversion does not by itself make a person a member of a backward-class Muslim community, and pre-conversion caste status does not carry over; Madras HC's quashing of the Government Order upheld.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"year":2026,
+"id":"secretary-to-the-government-of-tamil-nadu-v-samee-2026",
+"added":"2026-10-20"
+},
 {
 "name":"Commissioner of Central Tax v. Sreenivasa Rao Ravinuthala",
 "cite":"2026 SCC OnLine SC 2150",
@@ -18,6 +388,75 @@
 "added":"2026-10-20"
 },
 {
+"name":"Sanjay Sureka v. Directorate of Enforcement",
+"date":"2026-10-14",
+"court":"Supreme Court of India",
+"bench":"Aravind Kumar, Vipul M. Pancholi JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"PMLA arrest",
+"tag":"Though Section 19 PMLA fixes no number of days, the arrest order and material must be forwarded to the Adjudicating Authority immediately; bail was granted to the accused.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1124",
+"year":2026,
+"id":"sanjay-sureka-v-directorate-of-enforcement-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Dr. B.C. Roy Engineering College v. State of West Bengal",
+"date":"2026-10-14",
+"court":"Supreme Court of India",
+"bench":"Pamidighantam Sri Narasimha, Alok Aradhe JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Fee regulation",
+"tag":"The full fee for a professional course must be notified before admission; mid-course hikes are allowed only in exceptional cases, and fee committees' decisions are open to High Court review.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1120",
+"year":2026,
+"id":"dr-b-c-roy-engineering-college-v-state-of-west-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Dhanlaxmi Merchandise Pvt. Ltd. v. State of Madhya Pradesh",
+"date":"2026-10-14",
+"court":"Supreme Court of India",
+"bench":"Aravind Kumar, Vipul M. Pancholi JJ",
+"subjects":[
+"Administrative Law",
+"Constitutional Law"
+],
+"topic":"Public auctions – Article 14",
+"tag":"Rejecting the highest bid as inadequate needs material on present market value; comparing it with the bidder's own earlier bid is not enough. Cancellation of sand-mining auctions set aside.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1125",
+"year":2026,
+"id":"dhanlaxmi-merchandise-pvt-ltd-v-state-of-madhya-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Alladin Charities and Zakat Wakf v. Mohammed Saleem",
+"date":"2026-10-14",
+"court":"Supreme Court of India",
+"bench":"S.V.N. Bhatti, N.V. Anjaria JJ",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Execution – Order XXI",
+"tag":"When obstruction to a possession decree raises title questions under Order XXI Rule 97 CPC, the executing court must decide them after a full inquiry under Rule 101; matter remanded.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1122",
+"year":2026,
+"id":"alladin-charities-and-zakat-wakf-v-mohammed-salee-2026",
+"added":"2026-10-20"
+},
+{
 "name":"Agri S.S. Krishnamurthy v. Speaker, Tamil Nadu Legislative Assembly",
 "cite":"2026 SCC OnLine Mad 9277",
 "date":"2026-10-13",
@@ -31,6 +470,75 @@
 "kind":"new",
 "year":2026,
 "id":"agri-s-s-krishnamurthy-v-speaker-tamil-nadu-leg-2026",
+"added":"2026-10-20"
+},
+{
+"name":"State of Maharashtra v. Sudhir s/o Motiramji Hiwarkar",
+"date":"2026-10-13",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Sheel Nagu JJ",
+"subjects":[
+"Constitutional Law",
+"Civil Procedure"
+],
+"topic":"Article 300 – parties",
+"tag":"Where relief would fasten financial liability on the public exchequer, the State itself must be impleaded; joining only an officer or department leaves the writ petition fundamentally defective.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1118",
+"year":2026,
+"id":"state-of-maharashtra-v-sudhir-s-o-motiramji-hiwar-2026",
+"added":"2026-10-20"
+},
+{
+"name":"ARCIS Clean Energy Pvt. Ltd. v. Parshva Innovation",
+"date":"2026-10-12",
+"court":"Supreme Court of India",
+"bench":"Manoj Misra, Vijay Bishnoi JJ",
+"subjects":[
+"Arbitration"
+],
+"topic":"Seat and venue",
+"tag":"A named venue does not automatically become the seat of arbitration; the juridical seat is found by reading the arbitration agreement as a whole.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1109",
+"year":2026,
+"id":"arcis-clean-energy-pvt-ltd-v-parshva-innovation-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Haramani Sahoo v. Lalita Nayak",
+"date":"2026-10-12",
+"court":"Supreme Court of India",
+"bench":"B.V. Nagarathna, R. Mahadevan JJ",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Amendment of pleadings",
+"tag":"An Order VI Rule 17 CPC amendment should not be refused at the threshold on limitation when limitation is arguable and turns on disputed facts, such as when the plaintiff learnt of a document.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1112",
+"year":2026,
+"id":"haramani-sahoo-v-lalita-nayak-2026",
+"added":"2026-10-20"
+},
+{
+"name":"Chavan Dharmendar v. State of Telangana",
+"date":"2026-10-12",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Criminal Law"
+],
+"topic":"SC/ST Act – quashing",
+"tag":"A bank's alleged breach of RBI guidelines in dealing with a borrower does not become an SC/ST Act offence merely because the borrower's directors are SC/ST; absent caste-based insult, the FIR was quashed.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"cite":"2026 INSC 1133",
+"year":2026,
+"id":"chavan-dharmendar-v-state-of-telangana-2026",
 "added":"2026-10-20"
 },
 {
@@ -1428,6 +1936,19 @@
 "added":"2026-10-20"
 },
 {
+"name":"Randhir Singh v. Union of India",
+"year":1982,
+"court":"Supreme Court of India",
+"subjects":[
+"Labour Law"
+],
+"topic":"Equal pay for equal work",
+"tag":"Equal pay for equal work, though not an express fundamental right, is a constitutional goal enforceable through Articles 14 and 16 read with Article 39(d)",
+"kind":"landmark",
+"id":"randhir-singh-v-union-of-india-1982",
+"added":"2026-10-20"
+},
+{
 "name":"Machhi Singh v. State of Punjab",
 "cite":"(1983) 3 SCC 470",
 "year":1983,
@@ -1537,6 +2058,19 @@
 "tag":"Divorced Muslim wife can claim maintenance under s.125 CrPC",
 "kind":"landmark",
 "id":"mohd-ahmed-khan-v-shah-bano-begum-1985",
+"added":"2026-10-20"
+},
+{
+"name":"McDowell & Co. Ltd. v. Commercial Tax Officer",
+"year":1985,
+"court":"Supreme Court of India",
+"subjects":[
+"Tax Law"
+],
+"topic":"Tax avoidance",
+"tag":"Colourable devices and dubious methods used to avoid tax are not legitimate tax planning",
+"kind":"landmark",
+"id":"mcdowell-co-ltd-v-commercial-tax-officer-1985",
 "added":"2026-10-20"
 },
 {
@@ -1874,6 +2408,19 @@
 "added":"2026-10-20"
 },
 {
+"name":"Indian Council for Enviro-Legal Action v. Union of India",
+"year":1996,
+"court":"Supreme Court of India",
+"subjects":[
+"Environmental Law"
+],
+"topic":"Polluter pays",
+"tag":"Bichhri case: polluting industries are absolutely liable to pay for restoring the damaged environment under the polluter pays principle",
+"kind":"landmark",
+"id":"indian-council-for-enviro-legal-action-v-union-of-1996",
+"added":"2026-10-20"
+},
+{
 "name":"Vishaka v. State of Rajasthan",
 "cite":"(1997) 6 SCC 241",
 "year":1997,
@@ -2024,6 +2571,19 @@
 "tag":"Upheld 1999/2002 CPC amendments; guidelines on ADR under s.89",
 "kind":"landmark",
 "id":"salem-advocate-bar-association-v-union-of-india-2005",
+"added":"2026-10-20"
+},
+{
+"name":"Central Board of Dawoodi Bohra Community v. State of Maharashtra",
+"year":2005,
+"court":"Supreme Court of India",
+"subjects":[
+"Jurisprudence"
+],
+"topic":"Precedent",
+"tag":"A larger bench's ruling binds benches of lesser or equal strength; a bench that doubts it must refer the question to a larger bench, not overrule it",
+"kind":"landmark",
+"id":"central-board-of-dawoodi-bohra-community-v-state-2005",
 "added":"2026-10-20"
 },
 {
@@ -2507,6 +3067,19 @@
 "tag":"An interested party cannot unilaterally appoint the sole arbitrator",
 "kind":"landmark",
 "id":"perkins-eastman-architects-v-hscc-2019",
+"added":"2026-10-20"
+},
+{
+"name":"Committee of Creditors of Essar Steel India Ltd. v. Satish Kumar Gupta",
+"year":2019,
+"court":"Supreme Court of India",
+"subjects":[
+"Insolvency"
+],
+"topic":"Resolution plans",
+"tag":"The CoC's commercial wisdom in approving a resolution plan is largely non-justiciable; secured and unsecured creditors may be treated differently if fairly",
+"kind":"landmark",
+"id":"committee-of-creditors-of-essar-steel-india-ltd-v-2019",
 "added":"2026-10-20"
 },
 {
