@@ -1,7 +1,7 @@
 // Ratio service worker: app shell cached for offline use; case data fetched fresh when online.
-const SHELL = "ratio-shell-v1";
+const SHELL = "ratio-shell-v2";
 const DATA = "ratio-data";
-const ASSETS = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
+const ASSETS = ["./", "index.html", "styles.css?v=2", "app.js?v=2", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(SHELL).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting())); });
 self.addEventListener("activate", e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== SHELL && k !== DATA).map(k => caches.delete(k)))).then(() => self.clients.claim()));
