@@ -1,6 +1,25 @@
 {
-"updated":"2026-10-20T20:55+05:30",
+"updated":"2026-10-21T07:20+05:30",
 "cases":[
+{
+"name":"Dr. M.K. Ravi Varma v. National Institute of Technology",
+"cite":"2026 LiveLaw (SC) 1019",
+"date":"2026-10-20",
+"reported":"Reported 20 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Sheel Nagu JJ",
+"subjects":[
+"Labour Law",
+"Contract"
+],
+"topic":"Service law – recovery of excess pay",
+"tag":"Teachers who signed undertakings had to repay wrongly granted pay; the Court noted that no-recovery precedents never considered S. 72 of the Contract Act and Article 142 rulings are not binding.",
+"source":"https://www.livelaw.in/top-stories/supreme-court-precedents-barring-recovery-excess-payments-considered-section72-contract-act-555397",
+"kind":"new",
+"year":2026,
+"id":"dr-m-k-ravi-varma-v-national-institute-of-techn-2026",
+"added":"2026-10-21"
+},
 {
 "name":"Suo Motu Civil Reference v. Union of India",
 "cite":"2026 LiveLaw (Ker) 571",
@@ -129,6 +148,133 @@
 "added":"2026-10-20"
 },
 {
+"name":"Danish v. State of U.P.",
+"cite":"2026 LiveLaw (SC) 1065",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Ujjal Bhuyan, Atul S. Chandurkar JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Joint trial",
+"tag":"Separate trial is the rule under S. 218 CrPC (now BNSS); two incidents close in time with the same accused are not one transaction when the places and victims differ, so a joint trial was set aside.",
+"source":"https://www.livelaw.in/supreme-court/mere-proximity-in-time-sameness-of-accused-cant-justify-joint-trial-when-places-of-occurrence-victims-are-different-supreme-court-555166",
+"kind":"new",
+"year":2026,
+"id":"danish-v-state-of-u-p-2026",
+"added":"2026-10-21"
+},
+{
+"name":"Indroneel Goho v. Razouvonuo Thong",
+"cite":"2026 LiveLaw (SC) 1062",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Vikram Nath, Sandeep Mehta JJ",
+"subjects":[
+"Criminal Law",
+"Arbitration"
+],
+"topic":"Cheating – contractual dispute",
+"tag":"An arbitration clause does not by itself bar a criminal case, but cheating (S. 420 IPC / S. 318 BNS) needs dishonest intent at the start; a later breach of an MoU is a civil dispute, so the complaint was quashed.",
+"source":"https://www.livelaw.in/top-stories/arbitration-clause-does-not-bar-criminal-case-supreme-court-555117",
+"kind":"new",
+"year":2026,
+"id":"indroneel-goho-v-razouvonuo-thong-2026",
+"added":"2026-10-21"
+},
+{
+"name":"Najeeb v. State of Kerala",
+"cite":"2026 LiveLaw (Ker) 578",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Kerala High Court",
+"bench":"Jobin Sebastian J",
+"subjects":[
+"Criminal Law",
+"Evidence"
+],
+"topic":"Obscenity – Section 292 IPC",
+"tag":"A conviction for selling obscene CDs cannot rest only on the investigating officer's word; the trial court must itself view the material before deciding it is obscene.",
+"source":"https://www.livelaw.in/high-court/kerala-high-court/livelaw-kerala-high-court-weekly-round-up-october-2026-555351",
+"kind":"new",
+"year":2026,
+"id":"najeeb-v-state-of-kerala-2026",
+"added":"2026-10-21"
+},
+{
+"name":"Preeti Sharma v. State of Madhya Pradesh",
+"cite":"2026 LiveLaw (MP) 417",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Madhya Pradesh High Court",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Article 21 – electricity",
+"tag":"Access to electricity is part of the right to life under Article 21, so an occupier is entitled to a connection even while ownership of the property is in dispute.",
+"source":"https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-weekly-digest-555350",
+"kind":"new",
+"year":2026,
+"id":"preeti-sharma-v-state-of-madhya-pradesh-2026",
+"added":"2026-10-21"
+},
+{
+"name":"Ramnath Mishra v. Special Police Establishment",
+"cite":"2026 LiveLaw (MP) 416",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Madhya Pradesh High Court",
+"subjects":[
+"Criminal Procedure",
+"Criminal Law"
+],
+"topic":"Sanction for prosecution",
+"tag":"The sanctioning authority must apply its own mind to the evidence before allowing prosecution of a public servant, and cannot simply follow the Special Judge's prima facie findings.",
+"source":"https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-weekly-digest-555350",
+"kind":"new",
+"year":2026,
+"id":"ramnath-mishra-v-special-police-establishment-2026",
+"added":"2026-10-21"
+},
+{
+"name":"Devinder Singh v. Union Territory of J&K",
+"cite":"2026 LiveLaw (JKL) 453",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Jammu & Kashmir and Ladakh High Court",
+"subjects":[
+"Criminal Law"
+],
+"topic":"SC/ST Act – victim's status",
+"tag":"Caste abuse of a woman who is not herself a Scheduled Caste member does not attract the SC/ST (Prevention of Atrocities) Act merely because her husband is; bail granted.",
+"source":"https://www.livelaw.in/amp/high-court/jammu-kashmir/jammu-and-kashmir-and-ladakh-high-court-weekly-roundup-october-12-october-18-2026-555336",
+"kind":"new",
+"year":2026,
+"id":"devinder-singh-v-union-territory-of-j-k-2026",
+"added":"2026-10-21"
+},
+{
+"name":"UT of J&K v. Neeru Pandita",
+"cite":"2026 LiveLaw (JKL) 463",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Jammu & Kashmir and Ladakh High Court",
+"bench":"Full Bench",
+"subjects":[
+"Labour Law",
+"Administrative Law"
+],
+"topic":"Regularisation",
+"tag":"Under S. 5 of the J&K Civil Services (Special Provisions) Act, 2010 the right to regularisation accrues when the statutory conditions are met, not on the date of the formal order; the 150-day limit is procedural.",
+"source":"https://www.livelaw.in/amp/high-court/jammu-kashmir/jammu-and-kashmir-and-ladakh-high-court-weekly-roundup-october-12-october-18-2026-555336",
+"kind":"new",
+"year":2026,
+"id":"ut-of-j-k-v-neeru-pandita-2026",
+"added":"2026-10-21"
+},
+{
 "name":"Tejaram v. State of Rajasthan",
 "date":"2026-10-16",
 "court":"Supreme Court of India",
@@ -250,6 +396,24 @@
 "year":2026,
 "id":"r-saravanan-v-periyar-university-2026",
 "added":"2026-10-20"
+},
+{
+"name":"S. Gururaj v. Additional Chief Secretary",
+"cite":"2026 INSC 1146",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"S.V.N. Bhatti, N.V. Anjaria JJ",
+"subjects":[
+"Environmental Law",
+"Property Law"
+],
+"topic":"Water bodies – encroachment",
+"tag":"Reclassifying land as mixed-residential in a zoning plan does not wipe out the State's rights over a water body; demolition of flats built on it was upheld once an alternative site had been allotted.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"year":2026,
+"id":"s-gururaj-v-additional-chief-secretary-2026",
+"added":"2026-10-21"
 },
 {
 "name":"YES Bank Ltd. v. Axis Trustee Services Ltd.",
@@ -457,6 +621,41 @@
 "added":"2026-10-20"
 },
 {
+"name":"Sanjay Prasad v. Madhusudan Dwivedi",
+"cite":"2026 INSC 1128",
+"date":"2026-10-14",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Sheel Nagu JJ",
+"subjects":[
+"Constitutional Law",
+"Civil Procedure"
+],
+"topic":"Article 226 – intra-court appeal",
+"tag":"Referred to a larger bench whether writ jurisdiction under Article 226 can be labelled civil or criminal, a question that decides whether an intra-court (Letters Patent) appeal is barred.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"year":2026,
+"id":"sanjay-prasad-v-madhusudan-dwivedi-2026",
+"added":"2026-10-21"
+},
+{
+"name":"District Court Bar Association v. State of Kerala",
+"cite":"2026 LiveLaw (Ker) 583",
+"date":"2026-10-14",
+"court":"Kerala High Court",
+"bench":"Soumen Sen CJ, Syam Kumar V.M. J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"POCSO – Special Public Prosecutors",
+"tag":"The State must appoint Special Public Prosecutors who handle only POCSO cases within six weeks, instead of loading them with other juvenile justice work.",
+"source":"https://www.livelaw.in/high-court/kerala-high-court/livelaw-kerala-high-court-weekly-round-up-october-2026-555351",
+"kind":"new",
+"year":2026,
+"id":"district-court-bar-association-v-state-of-kerala-2026",
+"added":"2026-10-21"
+},
+{
 "name":"Agri S.S. Krishnamurthy v. Speaker, Tamil Nadu Legislative Assembly",
 "cite":"2026 SCC OnLine Mad 9277",
 "date":"2026-10-13",
@@ -489,6 +688,24 @@
 "year":2026,
 "id":"state-of-maharashtra-v-sudhir-s-o-motiramji-hiwar-2026",
 "added":"2026-10-20"
+},
+{
+"name":"Kusumlal Sao v. State of Chhattisgarh",
+"cite":"2026 INSC 1148",
+"date":"2026-10-13",
+"court":"Supreme Court of India",
+"bench":"Manoj Misra, Vijay Bishnoi JJ",
+"subjects":[
+"Criminal Law",
+"Evidence"
+],
+"topic":"Circumstantial evidence",
+"tag":"Murder and evidence-tampering convictions set aside: the chain of circumstances was broken and, given the deceased's history of substance abuse, the defence theory of an accident was a probable one.",
+"source":"https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302",
+"kind":"new",
+"year":2026,
+"id":"kusumlal-sao-v-state-of-chhattisgarh-2026",
+"added":"2026-10-21"
 },
 {
 "name":"ARCIS Clean Energy Pvt. Ltd. v. Parshva Innovation",
@@ -540,6 +757,24 @@
 "year":2026,
 "id":"chavan-dharmendar-v-state-of-telangana-2026",
 "added":"2026-10-20"
+},
+{
+"name":"Hardev Construction Pvt. Ltd. v. Union of India",
+"cite":"2026 LiveLaw (SC) 1066; 2026 INSC 1110",
+"date":"2026-10-12",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Administrative Law",
+"Contract"
+],
+"topic":"Tenders – impossible conditions",
+"tag":"A tendering authority cannot reject a bid for not meeting a tender condition that was plainly impossible to comply with; the Patna HC order upholding the rejection was set aside.",
+"source":"https://www.livelaw.in/supreme-court/cant-insist-compliance-with-impossible-tender-conditions-supreme-court-555168",
+"kind":"new",
+"year":2026,
+"id":"hardev-construction-pvt-ltd-v-union-of-india-2026",
+"added":"2026-10-21"
 },
 {
 "name":"Renuka Jain v. State of NCT of Delhi",
@@ -1826,6 +2061,22 @@
 "added":"2026-10-20"
 },
 {
+"name":"Excel Wear v. Union of India",
+"cite":"(1978) 4 SCC 224",
+"year":1978,
+"court":"Supreme Court of India",
+"subjects":[
+"Labour Law",
+"Constitutional Law"
+],
+"topic":"Closure of undertakings",
+"tag":"Struck down the original S. 25-O of the Industrial Disputes Act: the right to close a business is part of Article 19(1)(g), and limits on it cannot make the right illusory.",
+"source":"https://www.scconline.com/blog/post/2025/07/05/right-to-trade-vs-worker-protection-industrial-closure/",
+"kind":"landmark",
+"id":"excel-wear-v-union-of-india-1978",
+"added":"2026-10-21"
+},
+{
 "name":"Hussainara Khatoon v. State of Bihar",
 "cite":"(1980) 1 SCC 81",
 "year":1979,
@@ -2072,6 +2323,20 @@
 "kind":"landmark",
 "id":"mcdowell-co-ltd-v-commercial-tax-officer-1985",
 "added":"2026-10-20"
+},
+{
+"name":"Rural Litigation and Entitlement Kendra v. State of U.P.",
+"year":1985,
+"court":"Supreme Court of India",
+"subjects":[
+"Environmental Law"
+],
+"topic":"Mining and ecology – Doon Valley",
+"tag":"India's first environmental PIL: the Court ordered limestone quarries in the Doon Valley shut down, putting ecological balance ahead of mining interests.",
+"source":"https://en.wikipedia.org/wiki/Rural_Litigation_and_Entitlement_Kendra",
+"kind":"landmark",
+"id":"rural-litigation-and-entitlement-kendra-v-state-o-1985",
+"added":"2026-10-21"
 },
 {
 "name":"M.C. Mehta v. Union of India (Oleum Gas Leak)",
@@ -2532,6 +2797,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Union of India v. Azadi Bachao Andolan",
+"year":2003,
+"court":"Supreme Court of India",
+"subjects":[
+"Tax Law"
+],
+"topic":"Tax treaties – Mauritius route",
+"tag":"Upheld the CBDT circular accepting a Mauritius tax residency certificate as enough to claim benefits under the India–Mauritius treaty, reversing the Delhi HC which had quashed it.",
+"source":"https://nishithdesai.com/research-and-articles/hotline/tax-hotline/supreme-court-upholds-the-india-mauritius-tax-treaty-5257",
+"kind":"landmark",
+"id":"union-of-india-v-azadi-bachao-andolan-2003",
+"added":"2026-10-21"
+},
+{
 "name":"Zahira Habibullah Sheikh v. State of Gujarat",
 "cite":"(2004) 4 SCC 158",
 "year":2004,
@@ -2962,6 +3241,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Innoventive Industries Ltd. v. ICICI Bank",
+"year":2017,
+"court":"Supreme Court of India",
+"subjects":[
+"Insolvency"
+],
+"topic":"Section 7 IBC – admission",
+"tag":"First major IBC ruling: once the NCLT finds a financial debt in default it must admit a complete S. 7 application, a dispute does not stop it, and the IBC prevails over the Maharashtra relief undertakings law.",
+"source":"https://barandbench.com/supreme-court-ibc-innoventive-vs-icici/",
+"kind":"landmark",
+"id":"innoventive-industries-ltd-v-icici-bank-2017",
+"added":"2026-10-21"
+},
+{
 "name":"Navtej Singh Johar v. Union of India",
 "cite":"(2018) 10 SCC 1",
 "year":2018,
@@ -3151,6 +3444,21 @@
 "kind":"landmark",
 "id":"rajnesh-v-neha-2020",
 "added":"2026-10-20"
+},
+{
+"name":"Vidya Drolia v. Durga Trading Corporation",
+"year":2020,
+"court":"Supreme Court of India",
+"bench":"Three-judge bench",
+"subjects":[
+"Arbitration"
+],
+"topic":"Arbitrability",
+"tag":"Set out tests for when disputes are not arbitrable (in rem rights, erga omnes effect, sovereign functions, statutory bar); held tenancy disputes under the TP Act arbitrable, overruling Himangni; 'when in doubt, refer'.",
+"source":"https://blog.ipleaders.in/case-analysis-vidya-drolia-and-ors-vs-durga-trading-corp/",
+"kind":"landmark",
+"id":"vidya-drolia-v-durga-trading-corporation-2020",
+"added":"2026-10-21"
 },
 {
 "name":"Tata Consultancy Services v. Cyrus Investments",
