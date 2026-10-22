@@ -1,6 +1,24 @@
 {
-"updated":"2026-10-21T07:20+05:30",
+"updated":"2026-10-22T07:20+05:30",
 "cases":[
+{
+"name":"Yuvajana Sramika Rythu Congress Party v. State of Andhra Pradesh",
+"cite":"2026 LiveLaw (SC) 1075",
+"date":"2026-10-21",
+"court":"Supreme Court of India",
+"bench":"Joymalya Bagchi, V. Mohana JJ",
+"subjects":[
+"Constitutional Law",
+"Election Law"
+],
+"topic":"Judicial interference in elections",
+"tag":"Interim order: courts normally keep out of an ongoing election, but may step in when muscle power or illegal means block free nominations; the SEC under Art. 243ZA must ensure candidates can file unhindered.",
+"source":"https://www.livelaw.in/amp/top-stories/courts-hands-arent-tied-to-interfere-when-free-fair-elections-are-polluted-by-unconstitutional-or-illegal-means-supreme-court-555506",
+"kind":"new",
+"year":2026,
+"id":"yuvajana-sramika-rythu-congress-party-v-state-of-2026",
+"added":"2026-10-22"
+},
 {
 "name":"Dr. M.K. Ravi Varma v. National Institute of Technology",
 "cite":"2026 LiveLaw (SC) 1019",
@@ -273,6 +291,128 @@
 "year":2026,
 "id":"ut-of-j-k-v-neeru-pandita-2026",
 "added":"2026-10-21"
+},
+{
+"name":"Saradindu Chakravarty v. Union of India",
+"cite":"2026 LiveLaw (AP) 242",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Andhra Pradesh High Court",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"National Commission for Scheduled Castes",
+"tag":"The National Commission for Scheduled Castes only advises and recommends; it has no power to adjudicate and so cannot declare an FIR to be false.",
+"source":"https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-555362",
+"kind":"new",
+"year":2026,
+"id":"saradindu-chakravarty-v-union-of-india-2026",
+"added":"2026-10-22"
+},
+{
+"name":"Perivemula Venkateswarlu v. Mediga Anjaiah",
+"cite":"2026 LiveLaw (AP) 243",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Andhra Pradesh High Court",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Temporary injunction",
+"tag":"A temporary injunction must record reasons on prima facie case, balance of convenience and irreparable loss; status quo cannot be ordered without first finding who was in possession before the suit.",
+"source":"https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-555362",
+"kind":"new",
+"year":2026,
+"id":"perivemula-venkateswarlu-v-mediga-anjaiah-2026",
+"added":"2026-10-22"
+},
+{
+"name":"Yarragorla Itukanalu v. State of Andhra Pradesh",
+"cite":"2026 LiveLaw (AP) 247",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Andhra Pradesh High Court",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Refusal to register FIR",
+"tag":"Where police refuse to register an FIR, the complainant should first go to the SP and then the Magistrate under S. 175(3) BNSS before seeking a writ under Art. 226, unless real urgency exists.",
+"source":"https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-555362",
+"kind":"new",
+"year":2026,
+"id":"yarragorla-itukanalu-v-state-of-andhra-pradesh-2026",
+"added":"2026-10-22"
+},
+{
+"name":"Royal Sundaram Alliance Insurance Co. Ltd. v. Purama Raghavamma",
+"cite":"2026 LiveLaw (AP) 248",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Andhra Pradesh High Court",
+"bench":"Balaji Medamalli J",
+"subjects":[
+"Torts"
+],
+"topic":"Motor accident claims / transfer of policy",
+"tag":"An insurer cannot escape paying accident compensation merely because the policy was not transferred to the vehicle's new owner, if the policy was in force on the accident date (S. 157 MV Act).",
+"source":"https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-555362",
+"kind":"new",
+"year":2026,
+"id":"royal-sundaram-alliance-insurance-co-ltd-v-pura-2026",
+"added":"2026-10-22"
+},
+{
+"name":"A. Amaranadh Babu v. Marreddy Anjaneya Reddy",
+"cite":"2026 LiveLaw (AP) 250",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Andhra Pradesh High Court",
+"subjects":[
+"Commercial Law",
+"Criminal Law"
+],
+"topic":"S. 138 NI Act demand notice",
+"tag":"A S. 138 NI Act notice is valid if, read as a whole, it clearly demands the cheque amount; it need not repeat the figure in its closing paragraph.",
+"source":"https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-555362",
+"kind":"new",
+"year":2026,
+"id":"a-amaranadh-babu-v-marreddy-anjaneya-reddy-2026",
+"added":"2026-10-22"
+},
+{
+"name":"Mohammad Yusuf Mohammad Punjani v. Gujarat State Waqf Board",
+"cite":"2026 LiveLaw (Guj) 284",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Gujarat High Court",
+"subjects":[
+"Property Law"
+],
+"topic":"Waqf Tribunal jurisdiction",
+"tag":"The State Waqf Tribunal's powers are adjudicatory only; it cannot exercise supervisory control over how the Waqf Board manages a waqf.",
+"source":"https://www.livelaw.in/high-court/gujarat-high-court/livelaw-gujarat-high-court-weekly-round-up-555348",
+"kind":"new",
+"year":2026,
+"id":"mohammad-yusuf-mohammad-punjani-v-gujarat-state-w-2026",
+"added":"2026-10-22"
+},
+{
+"name":"United India Insurance Co. Ltd. v. Chandrakant Vishandas Harwani",
+"cite":"2026 LiveLaw (Guj) 287",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Gujarat High Court",
+"bench":"N.S. Sanjay Gowda, J.L. Odedra JJ",
+"subjects":[
+"Torts"
+],
+"topic":"Motor accident claims / goods vehicle",
+"tag":"An owner of goods travelling with them in a goods vehicle is not a gratuitous passenger, so the insurer must pay for his injuries; compensation was also enhanced.",
+"source":"https://www.livelaw.in/high-court/gujarat-high-court/livelaw-gujarat-high-court-weekly-round-up-555348",
+"kind":"new",
+"year":2026,
+"id":"united-india-insurance-co-ltd-v-chandrakant-vis-2026",
+"added":"2026-10-22"
 },
 {
 "name":"Tejaram v. State of Rajasthan",
@@ -1037,6 +1177,23 @@
 "added":"2026-10-20"
 },
 {
+"name":"M/s JPEE Drugs v. State of Madhya Pradesh",
+"cite":"2026 INSC 1143",
+"date":"2026-10-06",
+"court":"Supreme Court of India",
+"bench":"Vikram Nath, Augustine George Masih, Sandeep Mehta JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Blacklisting / drug quality",
+"tag":"If the State's own delay or failure to draw a second sample robs a supplier of a real chance to retest a drug batch, blacklisting or debarment resting on the disputed test report cannot stand.",
+"source":"https://www.verdictum.in/supreme-court/ms-jpee-drugs-v-state-of-madhya-pradesh-2026-insc-1143-administrative-and-contractual-blacklisting-drug-sample-1624280",
+"kind":"new",
+"year":2026,
+"id":"m-s-jpee-drugs-v-state-of-madhya-pradesh-2026",
+"added":"2026-10-22"
+},
+{
 "name":"Ajit Kumar v. State of Jharkhand",
 "cite":"2026 LiveLaw (SC) 1023",
 "date":"2026-10-05",
@@ -1767,6 +1924,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Kedar Nath Singh v. State of Bihar",
+"cite":"AIR 1962 SC 955",
+"year":1962,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Sedition (S. 124A IPC)",
+"tag":"Upheld S. 124A IPC only by reading it down: criticism of government, however strong, is not sedition unless it incites violence or tends to cause public disorder.",
+"kind":"landmark",
+"id":"kedar-nath-singh-v-state-of-bihar-1962",
+"added":"2026-10-22"
+},
+{
 "name":"Ridge v. Baldwin",
 "cite":"[1964] AC 40",
 "year":1963,
@@ -2451,6 +2622,20 @@
 }
 },
 {
+"name":"Kihoto Hollohan v. Zachillhu",
+"cite":"1992 Supp (2) SCC 651",
+"year":1992,
+"court":"Supreme Court of India",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Anti-defection law / Tenth Schedule",
+"tag":"Upheld the Tenth Schedule, but the Speaker deciding disqualification acts as a tribunal whose decision is open to judicial review; Para 7, which barred courts, was struck down for want of ratification.",
+"kind":"landmark",
+"id":"kihoto-hollohan-v-zachillhu-1992",
+"added":"2026-10-22"
+},
+{
 "name":"Supreme Court Advocates-on-Record Assn. v. Union of India",
 "cite":"(1993) 4 SCC 441",
 "year":1993,
@@ -2755,6 +2940,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Kunhayammed v. State of Kerala",
+"cite":"(2000) 6 SCC 359",
+"year":2000,
+"court":"Supreme Court of India",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Doctrine of merger",
+"tag":"Dismissing an SLP at the leave stage, even with reasons, does not merge the lower order into the Supreme Court's; merger follows only once leave is granted and the appeal is decided.",
+"kind":"landmark",
+"id":"kunhayammed-v-state-of-kerala-2000",
+"added":"2026-10-22"
+},
+{
 "name":"Danial Latifi v. Union of India",
 "cite":"(2001) 7 SCC 740",
 "year":2001,
@@ -2864,6 +3063,20 @@
 "kind":"landmark",
 "id":"central-board-of-dawoodi-bohra-community-v-state-2005",
 "added":"2026-10-20"
+},
+{
+"name":"State (NCT of Delhi) v. Navjot Sandhu",
+"cite":"(2005) 11 SCC 600",
+"year":2005,
+"court":"Supreme Court of India",
+"subjects":[
+"Evidence"
+],
+"topic":"Electronic evidence / confessions (Parliament attack case)",
+"tag":"Parliament attack appeal: allowed secondary evidence of call records without a S. 65B certificate and examined POTA confessions; the S. 65B point was later overruled in Anvar P.V. v. P.K. Basheer.",
+"kind":"landmark",
+"id":"state-nct-of-delhi-v-navjot-sandhu-2005",
+"added":"2026-10-22"
 },
 {
 "name":"Secretary, State of Karnataka v. Umadevi",
@@ -3018,6 +3231,20 @@
 "kind":"landmark",
 "id":"bharat-aluminium-co-v-kaiser-aluminium-2012",
 "added":"2026-10-20"
+},
+{
+"name":"Sanjay Chandra v. CBI",
+"cite":"(2012) 1 SCC 40",
+"year":2012,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Bail in economic offences",
+"tag":"Bail is not to be refused as punishment before conviction; the gravity of an economic offence alone cannot justify long pre-trial detention once custody is no longer needed (2G case).",
+"kind":"landmark",
+"id":"sanjay-chandra-v-cbi-2012",
+"added":"2026-10-22"
 },
 {
 "name":"Lalita Kumari v. Government of Uttar Pradesh",
