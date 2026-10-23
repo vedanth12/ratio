@@ -1,6 +1,23 @@
 {
-"updated":"2026-10-22T07:20+05:30",
+"updated":"2026-10-23T07:19+05:30",
 "cases":[
+{
+"name":"Bipin Satish Chandra Agrwal v. State of Maharashtra",
+"date":"2026-10-22",
+"court":"Bombay High Court",
+"bench":"Ajay Gadkari, Kamal Khata JJ",
+"subjects":[
+"Criminal Procedure",
+"Constitutional Law"
+],
+"topic":"Illegal arrest – compensation",
+"tag":"Arrest for an offence under three years without S. 41-A CrPC compliance and mechanical remand without reasons is illegal; State to pay Rs 5 lakh, act against the officers and refer the magistrate's role.",
+"source":"https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-orders-5-lakh-compensation-for-illegal-arrest-directs-action-against-police-magistrate-555654",
+"kind":"new",
+"year":2026,
+"id":"bipin-satish-chandra-agrwal-v-state-of-maharashtr-2026",
+"added":"2026-10-23"
+},
 {
 "name":"Yuvajana Sramika Rythu Congress Party v. State of Andhra Pradesh",
 "cite":"2026 LiveLaw (SC) 1075",
@@ -18,6 +35,38 @@
 "year":2026,
 "id":"yuvajana-sramika-rythu-congress-party-v-state-of-2026",
 "added":"2026-10-22"
+},
+{
+"name":"Pinarayi Vijayan v. K.M. Shajahan",
+"date":"2026-10-21",
+"court":"Supreme Court of India",
+"bench":"Joymalya Bagchi, V. Mohana JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"FIR ordered by court – standing of accused; S. 175(4) BNSS",
+"tag":"Interim order: persons named in an FIR that a court ordered can appeal that order; the Court noted S. 175(4) BNSS, unlike S. 156(3) CrPC, requires a superior's report and the public servant's version first.",
+"source":"https://www.verdictum.in/supreme-court/stays-investigation-in-fir-against-pinarayi-vijayan-kin-for-one-week-1624377",
+"kind":"new",
+"year":2026,
+"id":"pinarayi-vijayan-v-k-m-shajahan-2026",
+"added":"2026-10-23"
+},
+{
+"name":"Bharat Kumar v. State of Bihar",
+"date":"2026-10-21",
+"reported":"Reported 21 Oct 2026",
+"court":"Patna High Court",
+"subjects":[
+"Criminal Law"
+],
+"topic":"NDPS – codeine cough syrup",
+"tag":"Codeine cough syrup within the Centre's permitted concentration limits is a matter for the Drugs and Cosmetics Act, not the NDPS Act; the Court faulted police for routinely booking such seizures under NDPS.",
+"source":"https://www.barandbench.com/news/litigation/police-misusing-ndps-act-in-cases-involving-codeine-cough-syrup-patna-high-court",
+"kind":"new",
+"year":2026,
+"id":"bharat-kumar-v-state-of-bihar-2026",
+"added":"2026-10-23"
 },
 {
 "name":"Dr. M.K. Ravi Varma v. National Institute of Technology",
@@ -415,6 +464,80 @@
 "added":"2026-10-22"
 },
 {
+"name":"L v. B",
+"cite":"2026 LiveLaw (Raj) 430",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Rajasthan High Court",
+"bench":"Sudesh Bansal, Ravi Chirania JJ",
+"subjects":[
+"Family Law"
+],
+"topic":"Hindu Marriage Act – Scheduled Tribes",
+"tag":"A Scheduled Tribe couple who admit marrying by Hindu rites can seek mutual-consent divorce under the HMA; the Family Court could not demand proof of dissolution under tribal custom.",
+"source":"https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-weekly-roundup-555424",
+"kind":"new",
+"year":2026,
+"id":"l-v-b-2026",
+"added":"2026-10-23"
+},
+{
+"name":"Kashif Khan v. High Court of Judicature for Rajasthan",
+"cite":"2026 LiveLaw (Raj) 432",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Rajasthan High Court",
+"bench":"Sanjay K. Agrawal CJ, Baljinder Singh Sandhu J",
+"subjects":[
+"Administrative Law",
+"Labour Law"
+],
+"topic":"Recruitment – waiting list",
+"tag":"Posts left vacant by non-joining or later resignation are fresh vacancies to be filled by new recruitment; wait-listed candidates have no automatic right to them.",
+"source":"https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-weekly-roundup-555424",
+"kind":"new",
+"year":2026,
+"id":"kashif-khan-v-high-court-of-judicature-for-rajast-2026",
+"added":"2026-10-23"
+},
+{
+"name":"Vikram Singh v. State of Rajasthan",
+"cite":"2026 LiveLaw (Raj) 434",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Rajasthan High Court",
+"bench":"Anand Sharma J",
+"subjects":[
+"Labour Law",
+"Criminal Law"
+],
+"topic":"Non-disclosure of conviction – probation",
+"tag":"Release on probation lifts the disqualification under S. 12 Probation of Offenders Act; non-disclosure of that conviction does not automatically justify dismissal without weighing the circumstances.",
+"source":"https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-weekly-roundup-555424",
+"kind":"new",
+"year":2026,
+"id":"vikram-singh-v-state-of-rajasthan-2026",
+"added":"2026-10-23"
+},
+{
+"name":"Monu Mohammed v. State of Rajasthan",
+"cite":"2026 LiveLaw (Raj) 437",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Rajasthan High Court",
+"bench":"Farjand Ali J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Private defence – excess",
+"tag":"Whether private defence was exceeded is judged from the accused's position facing imminent danger, not by calm hindsight or by counting injuries in isolation.",
+"source":"https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-weekly-roundup-555424",
+"kind":"new",
+"year":2026,
+"id":"monu-mohammed-v-state-of-rajasthan-2026",
+"added":"2026-10-23"
+},
+{
 "name":"Tejaram v. State of Rajasthan",
 "date":"2026-10-16",
 "court":"Supreme Court of India",
@@ -554,6 +677,24 @@
 "year":2026,
 "id":"s-gururaj-v-additional-chief-secretary-2026",
 "added":"2026-10-21"
+},
+{
+"name":"Mahesh Chandra Joshi v. State of Rajasthan",
+"cite":"2026 LiveLaw (SC) 1076",
+"date":"2026-10-16",
+"court":"Supreme Court of India",
+"bench":"Dipankar Datta, Sheel Nagu JJ",
+"subjects":[
+"Criminal Procedure",
+"Constitutional Law"
+],
+"topic":"Bail – prolonged undertrial custody",
+"tag":"Serious allegations alone cannot justify indefinite custody; once the probe is done, evidence is documentary and trial is far off, continued detention becomes punishment without trial and breaches Art. 21.",
+"source":"https://lawchakra.in/supreme-court/jal-jeevan-tender-bail/",
+"kind":"new",
+"year":2026,
+"id":"mahesh-chandra-joshi-v-state-of-rajasthan-2026",
+"added":"2026-10-23"
 },
 {
 "name":"YES Bank Ltd. v. Axis Trustee Services Ltd.",
@@ -848,6 +989,22 @@
 "added":"2026-10-21"
 },
 {
+"name":"Shaji v. State of Kerala",
+"date":"2026-10-13",
+"court":"Kerala High Court",
+"bench":"A. Badharudeen J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"POCSO – penetrative sexual assault",
+"tag":"Placing the penis on a child's genitals is not mere touch under S. 7 POCSO but penetrative assault under S. 3; under S. 42 only the higher POCSO sentence applies, not a separate S. 376AB IPC term.",
+"source":"https://lawtrend.in/placing-penis-on-childs-vagina-is-not-mere-touch-amounts-to-penetrative-sexual-assault-under-pocso-kerala-high-court/",
+"kind":"new",
+"year":2026,
+"id":"shaji-v-state-of-kerala-2026",
+"added":"2026-10-23"
+},
+{
 "name":"ARCIS Clean Energy Pvt. Ltd. v. Parshva Innovation",
 "date":"2026-10-12",
 "court":"Supreme Court of India",
@@ -1108,6 +1265,24 @@
 "year":2026,
 "id":"ramkrushna-prahlad-dongardive-v-state-of-maharash-2026",
 "added":"2026-10-20"
+},
+{
+"name":"Modern Asset v. KNK Constructions Pvt. Ltd.",
+"cite":"2026 INSC 1103",
+"date":"2026-10-08",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Insolvency",
+"Arbitration"
+],
+"topic":"Clean slate – set-off in post-CIRP arbitration",
+"tag":"An operational creditor's claim extinguished under S. 31 IBC cannot yield any recovery, but may be pleaded as set-off, up to its full amount, against the resolution applicant's arbitral claim for pre-CIRP dues.",
+"source":"https://indiankanoon.org/doc/21698478/",
+"kind":"new",
+"year":2026,
+"id":"modern-asset-v-knk-constructions-pvt-ltd-2026",
+"added":"2026-10-23"
 },
 {
 "name":"MEPCO Industries Ltd. v. Commissioner of Income Tax",
@@ -1952,6 +2127,22 @@
 "added":"2026-10-20"
 },
 {
+"name":"Fateh Chand v. Balkishan Das",
+"cite":"AIR 1963 SC 1405",
+"year":1963,
+"court":"Supreme Court of India",
+"bench":"B.P. Sinha CJ, P.B. Gajendragadkar, K.N. Wanchoo, K.C. Das Gupta, J.C. Shah JJ",
+"subjects":[
+"Contract"
+],
+"topic":"Penalty and liquidated damages – S. 74",
+"tag":"S. 74 also covers clauses forfeiting money already paid; only reasonable compensation up to the stipulated sum is recoverable, without proof of exact loss but only where legal injury exists.",
+"source":"https://api.sci.gov.in/jonew/judis/3634.pdf",
+"kind":"landmark",
+"id":"fateh-chand-v-balkishan-das-1963",
+"added":"2026-10-23"
+},
+{
 "name":"State of Maharashtra v. M.H. George",
 "cite":"AIR 1965 SC 722",
 "year":1964,
@@ -2006,6 +2197,23 @@
 "kind":"landmark",
 "id":"kasturilal-ralia-ram-jain-v-state-of-u-p-1965",
 "added":"2026-10-20"
+},
+{
+"name":"Bhaurao Shankar Lokhande v. State of Maharashtra",
+"cite":"AIR 1965 SC 1564",
+"year":1965,
+"court":"Supreme Court of India",
+"bench":"Raghubar Dayal, J.R. Mudholkar, V. Ramaswami JJ",
+"subjects":[
+"Family Law",
+"Criminal Law"
+],
+"topic":"Bigamy – solemnisation",
+"tag":"Bigamy under S. 494 IPC needs a second marriage solemnised with the essential ceremonies, such as saptapadi, unless custom validly dispenses with them.",
+"source":"https://bnblegal.com/landmark/bhaurao-shankar-lokhande-anr-v-state-of-maharashtra-anr/",
+"kind":"landmark",
+"id":"bhaurao-shankar-lokhande-v-state-of-maharashtra-1965",
+"added":"2026-10-23"
 },
 {
 "name":"Bhagwandas Goverdhandas Kedia v. Girdharilal Parshottamdas",
@@ -2106,6 +2314,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Shyam Sunder v. State of Rajasthan",
+"year":1974,
+"court":"Supreme Court of India",
+"subjects":[
+"Torts"
+],
+"topic":"Res ipsa loquitur – State liability",
+"tag":"A State truck catching fire on the road spoke of negligence; with no proof of proper upkeep the State was vicariously liable, as famine relief was not a sovereign function.",
+"source":"https://blog.ipleaders.in/shyam-sunder-vs-state-of-rajasthan-1974/",
+"kind":"landmark",
+"id":"shyam-sunder-v-state-of-rajasthan-1974",
+"added":"2026-10-23"
+},
+{
 "name":"Indira Nehru Gandhi v. Raj Narain",
 "cite":"1975 Supp SCC 1",
 "year":1975,
@@ -2160,6 +2382,22 @@
 "kind":"landmark",
 "id":"v-tulasamma-v-sesha-reddy-1977",
 "added":"2026-10-20"
+},
+{
+"name":"Mohinder Singh Gill v. Chief Election Commissioner",
+"cite":"(1978) 1 SCC 405",
+"year":1977,
+"court":"Supreme Court of India",
+"subjects":[
+"Administrative Law",
+"Constitutional Law"
+],
+"topic":"Reasons for orders – Election Commission powers",
+"tag":"A statutory order stands or falls on the reasons it states, which cannot be improved by later affidavits; the EC's Art. 324 powers fill gaps but cannot override the RP Act.",
+"source":"https://www.lawgratis.com/blog-detail/mohinder-singh-gill-vs-chief-election-commissioner-1978",
+"kind":"landmark",
+"id":"mohinder-singh-gill-v-chief-election-commissioner-1977",
+"added":"2026-10-23"
 },
 {
 "name":"Maneka Gandhi v. Union of India",
@@ -3133,6 +3371,22 @@
 "kind":"landmark",
 "id":"eastern-book-company-v-d-b-modak-2007",
 "added":"2026-10-20"
+},
+{
+"name":"Hemaji Waghaji Jat v. Bhikhabhai Khengarbhai Harijan",
+"cite":"(2009) 16 SCC 517",
+"year":2008,
+"court":"Supreme Court of India",
+"bench":"Dalveer Bhandari, Harjit Singh Bedi JJ",
+"subjects":[
+"Property Law"
+],
+"topic":"Adverse possession",
+"tag":"Adverse possession must be pleaded and shown to be open, continuous and hostile with intent to own; long possession alone is not enough. The Court urged Parliament to rethink the doctrine.",
+"source":"https://future.indiankanoon.org/doc/702009",
+"kind":"landmark",
+"id":"hemaji-waghaji-jat-v-bhikhabhai-khengarbhai-harij-2008",
+"added":"2026-10-23"
 },
 {
 "name":"Selvi v. State of Karnataka",
