@@ -1,6 +1,23 @@
 {
-"updated":"2026-10-23T07:19+05:30",
+"updated":"2026-10-24T07:25+05:30",
 "cases":[
+{
+"name":"Neha v. State (Neha Bora)",
+"date":"2026-10-23",
+"court":"Delhi High Court",
+"bench":"Subramonium Prasad J",
+"subjects":[
+"Criminal Procedure",
+"Constitutional Law"
+],
+"topic":"Security for keeping peace – Ss. 126, 130, 135 BNSS",
+"tag":"Writ court will not test an Executive Magistrate's subjective satisfaction behind a peace-bond notice; but all material must be disclosed and an interim bond under S. 135 needs a real apprehension of breach.",
+"source":"https://www.barandbench.com/news/litigation/sem-notice-asking-neha-bora-to-sign-peace-bond-not-based-on-mere-hearsay-delhi-high-court",
+"kind":"new",
+"year":2026,
+"id":"neha-v-state-neha-bora-2026",
+"added":"2026-10-24"
+},
 {
 "name":"Bipin Satish Chandra Agrwal v. State of Maharashtra",
 "date":"2026-10-22",
@@ -17,6 +34,22 @@
 "year":2026,
 "id":"bipin-satish-chandra-agrwal-v-state-of-maharashtr-2026",
 "added":"2026-10-23"
+},
+{
+"name":"P.A. Inamdar v. State of Maharashtra",
+"date":"2026-10-22",
+"court":"Bombay High Court",
+"bench":"Milind N. Jadhav J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Death by negligence – S. 304A IPC (S. 106 BNS)",
+"tag":"College teachers are not criminally liable under S. 304A IPC for adult students drowning at a public beach on a picnic: no proximate rashness, and the event was beyond their control. FIR quashed.",
+"source":"https://www.barandbench.com/news/bombay-high-court-quashes-fir-against-pune-college-principal-teachers-over-murud-beach-tragedy",
+"kind":"new",
+"year":2026,
+"id":"p-a-inamdar-v-state-of-maharashtra-2026",
+"added":"2026-10-24"
 },
 {
 "name":"Yuvajana Sramika Rythu Congress Party v. State of Andhra Pradesh",
@@ -817,6 +850,24 @@
 "added":"2026-10-20"
 },
 {
+"name":"Mahammed Hanif v. State of Karnataka",
+"date":"2026-10-15",
+"reported":"Reported 23 Oct 2026",
+"court":"Karnataka High Court",
+"bench":"H.P. Sandesh J",
+"subjects":[
+"Criminal Law",
+"Constitutional Law"
+],
+"topic":"Criticising a judgment – Ss. 153A, 295A IPC",
+"tag":"Posters calling a Supreme Court verdict a 'denial of justice' are protected dissent; S. 153A is judged by the effect on reasonable people at large, not on a few. FIR quashed.",
+"source":"https://www.barandbench.com/news/litigation/karnataka-high-court-quashes-fir-against-persons-who-put-up-posters-terming-supreme-court-judgment-a-denial-of-justice",
+"kind":"new",
+"year":2026,
+"id":"mahammed-hanif-v-state-of-karnataka-2026",
+"added":"2026-10-24"
+},
+{
 "name":"Commissioner of Central Tax v. Sreenivasa Rao Ravinuthala",
 "cite":"2026 SCC OnLine SC 2150",
 "date":"2026-10-14",
@@ -935,6 +986,24 @@
 "year":2026,
 "id":"district-court-bar-association-v-state-of-kerala-2026",
 "added":"2026-10-21"
+},
+{
+"name":"Abhishek Upadhyay v. State of Uttar Pradesh",
+"cite":"2026 LiveLaw (SC) 1080",
+"date":"2026-10-14",
+"court":"Supreme Court of India",
+"bench":"Surya Kant CJI, Joymalya Bagchi J",
+"subjects":[
+"Criminal Procedure",
+"Constitutional Law"
+],
+"topic":"Police demand for personal digital data",
+"tag":"Police cannot seek a person's private digital data for the period before the alleged offence; after an FIR such data may be sought only if other ways of tracing the accused fail. Notice to X quashed.",
+"source":"https://www.livelaw.in/top-stories/supreme-court-quashes-uttar-pradesh-police-notice-to-x-twitter-journalist-abhishek-upadhyay-digital-data-ram-mandir-donation-theft-row-554634",
+"kind":"new",
+"year":2026,
+"id":"abhishek-upadhyay-v-state-of-uttar-pradesh-2026",
+"added":"2026-10-24"
 },
 {
 "name":"Agri S.S. Krishnamurthy v. Speaker, Tamil Nadu Legislative Assembly",
@@ -1250,6 +1319,24 @@
 "added":"2026-10-20"
 },
 {
+"name":"M. Prema v. State of Tamil Nadu",
+"cite":"2026 INSC 1105",
+"date":"2026-10-09",
+"reported":"Reported 12 Oct 2026",
+"court":"Supreme Court of India",
+"subjects":[
+"Administrative Law",
+"Labour Law"
+],
+"topic":"Service law – inter se seniority",
+"tag":"Unless recruitment rules say otherwise, ad hoc, temporary or compassionate appointees count seniority from regularisation; earlier stop-gap service cannot place them above direct recruits.",
+"source":"https://www.verdictum.in/supreme-court/m-prema-v-the-state-of-tamil-nadu-2026-insc-1105-seniority-regularization-inter-se-seniority-1623835",
+"kind":"new",
+"year":2026,
+"id":"m-prema-v-state-of-tamil-nadu-2026",
+"added":"2026-10-24"
+},
+{
 "name":"Ramkrushna Prahlad Dongardive v. State of Maharashtra",
 "cite":"2026 LiveLaw (SC) 1032",
 "date":"2026-10-08",
@@ -1556,6 +1643,42 @@
 "year":2026,
 "id":"mulla-afroz-v-union-of-india-2026",
 "added":"2026-10-20"
+},
+{
+"name":"Seema Sharma v. State of Punjab",
+"cite":"2026 LiveLaw (SC) 1071",
+"date":"2026-09-28",
+"court":"Supreme Court of India",
+"bench":"Surya Kant CJI, Joymalya Bagchi, V. Mohana JJ",
+"subjects":[
+"Election Law",
+"Constitutional Law"
+],
+"topic":"Municipal polls – obstruction of nominations",
+"tag":"Where an inquiry found candidates were assaulted and nominations obstructed, polls in those 50 Punjab wards were set aside and re-run under a High Court monitoring committee; order not to be a precedent.",
+"source":"https://lawchakra.in/supreme-court/punjab-municipal-wards-fresh-polls/",
+"kind":"new",
+"year":2026,
+"id":"seema-sharma-v-state-of-punjab-2026",
+"added":"2026-10-24"
+},
+{
+"name":"XXX v. State of Kerala",
+"date":"2026-09-26",
+"reported":"Reported 23 Oct 2026",
+"court":"Kerala High Court",
+"bench":"Bechu Kurian Thomas J",
+"subjects":[
+"Constitutional Law",
+"Family Law"
+],
+"topic":"Adult woman's choice of residence",
+"tag":"Neither parents nor police can make an adult woman return to her parental home against her will; police may still complete a missing-person inquiry.",
+"source":"https://www.barandbench.com/news/parents-or-police-cant-force-adult-woman-to-return-home-against-her-wishes-kerala-high-court",
+"kind":"new",
+"year":2026,
+"id":"xxx-v-state-of-kerala-2026",
+"added":"2026-10-24"
 },
 {
 "name":"Tulk v. Moxhay",
@@ -2789,6 +2912,21 @@
 "added":"2026-10-20"
 },
 {
+"name":"LIC v. Escorts Ltd.",
+"cite":"(1986) 1 SCC 264",
+"year":1986,
+"court":"Supreme Court of India",
+"subjects":[
+"Company Law"
+],
+"topic":"Lifting the corporate veil",
+"tag":"A company is distinct from its members; the veil may be lifted only in limited cases such as fraud, evading a tax or welfare statute, or closely linked group companies.",
+"source":"https://corporate.cyrilamarchandblogs.com/2018/01/lic-v-escorts-beyond-lifting-corporate-veil/",
+"kind":"landmark",
+"id":"lic-v-escorts-ltd-1986",
+"added":"2026-10-24"
+},
+{
 "name":"State of Haryana v. Bhajan Lal",
 "cite":"1992 Supp (1) SCC 335",
 "year":1990,
@@ -3192,6 +3330,22 @@
 "added":"2026-10-22"
 },
 {
+"name":"Narmada Bachao Andolan v. Union of India",
+"cite":"(2000) 10 SCC 664",
+"year":2000,
+"court":"Supreme Court of India",
+"subjects":[
+"Environmental Law",
+"Constitutional Law"
+],
+"topic":"Large dams – PIL and delay",
+"tag":"Sardar Sarovar construction allowed to continue subject to rehabilitation; displacement is not per se an Art. 21 breach if oustees are resettled better, and belated PILs against executed policy fail.",
+"source":"https://bnblegal.com/landmark/narmada-bachao-andolan-v-s-union-lndia-ors/",
+"kind":"landmark",
+"id":"narmada-bachao-andolan-v-union-of-india-2000",
+"added":"2026-10-24"
+},
+{
 "name":"Danial Latifi v. Union of India",
 "cite":"(2001) 7 SCC 740",
 "year":2001,
@@ -3218,6 +3372,21 @@
 "kind":"landmark",
 "id":"cadila-health-care-v-cadila-pharmaceuticals-2001",
 "added":"2026-10-20"
+},
+{
+"name":"Steel Authority of India v. National Union Waterfront Workers",
+"year":2001,
+"court":"Supreme Court of India",
+"bench":"S.S.M. Quadri, B.N. Kirpal, M.B. Shah, Ruma Pal, K.G. Balakrishnan JJ",
+"subjects":[
+"Labour Law"
+],
+"topic":"Contract labour – abolition and absorption",
+"tag":"A S. 10 CLRA notification abolishing contract labour does not mean automatic absorption by the principal employer; 'appropriate government' turns on whether the industry runs under Central authority.",
+"source":"https://lawtimesjournal.in/steel-authority-of-india-ltd-ors-vs-national-union-water-front-workers-ors/",
+"kind":"landmark",
+"id":"steel-authority-of-india-v-national-union-waterfr-2001",
+"added":"2026-10-24"
 },
 {
 "name":"ONGC v. Saw Pipes",
@@ -3260,6 +3429,21 @@
 "kind":"landmark",
 "id":"zahira-habibullah-sheikh-v-state-of-gujarat-2004",
 "added":"2026-10-20"
+},
+{
+"name":"Midas Hygiene Industries v. Sudhir Bhatia",
+"cite":"(2004) 3 SCC 90",
+"year":2004,
+"court":"Supreme Court of India",
+"subjects":[
+"Intellectual Property"
+],
+"topic":"Interim injunction in infringement",
+"tag":"In trademark and copyright infringement an injunction should normally follow, especially where the copying is dishonest; delay alone is no ground to refuse it.",
+"source":"https://scconline.com/blog/?p=135851",
+"kind":"landmark",
+"id":"midas-hygiene-industries-v-sudhir-bhatia-2004",
+"added":"2026-10-24"
 },
 {
 "name":"Jacob Mathew v. State of Punjab",
@@ -3315,6 +3499,21 @@
 "kind":"landmark",
 "id":"state-nct-of-delhi-v-navjot-sandhu-2005",
 "added":"2026-10-22"
+},
+{
+"name":"SBP & Co. v. Patel Engineering Ltd.",
+"year":2005,
+"court":"Supreme Court of India",
+"bench":"Seven-judge bench",
+"subjects":[
+"Arbitration"
+],
+"topic":"Appointment of arbitrators – S. 11",
+"tag":"The Chief Justice's power under S. 11(6) is judicial, not administrative; he must first decide preliminary issues like a valid arbitration agreement, and orders are open to challenge under Art. 136.",
+"source":"https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/supreme-court-redefines-section-11-of-arbitration-and-conciliation-act-1996-5430",
+"kind":"landmark",
+"id":"sbp-co-v-patel-engineering-ltd-2005",
+"added":"2026-10-24"
 },
 {
 "name":"Secretary, State of Karnataka v. Umadevi",
