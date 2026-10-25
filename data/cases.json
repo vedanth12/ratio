@@ -1,5 +1,5 @@
 {
-"updated":"2026-10-24T07:25+05:30",
+"updated":"2026-10-25T07:25+05:30",
 "cases":[
 {
 "name":"Neha v. State (Neha Bora)",
@@ -571,6 +571,60 @@
 "added":"2026-10-23"
 },
 {
+"name":"Bureau of Indian Standards v. M/s Mars Veneers and Boards",
+"cite":"2026:KER:79827",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Kerala High Court",
+"bench":"A. Badharudeen J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"BIS Act offences",
+"tag":"Sections 11 and 12 of the BIS Act, 1986 punish use of the ISI mark without licence; merely possessing a roller or object bearing a spurious mark, with no goods shown to carry it, is not an offence",
+"source":"https://www.verdictum.in/kerala-high-court/bureau-of-indian-standards-v-ms-mars-veneers-and-boards-and-others-2026ker79827-1624339",
+"kind":"new",
+"year":2026,
+"id":"bureau-of-indian-standards-v-m-s-mars-veneers-and-2026",
+"added":"2026-10-25"
+},
+{
+"name":"The President, Shri Vishnumurthy Temple, Kalenja v. Commissioner, Religious Institutions & Endowments",
+"cite":"2026 LiveLaw (Kar) 432",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Karnataka High Court",
+"bench":"Vibhu Bakhru CJ, K.S. Hemalekha J",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Sub-delegation",
+"tag":"An officer authorised to hold an enquiry under the Karnataka Hindu Religious Institutions Act cannot hand that enquiry over to someone else; delegated power cannot be sub-delegated",
+"source":"https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-weekly-round-up-555800",
+"kind":"new",
+"year":2026,
+"id":"the-president-shri-vishnumurthy-temple-kalenja-v-2026",
+"added":"2026-10-25"
+},
+{
+"name":"B v. A (Karnataka HC, permanent alimony)",
+"cite":"2026 LiveLaw (Kar) 433",
+"date":"2026-10-18",
+"reported":"Week of 12–18 Oct 2026",
+"court":"Karnataka High Court",
+"bench":"D.K. Singh, H. Shanthi Bhushan JJ",
+"subjects":[
+"Family Law"
+],
+"topic":"Permanent alimony",
+"tag":"A wife's remarriage is relevant to fixing permanent alimony but does not bar it outright; the award was cut from Rs 25 lakh to Rs 10 lakh",
+"source":"https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-weekly-round-up-555800",
+"kind":"new",
+"year":2026,
+"id":"b-v-a-karnataka-hc-permanent-alimony-2026",
+"added":"2026-10-25"
+},
+{
 "name":"Tejaram v. State of Rajasthan",
 "date":"2026-10-16",
 "court":"Supreme Court of India",
@@ -868,6 +922,24 @@
 "added":"2026-10-24"
 },
 {
+"name":"Union of India v. Om Prakash",
+"cite":"2026:DHC:9162-DB",
+"date":"2026-10-15",
+"court":"Delhi High Court",
+"bench":"C. Hari Shankar, Vinod Kumar JJ",
+"subjects":[
+"Jurisprudence",
+"Administrative Law"
+],
+"topic":"Precedent; retrospective promotion",
+"tag":"Only the Supreme Court, whose rulings bind under Art. 141, can say a decision is not to be cited as precedent; a department cannot rely on the bar on retrospective promotion when the delay was its own",
+"source":"https://www.verdictum.in/delhi-high-court/union-of-india-v-om-prakash-2026dhc9162-db-in-situ-promotion-over-such-delay-scientist-1624388",
+"kind":"new",
+"year":2026,
+"id":"union-of-india-v-om-prakash-2026",
+"added":"2026-10-25"
+},
+{
 "name":"Commissioner of Central Tax v. Sreenivasa Rao Ravinuthala",
 "cite":"2026 SCC OnLine SC 2150",
 "date":"2026-10-14",
@@ -1006,6 +1078,23 @@
 "added":"2026-10-24"
 },
 {
+"name":"B. Anasuyamma (D) v. B. Madhusudhan Reddy (D)",
+"cite":"2026 INSC 1126",
+"date":"2026-10-14",
+"court":"Supreme Court of India",
+"bench":"Sanjay Kumar, Sanjeev Sachdeva JJ",
+"subjects":[
+"Property Law"
+],
+"topic":"Family settlement and compromise decree",
+"tag":"A party who gave up his claim to land under a family settlement and a court-recorded compromise has no title left to gift; courts must give effect to such earlier binding arrangements",
+"source":"https://www.supremecourtcases.com/b-anasuyamma-died-per-lr-and-another-v-b-madhusudhan-reddy-died-per-lrs-and-others/amp/",
+"kind":"new",
+"year":2026,
+"id":"b-anasuyamma-d-v-b-madhusudhan-reddy-d-2026",
+"added":"2026-10-25"
+},
+{
 "name":"Agri S.S. Krishnamurthy v. Speaker, Tamil Nadu Legislative Assembly",
 "cite":"2026 SCC OnLine Mad 9277",
 "date":"2026-10-13",
@@ -1141,6 +1230,23 @@
 "year":2026,
 "id":"hardev-construction-pvt-ltd-v-union-of-india-2026",
 "added":"2026-10-21"
+},
+{
+"name":"Mahendra Kumar Mitra v. Union of India",
+"cite":"2026 LiveLaw (Kar) 427",
+"date":"2026-10-12",
+"court":"Karnataka High Court",
+"bench":"Vibhu Bakhru CJ, K.S. Hemalekha J",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Reservation ceiling",
+"tag":"Karnataka's 2022 Act raising SC quota to 17% and ST quota to 7% struck down: the 50% ceiling binds and population growth is no extraordinary circumstance to breach it (Arts. 14, 15, 16)",
+"source":"https://www.barandbench.com/news/litigation/karnataka-high-court-strikes-down-law-enhancing-scst-reservation-as-total-quota-exceeds-50-cap",
+"kind":"new",
+"year":2026,
+"id":"mahendra-kumar-mitra-v-union-of-india-2026",
+"added":"2026-10-25"
 },
 {
 "name":"Renuka Jain v. State of NCT of Delhi",
@@ -1317,6 +1423,24 @@
 "year":2026,
 "id":"vijay-v-state-of-maharashtra-2026",
 "added":"2026-10-20"
+},
+{
+"name":"ICICI Lombard General Insurance Co. Ltd. v. Satish Chandra Gupta",
+"cite":"2026:DHC:8726",
+"date":"2026-10-11",
+"reported":"Week of 5–11 Oct 2026",
+"court":"Delhi High Court",
+"bench":"Anish Dayal J",
+"subjects":[
+"Torts"
+],
+"topic":"Motor accident negligence",
+"tag":"A driver who crashes while swerving to avoid a stray animal cannot automatically plead 'agony of the moment'; drivers must anticipate such road hazards and keep control of the vehicle",
+"source":"https://www.verdictum.in/delhi-high-court/icici-lombard-general-insurance-co-ltd-v-satish-chandra-gupta-2026dhc8726-traffic-reflexes-stray-dog-accident-agony-of-the-moment-1623534",
+"kind":"new",
+"year":2026,
+"id":"icici-lombard-general-insurance-co-ltd-v-satish-2026",
+"added":"2026-10-25"
 },
 {
 "name":"M. Prema v. State of Tamil Nadu",
@@ -2069,6 +2193,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Bengal Immunity Co. Ltd. v. State of Bihar",
+"cite":"AIR 1955 SC 661",
+"year":1955,
+"court":"Supreme Court of India",
+"subjects":[
+"Jurisprudence"
+],
+"topic":"Stare decisis",
+"tag":"The Supreme Court is not bound by its own earlier decisions and may overrule them when clearly wrong; Art. 141 binds courts below, not the Supreme Court itself",
+"kind":"landmark",
+"id":"bengal-immunity-co-ltd-v-state-of-bihar-1955",
+"added":"2026-10-25"
+},
+{
 "name":"Basdev v. State of PEPSU",
 "cite":"AIR 1956 SC 488",
 "year":1956,
@@ -2234,6 +2372,20 @@
 "kind":"landmark",
 "id":"kedar-nath-singh-v-state-of-bihar-1962",
 "added":"2026-10-22"
+},
+{
+"name":"Kharak Singh v. State of U.P.",
+"cite":"AIR 1963 SC 1295",
+"year":1962,
+"court":"Supreme Court of India",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Personal liberty and surveillance",
+"tag":"Night-time domiciliary visits under U.P. Police Regulation 236 violated personal liberty under Art. 21; the majority denied a right to privacy, a view later rejected in Puttaswamy",
+"kind":"landmark",
+"id":"kharak-singh-v-state-of-u-p-1962",
+"added":"2026-10-25"
 },
 {
 "name":"Ridge v. Baldwin",
@@ -2719,6 +2871,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"CIT v. B.C. Srinivasa Setty",
+"cite":"(1981) 128 ITR 294",
+"year":1981,
+"court":"Supreme Court of India",
+"subjects":[
+"Tax Law"
+],
+"topic":"Capital gains on goodwill",
+"tag":"Self-generated goodwill had no cost of acquisition, so capital gains could not be computed; where the computation machinery cannot apply, the charge itself fails",
+"kind":"landmark",
+"id":"cit-v-b-c-srinivasa-setty-1981",
+"added":"2026-10-25"
+},
+{
 "name":"Randhir Singh v. Union of India",
 "year":1982,
 "court":"Supreme Court of India",
@@ -3135,6 +3301,20 @@
 "kind":"landmark",
 "id":"sarla-mudgal-v-union-of-india-1995",
 "added":"2026-10-20"
+},
+{
+"name":"Rupan Deol Bajaj v. Kanwar Pal Singh Gill",
+"cite":"(1995) 6 SCC 194",
+"year":1995,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Outraging modesty",
+"tag":"Slapping a woman's posterior in public outrages her modesty under s. 354 IPC (now s. 74 BNS); the test is the accused's intent or knowledge, judged by how a reasonable woman would see the act",
+"kind":"landmark",
+"id":"rupan-deol-bajaj-v-kanwar-pal-singh-gill-1995",
+"added":"2026-10-25"
 },
 {
 "name":"Gian Kaur v. State of Punjab",
@@ -3933,6 +4113,20 @@
 "kind":"landmark",
 "id":"innoventive-industries-ltd-v-icici-bank-2017",
 "added":"2026-10-21"
+},
+{
+"name":"Mobilox Innovations Pvt. Ltd. v. Kirusa Software Pvt. Ltd.",
+"cite":"(2018) 1 SCC 353",
+"year":2017,
+"court":"Supreme Court of India",
+"subjects":[
+"Insolvency"
+],
+"topic":"Pre-existing dispute",
+"tag":"An operational creditor's IBC petition must be rejected if a plausible dispute existed before the demand notice; the NCLT checks only that it is not a spurious or moonshine defence",
+"kind":"landmark",
+"id":"mobilox-innovations-pvt-ltd-v-kirusa-software-p-2017",
+"added":"2026-10-25"
 },
 {
 "name":"Navtej Singh Johar v. Union of India",
