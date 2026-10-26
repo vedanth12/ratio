@@ -1,6 +1,24 @@
 {
-"updated":"2026-10-25T07:25+05:30",
+"updated":"2026-10-26T07:30+05:30",
 "cases":[
+{
+"name":"University of Mumbai v. Sunil Tanga Pagare",
+"cite":"2026:BHC-OS:22827",
+"date":"2026-10-24",
+"reported":"Reported 24 Oct 2026",
+"court":"Bombay High Court",
+"bench":"Sandeep V. Marne J",
+"subjects":[
+"Labour Law"
+],
+"topic":"Regularisation; MRTU & PULP Act",
+"tag":"An Industrial Court cannot order blanket permanency against the Umadevi scheme; only irregular temporary workers with 10 years' service, excluding time under interim orders, could be regularised",
+"source":"https://www.verdictum.in/bombay-high-court/university-of-mumbai-v-sunil-tanga-pagare-2026bhc-os22827-10-years-service-permanency-is-no-bar-affirmative-action-umadevi-1624574",
+"kind":"new",
+"year":2026,
+"id":"university-of-mumbai-v-sunil-tanga-pagare-2026",
+"added":"2026-10-26"
+},
 {
 "name":"Neha v. State (Neha Bora)",
 "date":"2026-10-23",
@@ -17,6 +35,24 @@
 "year":2026,
 "id":"neha-v-state-neha-bora-2026",
 "added":"2026-10-24"
+},
+{
+"name":"Karuna Sumit Kamble v. Deputy Director of Education, Mumbai Region",
+"cite":"2026:BHC-AS:42896",
+"date":"2026-10-23",
+"reported":"Reported 23 Oct 2026",
+"court":"Bombay High Court",
+"bench":"N.J. Jamadar J",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"RTE Act; neighbourhood school",
+"tag":"Distance limits for a 'neighbourhood school' under the RTE Act serve the right to education and are not to be applied rigidly; a bona fide distance error did not justify cancelling a 25% quota admission",
+"source":"https://www.verdictum.in/bombay-high-court/karuna-sumit-kamble-v-the-deputy-director-of-education-mumbai-region-2026bhc-as42896-neighbourhood-school-rte-act-weaker-section-25-quota-1624525",
+"kind":"new",
+"year":2026,
+"id":"karuna-sumit-kamble-v-deputy-director-of-educatio-2026",
+"added":"2026-10-26"
 },
 {
 "name":"Bipin Satish Chandra Agrwal v. State of Maharashtra",
@@ -102,6 +138,44 @@
 "added":"2026-10-23"
 },
 {
+"name":"A v. B (MP HC, grandmother as next friend)",
+"cite":"2026:MPHC-JBP:82144",
+"date":"2026-10-21",
+"reported":"Reported 21 Oct 2026",
+"court":"Madhya Pradesh High Court",
+"bench":"Dwarka Dhish Bansal J",
+"subjects":[
+"Family Law",
+"Criminal Procedure"
+],
+"topic":"Maintenance for minor; next friend",
+"tag":"A maternal grandmother with real interest in a minor can file for the child's maintenance under S.125 CrPC (now S.144 BNSS) without being appointed guardian; the provision is read to serve social justice",
+"source":"https://www.verdictum.in/madhya-pradesh-high-court/a-v-b-2026mphc-jbp82144-grandmother-interest-minor-maintenance-applicatio-guardianship-1624368",
+"kind":"new",
+"year":2026,
+"id":"a-v-b-mp-hc-grandmother-as-next-friend-2026",
+"added":"2026-10-26"
+},
+{
+"name":"DB v. State of Madhya Pradesh",
+"cite":"2026 LiveLaw (MP) 419",
+"date":"2026-10-21",
+"reported":"Reported 21 Oct 2026",
+"court":"Madhya Pradesh High Court",
+"bench":"Alok Awasthi J",
+"subjects":[
+"Criminal Law",
+"Family Law"
+],
+"topic":"Dowry demand after marriage",
+"tag":"No pre-marriage dowry agreement is needed for S.4 Dowry Prohibition Act; a demand made after marriage is punishable and may be proved by oral evidence; husband's conviction (with S.498A IPC) restored",
+"source":"https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-pre-marriage-dowry-agreement-not-required-to-prosecute-under-section-4-of-the-dowry-prohibition-act-555516",
+"kind":"new",
+"year":2026,
+"id":"db-v-state-of-madhya-pradesh-2026",
+"added":"2026-10-26"
+},
+{
 "name":"Dr. M.K. Ravi Varma v. National Institute of Technology",
 "cite":"2026 LiveLaw (SC) 1019",
 "date":"2026-10-20",
@@ -119,6 +193,22 @@
 "year":2026,
 "id":"dr-m-k-ravi-varma-v-national-institute-of-techn-2026",
 "added":"2026-10-21"
+},
+{
+"name":"M. Prasanna Kumar v. State of Karnataka",
+"date":"2026-10-19",
+"court":"Karnataka High Court",
+"bench":"H.P. Sandesh J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Practising without clearing AIBE",
+"tag":"An advocate who practises without passing the AIBE can be prosecuted under the IPC and S.45 Advocates Act; Bar Council disciplinary power is not exclusive and a complainant need not go to it first",
+"source":"https://www.verdictum.in/karnataka-high-court/refuses-quash-criminal-proceedings-advocate-clearing-aib-examination-1624304",
+"kind":"new",
+"year":2026,
+"id":"m-prasanna-kumar-v-state-of-karnataka-2026",
+"added":"2026-10-26"
 },
 {
 "name":"Suo Motu Civil Reference v. Union of India",
@@ -929,7 +1019,8 @@
 "bench":"C. Hari Shankar, Vinod Kumar JJ",
 "subjects":[
 "Jurisprudence",
-"Administrative Law"
+"Administrative Law",
+"Constitutional Law"
 ],
 "topic":"Precedent; retrospective promotion",
 "tag":"Only the Supreme Court, whose rulings bind under Art. 141, can say a decision is not to be cited as precedent; a department cannot rely on the bar on retrospective promotion when the delay was its own",
@@ -1971,6 +2062,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Balfour v. Balfour",
+"cite":"[1919] 2 KB 571",
+"year":1919,
+"court":"Court of Appeal (England)",
+"subjects":[
+"Contract"
+],
+"topic":"Intention to create legal relations",
+"tag":"Domestic arrangements between spouses living together are presumed not to be meant as legally binding, so a husband's promise of a monthly allowance was not an enforceable contract",
+"kind":"landmark",
+"id":"balfour-v-balfour-1919",
+"added":"2026-10-26"
+},
+{
 "name":"Barendra Kumar Ghosh v. Emperor",
 "cite":"AIR 1925 PC 1",
 "year":1924,
@@ -2386,6 +2491,20 @@
 "kind":"landmark",
 "id":"kharak-singh-v-state-of-u-p-1962",
 "added":"2026-10-25"
+},
+{
+"name":"State of Rajasthan v. Vidyawati",
+"cite":"AIR 1962 SC 933",
+"year":1962,
+"court":"Supreme Court of India",
+"subjects":[
+"Torts"
+],
+"topic":"Vicarious liability of the State",
+"tag":"The State is vicariously liable like any employer for the negligence of its driver in a non-sovereign activity, so the widow of a pedestrian killed by a government jeep could recover damages",
+"kind":"landmark",
+"id":"state-of-rajasthan-v-vidyawati-1962",
+"added":"2026-10-26"
 },
 {
 "name":"Ridge v. Baldwin",
@@ -3135,6 +3254,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Dalpat Kumar v. Prahlad Singh",
+"cite":"(1992) 1 SCC 719",
+"year":1991,
+"court":"Supreme Court of India",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Temporary injunction",
+"tag":"A temporary injunction under Order XXXIX CPC needs a prima facie case, irreparable injury and balance of convenience in the applicant's favour, all three together",
+"kind":"landmark",
+"id":"dalpat-kumar-v-prahlad-singh-1991",
+"added":"2026-10-26"
+},
+{
 "name":"Indra Sawhney v. Union of India",
 "cite":"1992 Supp (3) SCC 217",
 "year":1992,
@@ -3425,6 +3558,20 @@
 "kind":"landmark",
 "id":"indian-council-for-enviro-legal-action-v-union-of-1996",
 "added":"2026-10-20"
+},
+{
+"name":"State of Punjab v. Gurmit Singh",
+"cite":"(1996) 2 SCC 384",
+"year":1996,
+"court":"Supreme Court of India",
+"subjects":[
+"Evidence"
+],
+"topic":"Testimony of prosecutrix",
+"tag":"A rape survivor's credible testimony can found a conviction without corroboration; minor discrepancies or delay in reporting do not discredit it; rape trials should be held in camera",
+"kind":"landmark",
+"id":"state-of-punjab-v-gurmit-singh-1996",
+"added":"2026-10-26"
 },
 {
 "name":"Vishaka v. State of Rajasthan",
@@ -3794,6 +3941,20 @@
 "kind":"landmark",
 "id":"afcons-infrastructure-v-cherian-varkey-constructi-2010",
 "added":"2026-10-20"
+},
+{
+"name":"Siddharam Satlingappa Mhetre v. State of Maharashtra",
+"cite":"(2011) 1 SCC 694",
+"year":2010,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Anticipatory bail",
+"tag":"Anticipatory bail protects personal liberty and should not be cut down by fixed time limits or rigid conditions; courts weigh listed factors case by case",
+"kind":"landmark",
+"id":"siddharam-satlingappa-mhetre-v-state-of-maharasht-2010",
+"added":"2026-10-26"
 },
 {
 "name":"Suraj Lamp & Industries v. State of Haryana",
