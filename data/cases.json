@@ -1,6 +1,166 @@
 {
-"updated":"2026-10-26T07:30+05:30",
+"updated":"2026-10-27T07:18+05:30",
 "cases":[
+{
+"name":"Bank of India v. S.M. Kamal Pasha",
+"cite":"2026 LiveLaw (SC) 1084",
+"date":"2026-10-26",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Insolvency"
+],
+"topic":"Withdrawal of approved resolution plan; Ss. 12A, 30, 31 IBC",
+"tag":"Once a CoC-approved resolution plan is placed before the NCLT, the IBC gives the CoC no route to withdraw it; the debtor's later improved finances are no ground, though NCLT must still test the plan",
+"source":"https://www.livelaw.in/supreme-court/ibc-coc-cannot-withdraw-approved-resolution-plan-citing-improved-financial-position-of-corporate-debtor-supreme-court-555999",
+"kind":"new",
+"year":2026,
+"id":"bank-of-india-v-s-m-kamal-pasha-2026",
+"added":"2026-10-27"
+},
+{
+"name":"Muppathadam Service Co-operative Bank Ltd. v. State Chief Information Commissioner",
+"cite":"2026 LiveLaw (SC) 1085",
+"date":"2026-10-26",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"RTI; S. 2(f) and S. 8(1)(j) RTI Act; co-operative societies",
+"tag":"A member can obtain a co-op society's contract and meeting minutes under RTI via the Registrar, who can inspect them; they are not 'personal information', and the society not being a public authority is no bar",
+"source":"https://www.livelaw.in/supreme-court/cooperative-society-cannot-deny-rti-information-to-as-personal-if-registrar-can-access-such-records-supreme-court-556023",
+"kind":"new",
+"year":2026,
+"id":"muppathadam-service-co-operative-bank-ltd-v-stat-2026",
+"added":"2026-10-27"
+},
+{
+"name":"N. Arasappa v. State of Karnataka",
+"cite":"2026 LiveLaw (SC) 1086",
+"date":"2026-10-26",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Property Law",
+"Administrative Law"
+],
+"topic":"Land acquisition for housing society; fraud; Land Acquisition Act, 1894",
+"tag":"Acquisition for a housing society with no approved scheme or layout, procured through a paid middleman, is a fraudulent, colourable use of power; delay or res judicata cannot save it",
+"source":"https://www.livelaw.in/supreme-court/supreme-court-quashes-karnataka-land-acquisition-over-fraud-bribery-in-housing-society-scheme-orders-land-restoration-to-owners-556028",
+"kind":"new",
+"year":2026,
+"id":"n-arasappa-v-state-of-karnataka-2026",
+"added":"2026-10-27"
+},
+{
+"name":"Arun @ Deepak v. State of U.P.",
+"cite":"2026 INSC 1150",
+"date":"2026-10-26",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Criminal Law",
+"Evidence"
+],
+"topic":"Circumstantial evidence; compensation for wrongful incarceration; Ss. 364, 302, 201 IPC",
+"tag":"Acquittal where CCTV and call records lacked a S. 65B certificate, no S. 27 statement proved the recoveries and the ransom story surfaced only at trial; State ordered to pay Rs 6 lakh for six years of undertrial custody",
+"source":"https://www.verdictum.in/supreme-court/arun-deepak-v-state-of-up-2026-insc-1150-police-officers-cost-up-govt-acquittal-jail-1624662",
+"kind":"new",
+"year":2026,
+"id":"arun-deepak-v-state-of-u-p-2026",
+"added":"2026-10-27"
+},
+{
+"name":"Victim X v. State of U.P.",
+"cite":"2026 LiveLaw (AB) 873",
+"date":"2026-10-25",
+"reported":"Week of 19–25 Oct 2026",
+"court":"Allahabad High Court",
+"bench":"Saral Srivastava, Garima Prashad JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Victim compensation; Rani Lakshmi Bai Mahila Samman Kosh; Article 14",
+"tag":"Making an injury report mandatory before child sexual assault survivors can get compensation under the UP Kosh Scheme is manifestly arbitrary and violates Article 14",
+"source":"https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-roundup-october-19-october-25-2026-556033",
+"kind":"new",
+"year":2026,
+"id":"victim-x-v-state-of-u-p-2026",
+"added":"2026-10-27"
+},
+{
+"name":"Rajeshwari v. State of U.P.",
+"cite":"2026 LiveLaw (AB) 870",
+"date":"2026-10-25",
+"reported":"Week of 19–25 Oct 2026",
+"court":"Allahabad High Court",
+"bench":"Siddhartha Varma, Jai Krishna Upadhyay JJ",
+"subjects":[
+"Evidence",
+"Criminal Law"
+],
+"topic":"Dying declaration; hostile witnesses",
+"tag":"A dying declaration is not to be discarded merely because every eyewitness turned hostile; murder convictions of the husband and in-laws resting on it were upheld",
+"source":"https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-roundup-october-19-october-25-2026-556033",
+"kind":"new",
+"year":2026,
+"id":"rajeshwari-v-state-of-u-p-2026",
+"added":"2026-10-27"
+},
+{
+"name":"Rakesh Kumar Mishra v. State of U.P.",
+"cite":"2026 LiveLaw (AB) 866",
+"date":"2026-10-25",
+"reported":"Week of 19–25 Oct 2026",
+"court":"Allahabad High Court",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Electricity connection; Article 21",
+"tag":"Electricity is part of the right to life under Article 21; a connection cannot be refused only because a civil dispute over ownership is pending, if the applicant gives an indemnity and meets other conditions",
+"source":"https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-roundup-october-19-october-25-2026-556033",
+"kind":"new",
+"year":2026,
+"id":"rakesh-kumar-mishra-v-state-of-u-p-2026",
+"added":"2026-10-27"
+},
+{
+"name":"Ajai Yadav v. State of U.P.",
+"cite":"2026 LiveLaw (AB) 869",
+"date":"2026-10-25",
+"reported":"Week of 19–25 Oct 2026",
+"court":"Allahabad High Court",
+"bench":"Santosh Rai J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Cognizance under SC/ST (Prevention of Atrocities) Act",
+"tag":"A Magistrate taking cognizance of an SC/ST Act case before committal to the Special Court is a curable irregularity and does not by itself vitiate the proceedings",
+"source":"https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-roundup-october-19-october-25-2026-556033",
+"kind":"new",
+"year":2026,
+"id":"ajai-yadav-v-state-of-u-p-2026",
+"added":"2026-10-27"
+},
+{
+"name":"Thota Gopal v. Pandipati Gopal Reddy",
+"cite":"2026 LiveLaw (AP) 254",
+"date":"2026-10-25",
+"reported":"Week of 19–25 Oct 2026",
+"court":"Andhra Pradesh High Court",
+"subjects":[
+"Civil Procedure",
+"Criminal Law"
+],
+"topic":"Fabricated agreements; breach of undertaking; Ss. 193, 206 IPC (now BNS)",
+"tag":"Fabricating sale agreements and selling suit property in breach of an undertaking not to alienate can warrant prosecution for false evidence and fraudulent transfer (Ss. 193, 206 IPC)",
+"source":"https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-555916",
+"kind":"new",
+"year":2026,
+"id":"thota-gopal-v-pandipati-gopal-reddy-2026",
+"added":"2026-10-27"
+},
 {
 "name":"University of Mumbai v. Sunil Tanga Pagare",
 "cite":"2026:BHC-OS:22827",
@@ -2638,6 +2798,21 @@
 "added":"2026-10-20"
 },
 {
+"name":"State of Orissa v. Dr. (Miss) Binapani Dei",
+"year":1967,
+"court":"Supreme Court of India",
+"bench":"J.C. Shah, G.K. Mitter JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Natural justice in administrative orders",
+"tag":"Even an administrative order with civil consequences, like retiring an employee on a re-determined age, must follow natural justice; one made without hearing the person is void",
+"source":"https://www.casemine.com/commentary/in/state-of-orissa-v.-dr.-binapani-dei:-upholding-natural-justice-in-compulsory-retirement/view",
+"kind":"landmark",
+"id":"state-of-orissa-v-dr-miss-binapani-dei-1967",
+"added":"2026-10-27"
+},
+{
 "name":"Dhulabhai v. State of Madhya Pradesh",
 "cite":"AIR 1969 SC 78",
 "year":1968,
@@ -3002,6 +3177,22 @@
 "kind":"landmark",
 "id":"cit-v-b-c-srinivasa-setty-1981",
 "added":"2026-10-25"
+},
+{
+"name":"Needle Industries (India) Ltd. v. Needle Industries Newey (India) Holding Ltd.",
+"cite":"AIR 1981 SC 1298",
+"year":1981,
+"court":"Supreme Court of India",
+"bench":"Y.V. Chandrachud CJ, P.N. Bhagwati, V.R. Krishna Iyer, R.S. Pathak, A.N. Sen JJ",
+"subjects":[
+"Company Law"
+],
+"topic":"Oppression of minority; directors' fiduciary duty in share issues",
+"tag":"Oppression means lack of probity and fair dealing toward a member's rights; a rights issue made bona fide in the company's interest is not oppressive or a breach of duty merely because directors incidentally gain",
+"source":"https://www.thelegallock.com/resources/case-briefs/case-brief-needle-industries-india-ltd-v-needle-industries-newey-india-holding-ltd",
+"kind":"landmark",
+"id":"needle-industries-india-ltd-v-needle-industrie-1981",
+"added":"2026-10-27"
 },
 {
 "name":"Randhir Singh v. Union of India",
@@ -3744,6 +3935,21 @@
 "added":"2026-10-21"
 },
 {
+"name":"Rame Gowda v. M. Varadappa Naidu",
+"year":2003,
+"court":"Supreme Court of India",
+"bench":"R.C. Lahoti, B.N. Srikrishna, G.P. Mathur JJ",
+"subjects":[
+"Property Law"
+],
+"topic":"Settled possession; injunction against true owner",
+"tag":"A trespasser in settled possession can be removed only through court, not by force, even by the true owner; prior peaceful possession is enough to get an injunction against someone with no better title",
+"source":"https://bnblegal.com/landmark/rame-gowda-v-m-varadappa-naidu-anr/",
+"kind":"landmark",
+"id":"rame-gowda-v-m-varadappa-naidu-2003",
+"added":"2026-10-27"
+},
+{
 "name":"Zahira Habibullah Sheikh v. State of Gujarat",
 "cite":"(2004) 4 SCC 158",
 "year":2004,
@@ -3969,6 +4175,21 @@
 "kind":"landmark",
 "id":"suraj-lamp-industries-v-state-of-haryana-2011",
 "added":"2026-10-20"
+},
+{
+"name":"Booz Allen & Hamilton Inc. v. SBI Home Finance Ltd.",
+"cite":"(2011) 5 SCC 532",
+"year":2011,
+"court":"Supreme Court of India",
+"subjects":[
+"Arbitration"
+],
+"topic":"Arbitrability; rights in rem and in personam",
+"tag":"A dispute is arbitrable only if it can be arbitrated, falls within the agreement and is referred; rights in rem are not arbitrable, but rights in personam, even those arising from rights in rem, are",
+"source":"https://blog.ipleaders.in/?p=96276",
+"kind":"landmark",
+"id":"booz-allen-hamilton-inc-v-sbi-home-finance-ltd-2011",
+"added":"2026-10-27"
 },
 {
 "name":"Alister Anthony Pareira v. State of Maharashtra",
@@ -4288,6 +4509,20 @@
 "kind":"landmark",
 "id":"mobilox-innovations-pvt-ltd-v-kirusa-software-p-2017",
 "added":"2026-10-25"
+},
+{
+"name":"Amardeep Singh v. Harveen Kaur",
+"year":2017,
+"court":"Supreme Court of India",
+"subjects":[
+"Family Law"
+],
+"topic":"Mutual consent divorce; S. 13B(2) Hindu Marriage Act",
+"tag":"The six-month wait before a mutual consent divorce under S. 13B(2) is directory; a court may waive it where the couple have long lived apart, reconciliation has failed and waiting only prolongs their agony",
+"source":"https://verdictum.in/court-updates/supreme-court/divorce-divorce-by-mutual-consent-cooling-off-period-waiver-1346281",
+"kind":"landmark",
+"id":"amardeep-singh-v-harveen-kaur-2017",
+"added":"2026-10-27"
 },
 {
 "name":"Navtej Singh Johar v. Union of India",
