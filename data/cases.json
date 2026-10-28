@@ -1,6 +1,129 @@
 {
-"updated":"2026-10-27T07:18+05:30",
+"updated":"2026-10-28T07:23+05:30",
 "cases":[
+{
+"name":"Balakrishna (Dead) Thr. LRs v. G.N. Kanniah Naidu (Dead) Thr. LRs",
+"cite":"2026 LiveLaw (SC) 1089",
+"date":"2026-10-27",
+"reported":"Reported 27 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Sanjay Kumar, Sanjeev Sachdeva JJ",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Execution – third-party resistance (O.XXI R.97–101)",
+"tag":"A stranger to a decree claiming independent title must have that claim decided by the executing court under O.XXI Rr.97–101 CPC; telling him to file a separate suit defeats Rule 101",
+"source":"https://www.livelaw.in/supreme-court/order-21-rule-97-cpc-executing-court-cannot-direct-third-party-to-file-separate-suit-to-challenge-decree-supreme-court-556142",
+"kind":"new",
+"year":2026,
+"id":"balakrishna-dead-thr-lrs-v-g-n-kanniah-naidu-2026",
+"added":"2026-10-28"
+},
+{
+"name":"Neelam Yadav v. State of U.P.",
+"cite":"2026 LiveLaw (SC) 1090",
+"date":"2026-10-27",
+"reported":"Reported 27 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Manoj Misra, N. Kotiswar Singh JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Summoning additional accused (s.319 CrPC / s.358 BNSS)",
+"tag":"Before summoning an additional accused under s.319 CrPC (now s.358 BNSS), the court must read the witness's whole deposition, including cross-examination that undercuts the chief",
+"source":"https://www.livelaw.in/supreme-court/s-319-crpc-cross-examination-cannot-be-ignored-before-summoning-additional-accused-supreme-court-556145",
+"kind":"new",
+"year":2026,
+"id":"neelam-yadav-v-state-of-u-p-2026",
+"added":"2026-10-28"
+},
+{
+"name":"Union of India v. Mohamed Rifas @ Mohamed Rigbas",
+"cite":"2026 LiveLaw (SC) 1091",
+"date":"2026-10-27",
+"court":"Supreme Court of India",
+"bench":"Aravind Kumar, Vipul M. Pancholi JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"UAPA bail – foreign nationals (s.43D(7))",
+"tag":"s.43D(7) UAPA bars bail only if a foreigner's entry into India was itself illegal; nationality alone or a later visa overstay is not enough",
+"source":"https://www.livelaw.in/supreme-court/uapa-mere-foreign-nationality-not-enough-to-deny-bail-illegal-entry-into-india-must-be-proved-supreme-court-556202",
+"kind":"new",
+"year":2026,
+"id":"union-of-india-v-mohamed-rifas-mohamed-rigbas-2026",
+"added":"2026-10-28"
+},
+{
+"name":"Baldev Singh Bajwa v. State of Punjab",
+"cite":"CRWP-12623-2026",
+"date":"2026-10-27",
+"reported":"Reported 27 Oct 2026",
+"court":"Punjab and Haryana High Court",
+"bench":"Shalini Singh Nagpal J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Proclaimed offender (s.84 BNSS)",
+"tag":"An accused facing offences punishable with under 10 years cannot be declared a proclaimed offender under s.84(4) BNSS; the three publication modes in s.84(2)(i) are conjunctive",
+"source":"https://www.livelaw.in/high-court/punjab-and-haryana-high-court/section-844-bnss-offences-punishable-less-than-ten-years-cannot-declare-proclaimed-offender-556173",
+"kind":"new",
+"year":2026,
+"id":"baldev-singh-bajwa-v-state-of-punjab-2026",
+"added":"2026-10-28"
+},
+{
+"name":"Gopal Krishna Agrawal v. State of Bihar",
+"date":"2026-10-27",
+"reported":"Reported 27 Oct 2026",
+"court":"Patna High Court",
+"bench":"Rana Vikram Singh J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Criminal liability of advocates for legal opinions",
+"tag":"A panel advocate cannot be prosecuted for cheating or breach of trust just because his title opinion proved wrong; only a deliberately false opinion given in collusion attracts criminal law",
+"source":"https://www.livelaw.in/high-court/patna-high-court/patna-high-court-quashes-fraud-case-against-uco-bank-panel-lawyer-556191",
+"kind":"new",
+"year":2026,
+"id":"gopal-krishna-agrawal-v-state-of-bihar-2026",
+"added":"2026-10-28"
+},
+{
+"name":"Thangam Venkatesh v. State of Tamil Nadu",
+"date":"2026-10-27",
+"reported":"Reported 27 Oct 2026",
+"court":"Madras High Court",
+"bench":"G.R. Swaminathan, P. Murugan JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Temple entry – Agamic temples",
+"tag":"Non-Hindus wearing religious markers may enter Agamic temples beyond the flag-pole only after signing an undertaking affirming reverence to the deity; trustees must enforce this",
+"source":"https://www.livelaw.in/high-court/madras-high-court/non-hindus-wearing-religious-markers-enter-agamic-temples-556233",
+"kind":"new",
+"year":2026,
+"id":"thangam-venkatesh-v-state-of-tamil-nadu-2026",
+"added":"2026-10-28"
+},
+{
+"name":"Chamra Oraon v. State of Jharkhand",
+"date":"2026-10-27",
+"reported":"Reported 27 Oct 2026",
+"court":"Jharkhand High Court",
+"bench":"Ananda Sen, Pradeep Kumar Srivastava JJ",
+"subjects":[
+"Criminal Procedure",
+"Evidence"
+],
+"topic":"Examination of accused (s.313 CrPC)",
+"tag":"s.313 CrPC questions must be put and explained in a language the accused understands; an English record thumb-marked by an illiterate accused caused prejudice and led to acquittal",
+"source":"https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-questions-section313-crpc-explained-accused-language-understands-556104",
+"kind":"new",
+"year":2026,
+"id":"chamra-oraon-v-state-of-jharkhand-2026",
+"added":"2026-10-28"
+},
 {
 "name":"Bank of India v. S.M. Kamal Pasha",
 "cite":"2026 LiveLaw (SC) 1084",
@@ -70,6 +193,58 @@
 "year":2026,
 "id":"arun-deepak-v-state-of-u-p-2026",
 "added":"2026-10-27"
+},
+{
+"name":"Dakshin Gujarat Vij Company Ltd. v. Vaibhav Metal Crusher",
+"cite":"2026 LiveLaw (SC) 1087",
+"date":"2026-10-26",
+"court":"Supreme Court of India",
+"bench":"Manoj Misra, K.V. Viswanathan JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Electricity theft – restoration of supply",
+"tag":"If a provisional theft assessment looks prima facie arbitrary, a High Court may order supply restored on deposit of at least 50%; 'assessed amount' under s.135(1A) follows the s.126 procedure",
+"source":"https://www.livelaw.in/supreme-court/in-electricity-theft-caseshigh-courts-can-restore-supply-on-50-deposit-if-provisional-assessment-appears-arbitrary-supreme-court-556065",
+"kind":"new",
+"year":2026,
+"id":"dakshin-gujarat-vij-company-ltd-v-vaibhav-metal-2026",
+"added":"2026-10-28"
+},
+{
+"name":"Assessing Officer, Textiles Committee v. M/s Premium Suiting Pvt. Ltd.",
+"cite":"2026 LiveLaw (SC) 1088",
+"date":"2026-10-26",
+"court":"Supreme Court of India",
+"bench":"S.V.N. Bhatti, N.V. Anjaria JJ",
+"subjects":[
+"Tax Law"
+],
+"topic":"Textile cess – meaning of manufacture",
+"tag":"Job workers who only bleach and dye fabric made by exempt handloom/powerloom units do not 'manufacture' textiles under s.5A Textiles Committee Act; Central Excise definition cannot be borrowed",
+"source":"https://www.livelaw.in/supreme-court/bleaching-dyeing-of-handloom-and-powerloom-fabrics-by-job-workers-not-manufacture-of-textiles-to-attract-cess-supreme-court-556140",
+"kind":"new",
+"year":2026,
+"id":"assessing-officer-textiles-committee-v-m-s-premi-2026",
+"added":"2026-10-28"
+},
+{
+"name":"I.S. Inbadurai v. A.T. Durai Kumar",
+"cite":"2026:MHC:4285",
+"date":"2026-10-26",
+"court":"Madras High Court",
+"bench":"Sushrut Arvind Dharmadhikari CJ, G. Arul Murugan J",
+"subjects":[
+"Criminal Procedure",
+"Constitutional Law"
+],
+"topic":"Hearing before FIR direction (s.175(4) BNSS)",
+"tag":"The s.175(4) BNSS safeguard binds a Magistrate, not a writ court directing an FIR on an agency's material; a proposed accused has no general right to be heard before investigation",
+"source":"https://www.verdictum.in/madras-high-court/is-inbadurai-v-at-durai-kumar-and-connected-matters-2026mhc4285-1624668",
+"kind":"new",
+"year":2026,
+"id":"i-s-inbadurai-v-a-t-durai-kumar-2026",
+"added":"2026-10-28"
 },
 {
 "name":"Victim X v. State of U.P.",
@@ -3151,6 +3326,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Municipal Council, Ratlam v. Vardhichand",
+"cite":"(1980) 4 SCC 162",
+"year":1980,
+"court":"Supreme Court of India",
+"subjects":[
+"Environmental Law"
+],
+"topic":"Public nuisance – municipal duty",
+"tag":"A municipality cannot plead lack of funds to escape its statutory duty to remove public nuisance; a Magistrate under s.133 CrPC can compel it to provide sanitation",
+"kind":"landmark",
+"id":"municipal-council-ratlam-v-vardhichand-1980",
+"added":"2026-10-28"
+},
+{
 "name":"S.P. Gupta v. Union of India",
 "cite":"1981 Supp SCC 87",
 "year":1981,
@@ -3403,6 +3592,20 @@
 "added":"2026-10-24"
 },
 {
+"name":"Union of India v. Raghubir Singh",
+"cite":"(1989) 2 SCC 754",
+"year":1989,
+"court":"Supreme Court of India",
+"subjects":[
+"Jurisprudence"
+],
+"topic":"Binding precedent – bench strength",
+"tag":"A larger Bench's ruling binds smaller and co-equal Benches; a Bench that doubts a co-equal decision must refer the question to a larger Bench rather than depart from it",
+"kind":"landmark",
+"id":"union-of-india-v-raghubir-singh-1989",
+"added":"2026-10-28"
+},
+{
 "name":"State of Haryana v. Bhajan Lal",
 "cite":"1992 Supp (1) SCC 335",
 "year":1990,
@@ -3415,6 +3618,21 @@
 "kind":"landmark",
 "id":"state-of-haryana-v-bhajan-lal-1990",
 "added":"2026-10-20"
+},
+{
+"name":"Wander Ltd. v. Antox India P. Ltd.",
+"cite":"1990 Supp SCC 727",
+"year":1990,
+"court":"Supreme Court of India",
+"subjects":[
+"Intellectual Property",
+"Civil Procedure"
+],
+"topic":"Interim injunctions – appellate interference",
+"tag":"An appeal court should not substitute its own view on a trial court's interim injunction in a passing-off case unless the discretion was exercised arbitrarily, perversely or against settled principle",
+"kind":"landmark",
+"id":"wander-ltd-v-antox-india-p-ltd-1990",
+"added":"2026-10-28"
 },
 {
 "name":"Union Carbide Corporation v. Union of India",
@@ -4290,6 +4508,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Deepali Gundu Surwase v. Kranti Junior Adhyapak Mahavidyalaya (D.Ed.)",
+"cite":"(2013) 10 SCC 324",
+"year":2013,
+"court":"Supreme Court of India",
+"subjects":[
+"Labour Law"
+],
+"topic":"Back wages on reinstatement",
+"tag":"Reinstatement after wrongful termination normally carries full back wages; the employer must prove the employee was gainfully employed meanwhile to cut them down",
+"kind":"landmark",
+"id":"deepali-gundu-surwase-v-kranti-junior-adhyapak-ma-2013",
+"added":"2026-10-28"
+},
+{
 "name":"Aveek Sarkar v. State of West Bengal",
 "cite":"(2014) 4 SCC 257",
 "year":2014,
@@ -4589,6 +4821,20 @@
 "kind":"landmark",
 "id":"common-cause-v-union-of-india-2018",
 "added":"2026-10-20"
+},
+{
+"name":"Commissioner of Customs (Import), Mumbai v. Dilip Kumar & Co.",
+"cite":"(2018) 9 SCC 1",
+"year":2018,
+"court":"Supreme Court of India",
+"subjects":[
+"Tax Law"
+],
+"topic":"Interpretation of exemption notifications",
+"tag":"Constitution Bench: exemption notifications are read strictly and any ambiguity goes in favour of the revenue; the assessee must prove it falls within the exemption",
+"kind":"landmark",
+"id":"commissioner-of-customs-import-mumbai-v-dilip-2018",
+"added":"2026-10-28"
 },
 {
 "name":"Ravinder Kaur Grewal v. Manjit Kaur",
