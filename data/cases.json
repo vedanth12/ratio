@@ -1,6 +1,183 @@
 {
-"updated":"2026-10-28T07:23+05:30",
+"updated":"2026-10-29T07:19+05:30",
 "cases":[
+{
+"name":"ECL Finance Ltd. v. Abhinav Mukherjee",
+"cite":"2026 LiveLaw (SC) 1093",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Insolvency"
+],
+"topic":"Related party – exclusion from CoC (s.5(24)(m), s.21 IBC)",
+"tag":"A lender whose contracts let it steer the debtor's budgets, plans and revenues is a related party under s.5(24)(m) IBC and, with its debenture trustee, is barred from the CoC; a lower bar than s.29A 'control'",
+"source":"https://www.verdictum.in/supreme-court/ecl-finance-limited-and-another-v-abhinav-mukherjee-and-others-2026-insc-1159-1624720",
+"kind":"new",
+"year":2026,
+"id":"ecl-finance-ltd-v-abhinav-mukherjee-2026",
+"added":"2026-10-29"
+},
+{
+"name":"Raju Shantaram Koli v. State of Maharashtra",
+"cite":"2026 LiveLaw (SC) 1094",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Arun Palli, K.V. Viswanathan JJ",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Multiple life sentences – concurrent running",
+"tag":"Life terms imposed for different offences in one trial (here IPC 302 and 376) cannot be ordered to run one after another; they overlap, and remission of one does not shorten the other",
+"source":"https://www.verdictum.in/supreme-court/raju-shantaram-koli-v-the-state-of-maharashtra-2026-insc-1161-life-sentences-remission-commutation-1624731",
+"kind":"new",
+"year":2026,
+"id":"raju-shantaram-koli-v-state-of-maharashtra-2026",
+"added":"2026-10-29"
+},
+{
+"name":"Union of India v. Narender Kumar",
+"cite":"2026 LiveLaw (SC) 1095",
+"date":"2026-10-28",
+"court":"Supreme Court of India",
+"bench":"P.S. Narasimha, Alok Aradhe JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"War Injury Pension – interpreting pension policy",
+"tag":"Illness developed during a notified operation (Op Rakshak, Kargil) qualifies for War Injury Pension; an unwritten official view cannot narrow a policy's plain words, and pension rules are read liberally",
+"source":"https://www.livelaw.in/supreme-court/supreme-court-dismisses-centres-challenge-to-war-injury-pension-to-soldier-posted-in-kargil-556359",
+"kind":"new",
+"year":2026,
+"id":"union-of-india-v-narender-kumar-2026",
+"added":"2026-10-29"
+},
+{
+"name":"State of Rajasthan v. Jhabra Ram",
+"cite":"2026 LiveLaw (SC) 1097",
+"date":"2026-10-28",
+"court":"Supreme Court of India",
+"bench":"M.M. Sundresh, Prasanna B. Varale JJ",
+"subjects":[
+"Criminal Procedure",
+"Constitutional Law"
+],
+"topic":"Grounds of arrest – Art 22(1), s.47 BNSS",
+"tag":"Where the accused in fact knew the arrest grounds and had counsel at remand, a lapse in giving them in writing is no ground for bail unless real prejudice is shown; bail set aside in an espionage case",
+"source":"https://www.livelaw.in/supreme-court/procedural-defect-in-informing-arrest-grounds-wont-lead-to-bail-if-no-prejudice-caused-to-accused-supreme-court-556379",
+"kind":"new",
+"year":2026,
+"id":"state-of-rajasthan-v-jhabra-ram-2026",
+"added":"2026-10-29"
+},
+{
+"name":"Gopal Lodhi v. State of Madhya Pradesh",
+"cite":"2026 LiveLaw (SC) 1098",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Quashing on compromise – rape (s.528 BNSS / s.482 CrPC)",
+"tag":"A rape case (s.64 BNS, with SC/ST Act charges) cannot be quashed merely because the parties settled; doing so for a non-compoundable offence oversteps inherent power, more so where the victim says she was coerced",
+"source":"https://www.livelaw.in/top-stories/rape-case-cant-be-quashed-solely-on-settlement-between-victim-accused-supreme-court-556382",
+"kind":"new",
+"year":2026,
+"id":"gopal-lodhi-v-state-of-madhya-pradesh-2026",
+"added":"2026-10-29"
+},
+{
+"name":"Gangaram v. State of Rajasthan",
+"cite":"2026:RJ-JP:40987-DB",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Rajasthan High Court",
+"bench":"Sanjay K. Agrawal CJ, Sameer Jain, Praveer Bhatnagar JJ (Full Bench)",
+"subjects":[
+"Criminal Law",
+"Administrative Law"
+],
+"topic":"Open-air camps – rape/POCSO convicts",
+"tag":"Full Bench: 'ordinarily' in Rule 3(d) of the 1972 Open Air Camp Rules is not a total bar; rape and POCSO convicts may be admitted on exceptional circumstances after a reasoned, individual assessment",
+"source":"https://www.verdictum.in/rajasthan-high-court/gangaram-v-state-of-rajasthan-and-others-2026rj-jp40987-db-open-air-camps-1624717",
+"kind":"new",
+"year":2026,
+"id":"gangaram-v-state-of-rajasthan-2026",
+"added":"2026-10-29"
+},
+{
+"name":"Janhit Sewa Charitable Trust v. Ashulika Sharma",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Punjab and Haryana High Court",
+"bench":"Deepak Gupta J",
+"subjects":[
+"Property Law"
+],
+"topic":"Public charitable trust – succession to trusteeship",
+"tag":"Prima facie, a life trustee of a public charitable trust cannot pass the office on by will; new trustees come from the deed's appointing power, the continuing trustees or the court",
+"source":"https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-trusteeship-of-public-charitable-trust-is-a-personal-office-and-cannot-be-bequeathed-by-will-556348",
+"kind":"new",
+"year":2026,
+"id":"janhit-sewa-charitable-trust-v-ashulika-sharma-2026",
+"added":"2026-10-29"
+},
+{
+"name":"Barun Kumar Chattopadhyay v. Special Director, Enforcement Directorate",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Calcutta High Court",
+"bench":"Ananya Bandyopadhyay J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"FEMA s.35 appeal against saved FERA penalty – forum",
+"tag":"An appeal under s.35 FEMA against a penalty for pre-repeal FERA breaches is heard on the criminal side, since the saved liability keeps its penal character; s.35 itself does not fix the side",
+"source":"https://www.verdictum.in/calcutta-high-court/barun-kumar-chattopadhyay-v-special-director-enforcement-directorate-and-connected-appeals-1624733",
+"kind":"new",
+"year":2026,
+"id":"barun-kumar-chattopadhyay-v-special-director-enf-2026",
+"added":"2026-10-29"
+},
+{
+"name":"Accused v. State of U.P. (Allahabad HC, second s.216 CrPC plea)",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Allahabad High Court",
+"bench":"Saurabh Srivastava J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Alteration of charge – s.216 CrPC (s.239 BNSS)",
+"tag":"Rejection of an early plea to add a charge does not bar a fresh one; a trial court may add a charge (here IPC 307) at any time before judgment once trial evidence supports it",
+"source":"https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-section-216-crpc-second-plea-charge-556274",
+"kind":"new",
+"year":2026,
+"id":"accused-v-state-of-u-p-allahabad-hc-second-s-2-2026",
+"added":"2026-10-29"
+},
+{
+"name":"AAM v. State of Madhya Pradesh",
+"cite":"2026 LiveLaw (MP) 435",
+"date":"2026-10-28",
+"reported":"Reported 28 Oct 2026",
+"court":"Madhya Pradesh High Court",
+"bench":"Himanshu Joshi J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"S.69 BNS – false promise to marry",
+"tag":"A woman's education and financial independence do not by themselves show her consent was free of deception under s.69 BNS; whether the promise was false from the start is for trial, so the FIR stands",
+"source":"https://www.livelaw.in/high-court/madhya-pradesh-high-court/woman-education-does-not-rule-out-consent-obtained-by-deception-false-promise-to-marry-556334",
+"kind":"new",
+"year":2026,
+"id":"aam-v-state-of-madhya-pradesh-2026",
+"added":"2026-10-29"
+},
 {
 "name":"Balakrishna (Dead) Thr. LRs v. G.N. Kanniah Naidu (Dead) Thr. LRs",
 "cite":"2026 LiveLaw (SC) 1089",
@@ -123,6 +300,24 @@
 "year":2026,
 "id":"chamra-oraon-v-state-of-jharkhand-2026",
 "added":"2026-10-28"
+},
+{
+"name":"M/s Lakshmi Sugar Mills Co. Ltd. v. Commissioner of Income Tax, Delhi-II",
+"cite":"2026 LiveLaw (SC) 1092",
+"date":"2026-10-27",
+"reported":"Reported 28 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"S.V.N. Bhatti, N.V. Anjaria JJ",
+"subjects":[
+"Tax Law"
+],
+"topic":"S.43B Income Tax Act – unpaid excise duty",
+"tag":"S.43B only defers a deduction the assessee actually claims; unpaid excise duty on stock still in a bonded warehouse, never debited as an expense, cannot be added back to income",
+"source":"https://www.livelaw.in/supreme-court/s-43b-income-tax-unpaid-excise-duty-cannot-be-disallowed-if-no-deduction-was-claimed-supreme-court-556243",
+"kind":"new",
+"year":2026,
+"id":"m-s-lakshmi-sugar-mills-co-ltd-v-commissioner-o-2026",
+"added":"2026-10-29"
 },
 {
 "name":"Bank of India v. S.M. Kamal Pasha",
@@ -2273,6 +2468,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Reg. v. Govinda",
+"cite":"(1876) ILR 1 Bom 342",
+"year":1876,
+"court":"Bombay High Court",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Culpable homicide vs murder (ss.299–300 IPC; ss.100–101 BNS)",
+"tag":"Melvill J set out the side-by-side comparison of ss.299 and 300 IPC; a fatal blow not intended or likely enough to cause death in the ordinary course was culpable homicide, not murder",
+"kind":"landmark",
+"id":"reg-v-govinda-1876",
+"added":"2026-10-29"
+},
+{
 "name":"Chinnaya v. Ramayya",
 "cite":"(1882) ILR 4 Mad 137",
 "year":1881,
@@ -2576,6 +2785,20 @@
 "kind":"landmark",
 "id":"state-of-west-bengal-v-anwar-ali-sarkar-1952",
 "added":"2026-10-20"
+},
+{
+"name":"Kashmira Singh v. State of Madhya Pradesh",
+"cite":"AIR 1952 SC 159",
+"year":1952,
+"court":"Supreme Court of India",
+"subjects":[
+"Evidence"
+],
+"topic":"Confession of co-accused – s.30 Evidence Act (s.24 BSA)",
+"tag":"A co-accused's confession is not substantive evidence; the court first weighs the other evidence and may use the confession only to lend assurance to a conclusion already reached",
+"kind":"landmark",
+"id":"kashmira-singh-v-state-of-madhya-pradesh-1952",
+"added":"2026-10-29"
 },
 {
 "name":"Satyabrata Ghose v. Mugneeram Bangur",
@@ -3592,6 +3815,20 @@
 "added":"2026-10-24"
 },
 {
+"name":"Bijoe Emmanuel v. State of Kerala",
+"cite":"(1986) 3 SCC 615",
+"year":1986,
+"court":"Supreme Court of India",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Freedom of conscience – national anthem",
+"tag":"Students expelled for not singing the national anthem, while standing in respect, were protected by Arts 19(1)(a) and 25; no law compelled singing it and silent respect shows no disrespect",
+"kind":"landmark",
+"id":"bijoe-emmanuel-v-state-of-kerala-1986",
+"added":"2026-10-29"
+},
+{
 "name":"Union of India v. Raghubir Singh",
 "cite":"(1989) 2 SCC 754",
 "year":1989,
@@ -4591,6 +4828,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Hardeep Singh v. State of Punjab",
+"cite":"(2014) 3 SCC 92",
+"year":2014,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Summoning additional accused – s.319 CrPC (s.358 BNSS)",
+"tag":"Constitution Bench: s.319 can be used on evidence including examination-in-chief, before cross-examination; the test is more than a prima facie case but less than proof enough to convict",
+"kind":"landmark",
+"id":"hardeep-singh-v-state-of-punjab-2014",
+"added":"2026-10-29"
+},
+{
 "name":"Supreme Court Advocates-on-Record Assn. v. Union of India (NJAC)",
 "cite":"(2016) 5 SCC 1",
 "year":2015,
@@ -4890,6 +5141,20 @@
 "kind":"landmark",
 "id":"committee-of-creditors-of-essar-steel-india-ltd-v-2019",
 "added":"2026-10-20"
+},
+{
+"name":"Pioneer Urban Land and Infrastructure Ltd. v. Union of India",
+"cite":"(2019) 8 SCC 416",
+"year":2019,
+"court":"Supreme Court of India",
+"subjects":[
+"Insolvency"
+],
+"topic":"Homebuyers as financial creditors",
+"tag":"Upheld the 2018 IBC amendment treating real-estate allottees as financial creditors, so homebuyers can trigger insolvency and sit on the CoC",
+"kind":"landmark",
+"id":"pioneer-urban-land-and-infrastructure-ltd-v-unio-2019",
+"added":"2026-10-29"
 },
 {
 "name":"Anuradha Bhasin v. Union of India",
