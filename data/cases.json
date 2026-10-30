@@ -1,5 +1,5 @@
 {
-"updated":"2026-10-29T07:19+05:30",
+"updated":"2026-10-30T07:17+05:30",
 "cases":[
 {
 "name":"ECL Finance Ltd. v. Abhinav Mukherjee",
@@ -2842,6 +2842,21 @@
 "added":"2026-10-20"
 },
 {
+"name":"Bacha F. Guzdar v. Commissioner of Income Tax, Bombay",
+"year":1954,
+"court":"Supreme Court of India",
+"subjects":[
+"Company Law",
+"Tax Law"
+],
+"topic":"Separate legal personality",
+"tag":"A shareholder does not own the company's assets; dividends from a tea company are not agricultural income in the shareholder's hands",
+"source":"https://www.casemine.com/commentary/in/dividend-income-not-classified-as-agricultural-income:-bacha-f.-guzdar-v.-commissioner-of-income-tax/view",
+"kind":"landmark",
+"id":"bacha-f-guzdar-v-commissioner-of-income-tax-bom-1954",
+"added":"2026-10-30"
+},
+{
 "name":"Sangram Singh v. Election Tribunal",
 "cite":"AIR 1955 SC 425",
 "year":1955,
@@ -2910,6 +2925,20 @@
 "kind":"landmark",
 "id":"ganga-dhar-v-shankar-lal-1958",
 "added":"2026-10-20"
+},
+{
+"name":"Workmen of Dimakuchi Tea Estate v. Management of Dimakuchi Tea Estate",
+"year":1958,
+"court":"Supreme Court of India",
+"subjects":[
+"Labour Law"
+],
+"topic":"Industrial dispute",
+"tag":"'Any person' in s.2(k) ID Act is limited to persons in whose employment or terms the workmen have a direct and substantial interest",
+"source":"https://www.casemine.com/commentary/in/dimakuchi-tea-estate-v.-management:-defining-any-person-in-industrial-disputes-act,-1947/view",
+"kind":"landmark",
+"id":"workmen-of-dimakuchi-tea-estate-v-management-of-d-1958",
+"added":"2026-10-30"
 },
 {
 "name":"Gherulal Parakh v. Mahadeodas Maiya",
@@ -3166,6 +3195,20 @@
 "kind":"landmark",
 "id":"bhaurao-shankar-lokhande-v-state-of-maharashtra-1965",
 "added":"2026-10-23"
+},
+{
+"name":"Keshav Mills Co. Ltd. v. Commissioner of Income Tax, Bombay North",
+"year":1965,
+"court":"Supreme Court of India",
+"subjects":[
+"Jurisprudence"
+],
+"topic":"Precedent",
+"tag":"The Supreme Court may revisit its own earlier decisions, but should do so only for compelling reasons, not merely because another view is possible",
+"source":"https://www.legitquest.com/case/the-keshav-mills-co-ltd-v-commissioner-of-income-tax-bombay-north/48d3",
+"kind":"landmark",
+"id":"keshav-mills-co-ltd-v-commissioner-of-income-ta-1965",
+"added":"2026-10-30"
 },
 {
 "name":"Bhagwandas Goverdhandas Kedia v. Girdharilal Parshottamdas",
@@ -4842,6 +4885,20 @@
 "added":"2026-10-29"
 },
 {
+"name":"Commissioner of Income Tax v. Vatika Township Pvt. Ltd.",
+"year":2014,
+"court":"Supreme Court of India",
+"subjects":[
+"Tax Law"
+],
+"topic":"Retrospective taxation",
+"tag":"Tax amendments creating a new burden are presumed prospective; the surcharge proviso to s.113 IT Act did not apply to earlier block assessments",
+"source":"https://itatonline.org/archives/?p=8387",
+"kind":"landmark",
+"id":"commissioner-of-income-tax-v-vatika-township-pvt-2014",
+"added":"2026-10-30"
+},
+{
 "name":"Supreme Court Advocates-on-Record Assn. v. Union of India (NJAC)",
 "cite":"(2016) 5 SCC 1",
 "year":2015,
@@ -5086,6 +5143,20 @@
 "kind":"landmark",
 "id":"commissioner-of-customs-import-mumbai-v-dilip-2018",
 "added":"2026-10-28"
+},
+{
+"name":"ArcelorMittal India Pvt. Ltd. v. Satish Kumar Gupta",
+"year":2018,
+"court":"Supreme Court of India",
+"subjects":[
+"Insolvency"
+],
+"topic":"Resolution applicant eligibility",
+"tag":"s.29A IBC bars resolution applicants linked to defaulting promoters; the corporate veil may be lifted to test who is really behind a bid",
+"source":"https://indiacorplaw.in/2018/10/07/essar-steel-case-supreme-decodes-section-29a-ibc/",
+"kind":"landmark",
+"id":"arcelormittal-india-pvt-ltd-v-satish-kumar-gupt-2018",
+"added":"2026-10-30"
 },
 {
 "name":"Ravinder Kaur Grewal v. Manjit Kaur",
