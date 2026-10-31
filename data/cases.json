@@ -1,6 +1,23 @@
 {
-"updated":"2026-10-30T07:17+05:30",
+"updated":"2026-10-31T07:17+05:30",
 "cases":[
+{
+"name":"Damodar Valley Corporation v. Maithan Alloys Ltd.",
+"cite":"2026 LiveLaw (SC) 1110",
+"date":"2026-10-30",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Tribunal review power and binding precedent (Art. 141)",
+"tag":"APTEL acted illegally in using its review power to undo its own earlier ruling that had followed a Supreme Court precedent; tribunals are bound by Art. 141 and judicial discipline, and costs were imposed",
+"source":"https://www.livelaw.in/supreme-court/aptel-has-gone-haywire-supreme-court-slams-tribunal-for-overruling-sc-precedent-in-review-556678",
+"kind":"new",
+"year":2026,
+"id":"damodar-valley-corporation-v-maithan-alloys-ltd-2026",
+"added":"2026-10-31"
+},
 {
 "name":"ECL Finance Ltd. v. Abhinav Mukherjee",
 "cite":"2026 LiveLaw (SC) 1093",
@@ -3038,6 +3055,34 @@
 "added":"2026-10-20"
 },
 {
+"name":"Om Parkash v. State of Punjab",
+"year":1961,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Attempt to murder (s.307 IPC / s.109 BNS)",
+"tag":"An attempt need not be the last act before the crime; deliberately starving a wife over time, with intent to kill, was attempt to murder under s.307 IPC",
+"source":"https://blog.ipleaders.in/om-prakash-v-state-of-punjab-1961/",
+"kind":"landmark",
+"id":"om-parkash-v-state-of-punjab-1961",
+"added":"2026-10-31"
+},
+{
+"name":"Daryao v. State of U.P.",
+"year":1961,
+"court":"Supreme Court of India",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Res judicata and writ petitions",
+"tag":"Res judicata applies to writs: once a High Court decides an Art. 226 petition on merits, the same claim cannot be raised afresh under Art. 32, though a dismissal in limine does not bar it",
+"source":"https://blog.ipleaders.in/daryao-vs-state-of-u-p-1961/",
+"kind":"landmark",
+"id":"daryao-v-state-of-u-p-1961",
+"added":"2026-10-31"
+},
+{
 "name":"Jumma Masjid v. Kodimaniandra Deviah",
 "cite":"AIR 1962 SC 847",
 "year":1962,
@@ -3092,6 +3137,20 @@
 "kind":"landmark",
 "id":"state-of-rajasthan-v-vidyawati-1962",
 "added":"2026-10-26"
+},
+{
+"name":"Sakal Papers (P) Ltd. v. Union of India",
+"year":1962,
+"court":"Supreme Court of India",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Freedom of the press",
+"tag":"A law tying a newspaper's price to its number of pages was struck down: curbing circulation restricts free speech under Art. 19(1)(a) and cannot be justified as a business regulation",
+"source":"https://globalfreedomofexpression.columbia.edu/cases/sakal-papers-p-ltd-v-the-union-of-india",
+"kind":"landmark",
+"id":"sakal-papers-p-ltd-v-union-of-india-1962",
+"added":"2026-10-31"
 },
 {
 "name":"Ridge v. Baldwin",
@@ -3308,6 +3367,20 @@
 "status":"good",
 "bench":"13 judges (7:6)"
 }
+},
+{
+"name":"Shivaji Sahabrao Bobade v. State of Maharashtra",
+"year":1973,
+"court":"Supreme Court of India",
+"subjects":[
+"Evidence"
+],
+"topic":"Standard of proof in criminal cases",
+"tag":"Guilt must be proved beyond reasonable doubt: the accused 'must be' guilty, not merely 'may be'; fanciful doubts and minor flaws should not let the guilty go free",
+"source":"https://lawinsider.in/judgment/landmark-judgement-shivaji-sahabrao-bobade-v-state-of-maharashtra-1973",
+"kind":"landmark",
+"id":"shivaji-sahabrao-bobade-v-state-of-maharashtra-1973",
+"added":"2026-10-31"
 },
 {
 "name":"E.P. Royappa v. State of Tamil Nadu",
@@ -5226,6 +5299,20 @@
 "kind":"landmark",
 "id":"pioneer-urban-land-and-infrastructure-ltd-v-unio-2019",
 "added":"2026-10-29"
+},
+{
+"name":"Rupali Devi v. State of Uttar Pradesh",
+"year":2019,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Territorial jurisdiction in s.498A cases",
+"tag":"A wife driven out of her matrimonial home can file a s.498A IPC cruelty complaint where she takes shelter, since the mental effects of cruelty continue there (s.179 CrPC / s.197 BNSS)",
+"source":"https://www.scconline.com/blog/post/2019/04/09/sc-woman-driven-out-of-matrimonial-home-can-file-case-under-section-498-a-from-the-place-she-has-taken-shelter-at/",
+"kind":"landmark",
+"id":"rupali-devi-v-state-of-uttar-pradesh-2019",
+"added":"2026-10-31"
 },
 {
 "name":"Anuradha Bhasin v. Union of India",
