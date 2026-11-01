@@ -1,5 +1,5 @@
 {
-"updated":"2026-10-31T07:17+05:30",
+"updated":"2026-11-01T07:19+05:30",
 "cases":[
 {
 "name":"Damodar Valley Corporation v. Maithan Alloys Ltd.",
@@ -17,6 +17,91 @@
 "year":2026,
 "id":"damodar-valley-corporation-v-maithan-alloys-ltd-2026",
 "added":"2026-10-31"
+},
+{
+"name":"Girishbhai Natwarlal Patel v. Gautam Punjabhai Palkhiwala",
+"date":"2026-10-30",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Compromise decrees",
+"tag":"The s.96(3) CPC bar on appealing a consent decree binds only the parties to the compromise; a stranger whose rights the decree prejudices may seek leave to appeal (O.XXIII R.3, 3A)",
+"source":"https://lawtrend.in/section-963-cpc-bar-on-appeals-against-consent-decrees-applies-only-to-parties-not-strangers-supreme-court/",
+"kind":"new",
+"year":2026,
+"id":"girishbhai-natwarlal-patel-v-gautam-punjabhai-pal-2026",
+"added":"2026-11-01"
+},
+{
+"name":"Former NHPC Official v. Directorate of Enforcement (P&H HC, s.223(2) BNSS)",
+"court":"Punjab and Haryana High Court",
+"date":"2026-10-30",
+"reported":"Reported 30 Oct 2026",
+"bench":"Sumeet Goel J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Cognizance",
+"tag":"s.223(2) BNSS safeguards apply to ED complaints under PMLA against public servants; a prosecution sanction under s.218 BNSS cannot stand in for the superior officer's report, so cognizance taken without it was quashed",
+"source":"https://www.livelaw.in/high-court/punjab-and-haryana-high-court/section-2232b-bnss-mandatory-before-cognizance-pmla-cases-against-public-servants-556657",
+"kind":"new",
+"year":2026,
+"id":"former-nhpc-official-v-directorate-of-enforcement-2026",
+"added":"2026-11-01"
+},
+{
+"name":"In re POCSO Victim's Deposition (Gujarat HC, in-camera trial)",
+"court":"Gujarat High Court",
+"date":"2026-10-30",
+"reported":"Reported 30 Oct 2026",
+"bench":"Mool Chand Tyagi J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"POCSO trial procedure",
+"tag":"A victim who was a minor at the time of the offence must still depose in camera under ss.33(2), 36 and 37 POCSO Act even if she turns 18 before the trial starts",
+"source":"https://hindi.livelaw.in/gujrat-high-court/gujarat-high-court-pocso-act-minor-victim-in-camera-proceedings-victim-deposition-556635",
+"kind":"new",
+"year":2026,
+"id":"in-re-pocso-victim-s-deposition-gujarat-hc-in-ca-2026",
+"added":"2026-11-01"
+},
+{
+"name":"Bandari Ramchander v. Maitri Cooperative Housing Society Ltd.",
+"cite":"2026 INSC 1175",
+"date":"2026-10-29",
+"court":"Supreme Court of India",
+"bench":"M.M. Sundresh, Satish Chandra Sharma JJ",
+"subjects":[
+"Property Law",
+"Administrative Law"
+],
+"topic":"Jagir abolition – title to land",
+"tag":"A jagir grant gave revenue rights, not ownership; on abolition (Telangana Jagirs Abolition Regulation, 1358F) the land vested in the State, and stray revenue entries or later sales could not defeat that title",
+"source":"https://rawlaw.in/supreme-court-upholds-telangana-state-ownership-of-miyapur-lands-rejects-private-claims-based-on-jagir-grants-and-fraudulent-revenue-entries-dismisses-all-connected-appeals/",
+"kind":"new",
+"year":2026,
+"id":"bandari-ramchander-v-maitri-cooperative-housing-s-2026",
+"added":"2026-11-01"
+},
+{
+"name":"M/s Mansi Finance (Chennai) Ltd. v. M. Lalitha (clarification application)",
+"date":"2026-10-29",
+"court":"Supreme Court of India",
+"bench":"Prashant Kumar Mishra, N.V. Anjaria JJ",
+"subjects":[
+"Criminal Law",
+"Commercial Law"
+],
+"topic":"Cheque bounce (s.138 NI Act)",
+"tag":"Its May 2026 ruling did not decide state money-lending laws; whether an unlicensed Maharashtra lender's pronote loan is enforceable under s.138 NI Act is for the trial court, and a licence must be shown at the outset",
+"source":"https://lawtrend.in/enforceability-of-unlicensed-money-lenders-pronote-loan-under-section-138-ni-act-is-for-concerned-court-to-decide-supreme-court/",
+"kind":"new",
+"year":2026,
+"id":"m-s-mansi-finance-chennai-ltd-v-m-lalitha-cl-2026",
+"added":"2026-11-01"
 },
 {
 "name":"ECL Finance Ltd. v. Abhinav Mukherjee",
@@ -337,6 +422,23 @@
 "added":"2026-10-29"
 },
 {
+"name":"Arun Thomas Ferreira v. State of Maharashtra",
+"date":"2026-10-27",
+"court":"Bombay High Court (Nagpur Bench)",
+"bench":"Urmila Joshi Phalke, Raj D. Wakode JJ",
+"subjects":[
+"Constitutional Law",
+"Criminal Procedure"
+],
+"topic":"Arrest",
+"tag":"Re-arrest outside prison in 2011 without telling the grounds of arrest or making a diary entry was illegal and breached Art. 21; State ordered to pay ₹2 lakh as public-law compensation (following Rudul Sah)",
+"source":"https://lawchakra.in/high-court/bombay-high-court/arun-ferreira-arrest-illegal/",
+"kind":"new",
+"year":2026,
+"id":"arun-thomas-ferreira-v-state-of-maharashtra-2026",
+"added":"2026-11-01"
+},
+{
 "name":"Bank of India v. S.M. Kamal Pasha",
 "cite":"2026 LiveLaw (SC) 1084",
 "date":"2026-10-26",
@@ -600,6 +702,22 @@
 "year":2026,
 "id":"karuna-sumit-kamble-v-deputy-director-of-educatio-2026",
 "added":"2026-10-26"
+},
+{
+"name":"S. Veeraraghavan v. State of Tamil Nadu",
+"date":"2026-10-23",
+"court":"Madras High Court (Madurai Bench)",
+"bench":"G.R. Swaminathan, P. Murugan JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Freedom of religion – Article 25",
+"tag":"Choosing a mutt pontiff (Srirangam Jeeyar) is a purely religious act; the HR&CE Department can only take note of the choice, not appoint or approve, and leaving the post vacant infringes Art. 25",
+"source":"https://thelawcommunicants.com/choosing-a-temple-pontiff-is-a-purely-religious-function-rules-madras-high-court/",
+"kind":"new",
+"year":2026,
+"id":"s-veeraraghavan-v-state-of-tamil-nadu-2026",
+"added":"2026-11-01"
 },
 {
 "name":"Bipin Satish Chandra Agrwal v. State of Maharashtra",
@@ -2958,6 +3076,20 @@
 "added":"2026-10-30"
 },
 {
+"name":"Bishan Singh v. Khazan Singh",
+"cite":"",
+"year":1958,
+"court":"Supreme Court of India",
+"subjects":[
+"Property Law"
+],
+"topic":"Pre-emption",
+"tag":"Pre-emption is a weak, secondary right of substitution: the pre-emptor steps into the buyer's shoes, and it can be defeated by a person with an equal or better right",
+"kind":"landmark",
+"id":"bishan-singh-v-khazan-singh-1958",
+"added":"2026-11-01"
+},
+{
 "name":"Gherulal Parakh v. Mahadeodas Maiya",
 "cite":"AIR 1959 SC 781",
 "year":1959,
@@ -3153,6 +3285,20 @@
 "added":"2026-10-31"
 },
 {
+"name":"Murlidhar Chiranjilal v. Harishchandra Dwarkadas",
+"cite":"",
+"year":1962,
+"court":"Supreme Court of India",
+"subjects":[
+"Contract"
+],
+"topic":"Damages",
+"tag":"Damages for breach under s.73 Contract Act are the market-price difference at breach, and the injured party must take reasonable steps to mitigate; avoidable loss is not recoverable",
+"kind":"landmark",
+"id":"murlidhar-chiranjilal-v-harishchandra-dwarkadas-1962",
+"added":"2026-11-01"
+},
+{
 "name":"Ridge v. Baldwin",
 "cite":"[1964] AC 40",
 "year":1963,
@@ -3282,6 +3428,20 @@
 "kind":"landmark",
 "id":"bhagwandas-goverdhandas-kedia-v-girdharilal-parsh-1966",
 "added":"2026-10-20"
+},
+{
+"name":"Municipal Corporation of Delhi v. Subhagwanti",
+"cite":"",
+"year":1966,
+"court":"Supreme Court of India",
+"subjects":[
+"Torts"
+],
+"topic":"Negligence – res ipsa loquitur",
+"tag":"Owner of a clock tower on a highway that collapsed was liable; the fall itself spoke of negligence, and a latent defect that proper inspection would have revealed is no defence",
+"kind":"landmark",
+"id":"municipal-corporation-of-delhi-v-subhagwanti-1966",
+"added":"2026-11-01"
 },
 {
 "name":"Golak Nath v. State of Punjab",
@@ -3721,6 +3881,20 @@
 "kind":"landmark",
 "id":"needle-industries-india-ltd-v-needle-industrie-1981",
 "added":"2026-10-27"
+},
+{
+"name":"S.L. Kapoor v. Jagmohan",
+"cite":"",
+"year":1981,
+"court":"Supreme Court of India",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Natural justice",
+"tag":"Supersession of a municipal committee without a hearing was void; breach of natural justice is itself prejudice, and hearing may be dispensed with only where just one conclusion is possible on admitted facts",
+"kind":"landmark",
+"id":"s-l-kapoor-v-jagmohan-1981",
+"added":"2026-11-01"
 },
 {
 "name":"Randhir Singh v. Union of India",
@@ -4632,6 +4806,20 @@
 "kind":"landmark",
 "id":"secretary-state-of-karnataka-v-umadevi-2006",
 "added":"2026-10-20"
+},
+{
+"name":"Naveen Kohli v. Neelu Kohli",
+"cite":"",
+"year":2006,
+"court":"Supreme Court of India",
+"subjects":[
+"Family Law"
+],
+"topic":"Divorce – cruelty",
+"tag":"Dissolved a dead marriage on cruelty grounds and urged Parliament to add irretrievable breakdown as a ground for divorce under the Hindu Marriage Act",
+"kind":"landmark",
+"id":"naveen-kohli-v-neelu-kohli-2006",
+"added":"2026-11-01"
 },
 {
 "name":"I.R. Coelho v. State of Tamil Nadu",
