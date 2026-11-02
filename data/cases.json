@@ -1,6 +1,75 @@
 {
-"updated":"2026-11-01T07:19+05:30",
+"updated":"2026-11-02T07:19+05:30",
 "cases":[
+{
+"name":"Saeeda Fatima Ashraf v. State of U.P.",
+"cite":"2026 LiveLaw (AB) 884",
+"date":"2026-11-01",
+"reported":"Week of 26 Oct–1 Nov 2026",
+"court":"Allahabad High Court",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Writ jurisdiction",
+"tag":"The Prescribed Authority under the U.P. Ceiling on Land Holdings Act is not a civil court despite its s.37 powers, which serve only to decide surplus land, so its orders can be challenged under Article 226",
+"source":"https://www.livelaw.in/round-ups/weekly/livelaw-allahabad-high-court-weekly-round-up-october-26-november-1-2026-556806",
+"kind":"new",
+"year":2026,
+"id":"saeeda-fatima-ashraf-v-state-of-u-p-2026",
+"added":"2026-11-02"
+},
+{
+"name":"M/s Nalini Khandelwal v. State of U.P.",
+"cite":"2026 LiveLaw (AB) 882",
+"date":"2026-11-01",
+"reported":"Week of 26 Oct–1 Nov 2026",
+"court":"Allahabad High Court",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Rules of the game",
+"tag":"An authority running an allotment scheme cannot reject an application for want of a document the brochure did not make mandatory; the bar on changing rules mid-way applies to allotments as to recruitment",
+"source":"https://www.livelaw.in/round-ups/weekly/livelaw-allahabad-high-court-weekly-round-up-october-26-november-1-2026-556806",
+"kind":"new",
+"year":2026,
+"id":"m-s-nalini-khandelwal-v-state-of-u-p-2026",
+"added":"2026-11-02"
+},
+{
+"name":"P.K. Nigam v. Punjab National Bank",
+"cite":"2026 LiveLaw (AB) 880",
+"date":"2026-11-01",
+"reported":"Week of 26 Oct–1 Nov 2026",
+"court":"Allahabad High Court",
+"subjects":[
+"Labour Law"
+],
+"topic":"Disciplinary proceedings",
+"tag":"A dismissal is vitiated where the employer did not give the employee the documents relied on and cannot produce the inquiry record; without it the employer cannot show a fair chance of defence was given",
+"source":"https://www.livelaw.in/round-ups/weekly/livelaw-allahabad-high-court-weekly-round-up-october-26-november-1-2026-556806",
+"kind":"new",
+"year":2026,
+"id":"p-k-nigam-v-punjab-national-bank-2026",
+"added":"2026-11-02"
+},
+{
+"name":"Jagannath Mandangi v. State of Odisha",
+"cite":"2026 LiveLaw (SC) 1114",
+"date":"2026-10-31",
+"reported":"Reported 31 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Sanjay Kumar, Sanjeev Sachdeva JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Anticipatory bail",
+"tag":"A High Court refusing anticipatory bail (s.438 CrPC, now s.482 BNSS) cannot direct the trial court to grant regular bail on conditions it fixes; that usurps the trial court's discretion",
+"source":"https://www.livelaw.in/supreme-court/while-rejecting-anticipatory-bail-hc-cant-direct-trial-court-to-grant-regular-bail-on-preset-conditions-supreme-court-556785",
+"kind":"new",
+"year":2026,
+"id":"jagannath-mandangi-v-state-of-odisha-2026",
+"added":"2026-11-02"
+},
 {
 "name":"Damodar Valley Corporation v. Maithan Alloys Ltd.",
 "cite":"2026 LiveLaw (SC) 1110",
@@ -67,6 +136,39 @@
 "year":2026,
 "id":"in-re-pocso-victim-s-deposition-gujarat-hc-in-ca-2026",
 "added":"2026-11-01"
+},
+{
+"name":"Santhosh Kumar N.P. v. State (Station House Officer)",
+"date":"2026-10-30",
+"court":"Supreme Court of India",
+"bench":"B.V. Nagarathna, R. Mahadevan JJ",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Rape on false promise of marriage",
+"tag":"A long consensual relationship that later fails is not rape under s.376(2)(n) IPC; concealment of an earlier marriage can vitiate consent only on proved facts, not moral presumptions. Accused discharged",
+"source":"https://www.livelaw.in/top-stories/court-cannot-pass-moral-judgments-on-adults-choices-supreme-court-556686",
+"kind":"new",
+"year":2026,
+"id":"santhosh-kumar-n-p-v-state-station-house-office-2026",
+"added":"2026-11-02"
+},
+{
+"name":"V. Gopalakrishnan v. State of Kerala",
+"date":"2026-10-30",
+"reported":"Reported 30 Oct 2026",
+"court":"Supreme Court of India",
+"bench":"Sanjay Kumar, Sanjeev Sachdeva JJ",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Disproportionate assets",
+"tag":"Under s.13(1)(e) PC Act, once the prosecution shows assets out of proportion to income known after lawful investigation, the accused must prove any other source; there is no fixed 10% margin of tolerance",
+"source":"https://www.livelaw.in/supreme-court/supreme-court-upholds-conviction-sub-registrar-disproportionate-assets-case-556605",
+"kind":"new",
+"year":2026,
+"id":"v-gopalakrishnan-v-state-of-kerala-2026",
+"added":"2026-11-02"
 },
 {
 "name":"Bandari Ramchander v. Maitri Cooperative Housing Society Ltd.",
@@ -751,6 +853,24 @@
 "year":2026,
 "id":"p-a-inamdar-v-state-of-maharashtra-2026",
 "added":"2026-10-24"
+},
+{
+"name":"Shriram Pal Saini v. Shri Anil Kumar",
+"cite":"2026:DHC:9361",
+"date":"2026-10-22",
+"reported":"Reported 22 Oct 2026",
+"court":"Delhi High Court",
+"bench":"Neena Bansal Krishna J",
+"subjects":[
+"Contract"
+],
+"topic":"Earnest money forfeiture",
+"tag":"A seller cannot forfeit earnest money automatically on the buyer's breach of an agreement to sell; forfeiture is subject to s.74 Contract Act and the seller must prove legal injury, failing which the money is refunded",
+"source":"https://www.verdictum.in/delhi-high-court/shriram-pal-saini-v-shri-anil-kumar-2026dhc9361-legal-injury-us-74-contract-act-forfeiture-1624451",
+"kind":"new",
+"year":2026,
+"id":"shriram-pal-saini-v-shri-anil-kumar-2026",
+"added":"2026-11-02"
 },
 {
 "name":"Yuvajana Sramika Rythu Congress Party v. State of Andhra Pradesh",
@@ -2525,6 +2645,23 @@
 "added":"2026-10-20"
 },
 {
+"name":"State of Tripura v. Goutam Choudhury",
+"date":"2026-09-29",
+"reported":"Reported 30 Oct 2026",
+"court":"Tripura High Court",
+"bench":"M.S. Ramachandra Rao CJ, S. Datta Purkayastha J",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Disciplinary proceedings",
+"tag":"A disciplinary authority that disagrees with an inquiry report must follow Rule 15(2) CCS (CCA) Rules and record tentative reasons; it cannot sidestep this by ordering a further inquiry under Rule 15(1)",
+"source":"https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-disciplinary-authority-circumvent-rule-ordering-further-inquiry-556622",
+"kind":"new",
+"year":2026,
+"id":"state-of-tripura-v-goutam-choudhury-2026",
+"added":"2026-11-02"
+},
+{
 "name":"Seema Sharma v. State of Punjab",
 "cite":"2026 LiveLaw (SC) 1071",
 "date":"2026-09-28",
@@ -3757,6 +3894,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Bishwanath Prasad Radhey Shyam v. Hindustan Metal Industries",
+"cite":"",
+"year":1979,
+"court":"Supreme Court of India",
+"subjects":[
+"Intellectual Property"
+],
+"topic":"Patents – novelty and inventive step",
+"tag":"A patent is valid only for a new manufacture involving a real inventive step, not obvious to a person skilled in the art; grant by the Controller raises no presumption of validity",
+"kind":"landmark",
+"id":"bishwanath-prasad-radhey-shyam-v-hindustan-metal-1979",
+"added":"2026-11-02"
+},
+{
 "name":"Minerva Mills v. Union of India",
 "cite":"(1980) 3 SCC 625",
 "year":1980,
@@ -4565,6 +4716,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"A.P. Pollution Control Board v. Prof. M.V. Nayudu",
+"cite":"",
+"year":1999,
+"court":"Supreme Court of India",
+"subjects":[
+"Environmental Law"
+],
+"topic":"Precautionary principle",
+"tag":"Under the precautionary principle the burden lies on the industry or developer to prove its activity is environmentally benign; courts may refer technical questions to expert bodies",
+"kind":"landmark",
+"id":"a-p-pollution-control-board-v-prof-m-v-nayudu-1999",
+"added":"2026-11-02"
+},
+{
 "name":"Om Kumar v. Union of India",
 "cite":"(2001) 2 SCC 386",
 "year":2000,
@@ -4792,6 +4957,20 @@
 "kind":"landmark",
 "id":"sbp-co-v-patel-engineering-ltd-2005",
 "added":"2026-10-24"
+},
+{
+"name":"Dale & Carrington Investment (P) Ltd. v. P.K. Prathapan",
+"cite":"",
+"year":2005,
+"court":"Supreme Court of India",
+"subjects":[
+"Company Law"
+],
+"topic":"Oppression – fiduciary duty of directors",
+"tag":"Directors hold their power to issue shares in trust for the company; a managing director allotting shares to himself to seize control without shareholders' knowledge is oppression and the allotment can be set aside",
+"kind":"landmark",
+"id":"dale-carrington-investment-p-ltd-v-p-k-prat-2005",
+"added":"2026-11-02"
 },
 {
 "name":"Secretary, State of Karnataka v. Umadevi",
@@ -5216,6 +5395,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"State of Punjab v. Jagjit Singh",
+"cite":"",
+"year":2016,
+"court":"Supreme Court of India",
+"subjects":[
+"Labour Law"
+],
+"topic":"Equal pay for equal work",
+"tag":"Temporary, daily-wage and contractual employees doing the same work as regular employees are entitled to at least the minimum of the regular pay scale under the principle of equal pay for equal work",
+"kind":"landmark",
+"id":"state-of-punjab-v-jagjit-singh-2016",
+"added":"2026-11-02"
+},
+{
 "name":"Justice K.S. Puttaswamy v. Union of India",
 "cite":"(2017) 10 SCC 1",
 "year":2017,
@@ -5501,6 +5694,20 @@
 "kind":"landmark",
 "id":"rupali-devi-v-state-of-uttar-pradesh-2019",
 "added":"2026-10-31"
+},
+{
+"name":"Ssangyong Engineering & Construction Co. Ltd. v. NHAI",
+"cite":"",
+"year":2019,
+"court":"Supreme Court of India",
+"subjects":[
+"Arbitration"
+],
+"topic":"Setting aside awards – public policy",
+"tag":"After the 2015 amendment, 'public policy' in s.34 is narrow; patent illegality is not a ground for international commercial awards, and an arbitrator who unilaterally rewrites the contract breaches fundamental justice",
+"kind":"landmark",
+"id":"ssangyong-engineering-construction-co-ltd-v-n-2019",
+"added":"2026-11-02"
 },
 {
 "name":"Anuradha Bhasin v. Union of India",
