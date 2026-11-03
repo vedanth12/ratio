@@ -1,6 +1,58 @@
 {
-"updated":"2026-11-02T07:19+05:30",
+"updated":"2026-11-03T07:20+05:30",
 "cases":[
+{
+"name":"Susheela Kawar v. M. Pettu Lakshmi",
+"cite":"2026 LiveLaw (Mad) 523",
+"date":"2026-11-02",
+"reported":"Reported 2 Nov 2026",
+"court":"Madras High Court",
+"bench":"P.B. Balaji J",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Court fee refund",
+"tag":"Once evidence on merits is recorded, a settlement does not entitle parties to a refund of court fee under s.69A of the TN Court Fees Act; court suggested the legislature revisit the provision",
+"source":"https://www.livelaw.in/high-court/madras-high-court/madras-high-court-no-court-fee-return-matter-settled-after-evidence-recorded-556933",
+"kind":"new",
+"year":2026,
+"id":"susheela-kawar-v-m-pettu-lakshmi-2026",
+"added":"2026-11-03"
+},
+{
+"name":"Sri Hafeez v. Karnataka State Board of Auqaf",
+"date":"2026-11-02",
+"reported":"Reported 2 Nov 2026",
+"court":"Karnataka High Court",
+"bench":"T.P. Vivekananda J",
+"subjects":[
+"Property Law",
+"Administrative Law"
+],
+"topic":"Waqf registration",
+"tag":"Registering property as waqf under s.36 Waqf Act on a tenant's application without notice to the mutawalli in possession breaches natural justice; writ maintainable despite the Tribunal remedy",
+"source":"https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-waqf-registration-certificate-issued-mutawalli-application-556814",
+"kind":"new",
+"year":2026,
+"id":"sri-hafeez-v-karnataka-state-board-of-auqaf-2026",
+"added":"2026-11-03"
+},
+{
+"name":"Godpower Media Pvt. Ltd. v. John Does",
+"date":"2026-11-02",
+"court":"Bombay High Court",
+"bench":"Madhav Jamdar J",
+"subjects":[
+"Intellectual Property"
+],
+"topic":"Dynamic injunction",
+"tag":"Interim order: a dynamic John Doe injunction was granted against piracy of the film Ramayana before release, letting the producer get new mirror sites and links blocked on written notice to ISPs and platforms",
+"source":"https://www.barandbench.com/news/bombay-high-court-grants-dynamic-injunction-to-protect-2000-crore-film-ramayana-ahead-of-release",
+"kind":"new",
+"year":2026,
+"id":"godpower-media-pvt-ltd-v-john-does-2026",
+"added":"2026-11-03"
+},
 {
 "name":"Saeeda Fatima Ashraf v. State of U.P.",
 "cite":"2026 LiveLaw (AB) 884",
@@ -51,6 +103,24 @@
 "year":2026,
 "id":"p-k-nigam-v-punjab-national-bank-2026",
 "added":"2026-11-02"
+},
+{
+"name":"Karnataka Lokayuktha Police v. Srinath Joshi Mahadev",
+"cite":"2026 LiveLaw (SC) 1113",
+"date":"2026-11-01",
+"reported":"Week of 26 Oct–1 Nov 2026",
+"court":"Supreme Court of India",
+"bench":"Sanjay Kumar, Sanjeev Sachdeva JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Anticipatory bail",
+"tag":"A senior police officer accused of corruption cannot claim parity with a layman for pre-arrest bail; the High Court erred in ignoring material that justified custodial interrogation, so bail was cancelled",
+"source":"https://www.livelaw.in/supreme-court/police-officer-accused-of-corruption-cant-claim-parity-with-layman-supreme-court-cancels-anticipatory-bail-of-karnataka-sp-556783",
+"kind":"new",
+"year":2026,
+"id":"karnataka-lokayuktha-police-v-srinath-joshi-mahad-2026",
+"added":"2026-11-03"
 },
 {
 "name":"Jagannath Mandangi v. State of Odisha",
@@ -204,6 +274,74 @@
 "year":2026,
 "id":"m-s-mansi-finance-chennai-ltd-v-m-lalitha-cl-2026",
 "added":"2026-11-01"
+},
+{
+"name":"Srinivasa T. v. State of Karnataka",
+"cite":"2026 LiveLaw (SC) 1104",
+"date":"2026-10-29",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Validating legislation",
+"tag":"Karnataka's 2022 Act validating the tainted 2011 KPSC gazetted probationer selection is void: a legislature may remove the basis of a judgment but cannot simply overturn it; fresh recruitment ordered",
+"source":"https://www.livelaw.in/supreme-court/legislature-cannot-directly-annul-judgment-supreme-court-strikes-down-2022-karnataka-law-validating-tainted-2011-civil-service-selection-556534",
+"kind":"new",
+"year":2026,
+"id":"srinivasa-t-v-state-of-karnataka-2026",
+"added":"2026-11-03"
+},
+{
+"name":"Shreeram Builders v. Upendra Kantilal Thanawala",
+"cite":"2026 LiveLaw (SC) 1105",
+"date":"2026-10-29",
+"court":"Supreme Court of India",
+"bench":"Sanjay Kumar, Sanjeev Sachdeva JJ",
+"subjects":[
+"Arbitration"
+],
+"topic":"Patent illegality",
+"tag":"An arbitral tribunal bound by s.28(3) cannot rewrite the contract; an award granting specific performance on terms the parties never agreed was rightly set aside under pre-2015 s.34",
+"source":"https://www.livelaw.in/supreme-court/arbitral-tribunal-cannot-rewrite-contract-or-grant-relief-against-its-terms-supreme-court-556543",
+"kind":"new",
+"year":2026,
+"id":"shreeram-builders-v-upendra-kantilal-thanawala-2026",
+"added":"2026-11-03"
+},
+{
+"name":"In re Vyomesh Mahipatray Shah",
+"cite":"2026 LiveLaw (SC) 1106",
+"date":"2026-10-29",
+"court":"Supreme Court of India",
+"bench":"Prashant Kumar Mishra, N.V. Anjaria JJ",
+"subjects":[
+"Criminal Law",
+"Commercial Law"
+],
+"topic":"Cheque dishonour",
+"tag":"A loan by an unlicensed moneylender is unenforceable under the Maharashtra Money-Lending Act, so it is not a legally enforceable debt for s.138 NI Act; the lender must show a licence at the outset",
+"source":"https://www.livelaw.in/supreme-court/moneylenders-in-maharashtra-must-produce-licence-at-threshold-in-cheque-bounce-cases-supreme-court-556590",
+"kind":"new",
+"year":2026,
+"id":"in-re-vyomesh-mahipatray-shah-2026",
+"added":"2026-11-03"
+},
+{
+"name":"PIO v. P.D. Gupta (Delhi HC, RTI and delayed judgments)",
+"date":"2026-10-29",
+"court":"Delhi High Court",
+"bench":"Amit Mahajan J",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Right to Information",
+"tag":"The RTI Act reaches only information that exists; the CIC could not order the PIO to compile judge-wise data on delayed judgments that was never maintained, and public interest cannot compel its creation",
+"source":"https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-sets-aside-cic-order-seeking-data-on-delayed-judgments-556971",
+"kind":"new",
+"year":2026,
+"id":"pio-v-p-d-gupta-delhi-hc-rti-and-delayed-judgm-2026",
+"added":"2026-11-03"
 },
 {
 "name":"ECL Finance Ltd. v. Abhinav Mukherjee",
@@ -4089,6 +4227,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Mithu v. State of Punjab",
+"year":1983,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Mandatory death sentence",
+"tag":"Struck down s.303 IPC (mandatory death for murder by a life convict) as violating Articles 14 and 21, since it denied courts any sentencing discretion",
+"source":"https://www.livelaw.in/amp/articles/section-104-bharatiya-nyaya-sanhita-and-supreme-court-judgment-mithu-vs-state-of-punjab-mandatory-death-sentence-252494",
+"kind":"landmark",
+"id":"mithu-v-state-of-punjab-1983",
+"added":"2026-11-03"
+},
+{
 "name":"Council of Civil Service Unions v. Minister for the Civil Service",
 "cite":"[1985] AC 374",
 "year":1984,
@@ -4353,6 +4505,20 @@
 "kind":"landmark",
 "id":"dalpat-kumar-v-prahlad-singh-1991",
 "added":"2026-10-26"
+},
+{
+"name":"State of U.P. v. Synthetics and Chemicals Ltd.",
+"year":1991,
+"court":"Supreme Court of India",
+"subjects":[
+"Jurisprudence"
+],
+"topic":"Precedent: sub silentio and per incuriam",
+"tag":"A point decided without argument or reasons (sub silentio) or in ignorance of binding law (per incuriam) is not a binding precedent under Article 141",
+"source":"https://www.barandbench.com/columns/legal-notes-by-arvind-datar-sub-silentio-and-the-law-of-precedents",
+"kind":"landmark",
+"id":"state-of-u-p-v-synthetics-and-chemicals-ltd-1991",
+"added":"2026-11-03"
 },
 {
 "name":"Indra Sawhney v. Union of India",
@@ -5200,6 +5366,21 @@
 "added":"2026-10-22"
 },
 {
+"name":"Vodafone International Holdings B.V. v. Union of India",
+"cite":"(2012) 6 SCC 613",
+"year":2012,
+"court":"Supreme Court of India",
+"subjects":[
+"Tax Law"
+],
+"topic":"Indirect transfer and tax avoidance",
+"tag":"Sale of shares of an offshore company that indirectly held Indian assets was not taxable as capital gains in India under s.9; transactions are looked at as a whole, not dissected",
+"source":"https://itatonline.org/digest/vodafone-international-holdings-b-v-v-uoi-2012-341-itr-1-204-taxman-408-247-ctr-1-66-dtr-265-6-scc-613-vol-42-tax-l-r-305-sc",
+"kind":"landmark",
+"id":"vodafone-international-holdings-b-v-v-union-of-i-2012",
+"added":"2026-11-03"
+},
+{
 "name":"Lalita Kumari v. Government of Uttar Pradesh",
 "cite":"(2014) 2 SCC 1",
 "year":2013,
@@ -5240,6 +5421,21 @@
 "kind":"landmark",
 "id":"deepali-gundu-surwase-v-kranti-junior-adhyapak-ma-2013",
 "added":"2026-10-28"
+},
+{
+"name":"Lily Thomas v. Union of India",
+"year":2013,
+"court":"Supreme Court of India",
+"subjects":[
+"Constitutional Law",
+"Election Law"
+],
+"topic":"Disqualification of legislators",
+"tag":"Struck down s.8(4) of the Representation of the People Act; sitting MPs and MLAs convicted of listed offences are disqualified from the date of conviction, with no protection while appealing",
+"source":"https://www.barandbench.com/news/supreme-court-strikes-down-s84-representation-people-act-says-sitting-mpsmlas-be",
+"kind":"landmark",
+"id":"lily-thomas-v-union-of-india-2013",
+"added":"2026-11-03"
 },
 {
 "name":"Aveek Sarkar v. State of West Bengal",
@@ -5708,6 +5904,20 @@
 "kind":"landmark",
 "id":"ssangyong-engineering-construction-co-ltd-v-n-2019",
 "added":"2026-11-02"
+},
+{
+"name":"Swiss Ribbons Pvt. Ltd. v. Union of India",
+"year":2019,
+"court":"Supreme Court of India",
+"subjects":[
+"Insolvency"
+],
+"topic":"Constitutional validity of the IBC",
+"tag":"Upheld the Insolvency and Bankruptcy Code against Article 14 challenges, including the financial/operational creditor distinction and s.29A, as reasonable economic legislation",
+"source":"https://www.mondaq.com/india/InsolvencyBankruptcyRestructuring/779498/Swiss-Ribbons-v-Union-Of-India-The-Foundation-For-Modern-Bankruptcy-Law",
+"kind":"landmark",
+"id":"swiss-ribbons-pvt-ltd-v-union-of-india-2019",
+"added":"2026-11-03"
 },
 {
 "name":"Anuradha Bhasin v. Union of India",
