@@ -1,6 +1,95 @@
 {
-"updated":"2026-11-03T07:20+05:30",
+"updated":"2026-11-04T07:21+05:30",
 "cases":[
+{
+"name":"N. Sridhar Reddy v. State of Andhra Pradesh",
+"cite":"2026 LiveLaw (SC) 1125",
+"date":"2026-11-03",
+"court":"Supreme Court of India",
+"subjects":[
+"Family Law",
+"Criminal Law"
+],
+"topic":"Bigamy – foreign divorce decree",
+"tag":"A UK divorce on irretrievable breakdown, granted without the wife submitting to that court, is not recognised under s.13 CPC; husband who took UK citizenship and remarried still faces s.494 IPC (s.82 BNS)",
+"source":"https://www.livelaw.in/supreme-court/foreign-divorce-decree-against-indian-law-change-of-citizenship-wont-shield-husband-from-bigamy-prosecution-supreme-court-557141",
+"kind":"new",
+"year":2026,
+"id":"n-sridhar-reddy-v-state-of-andhra-pradesh-2026",
+"added":"2026-11-04"
+},
+{
+"name":"Jodhpur Vidyut Vitran Nigam Ltd. v. Lalit Soni",
+"cite":"2026 LiveLaw (SC) 1123",
+"date":"2026-11-03",
+"reported":"Reported 3 Nov 2026",
+"court":"Supreme Court of India",
+"bench":"Prashant Kumar Mishra, Shree Chandrashekhar JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Sanction – s.197 CrPC (s.218 BNSS)",
+"tag":"Being a 'public servant' or working for an Article 12 'State' company does not by itself give PSU or discom employees the s.197 CrPC sanction shield; HC discharge for want of sanction set aside and remitted",
+"source":"https://www.livelaw.in/supreme-court/s-197-crpc-employees-of-govt-companies-not-automatically-entitled-to-sanction-protection-supreme-court-557086",
+"kind":"new",
+"year":2026,
+"id":"jodhpur-vidyut-vitran-nigam-ltd-v-lalit-soni-2026",
+"added":"2026-11-04"
+},
+{
+"name":"M/s Mass N Ergy v. Union of India",
+"date":"2026-11-03",
+"reported":"Reported 3 Nov 2026",
+"court":"Jammu & Kashmir and Ladakh High Court",
+"bench":"Rajnesh Oswal, Sanjay Dhar JJ",
+"subjects":[
+"Constitutional Law",
+"Tax Law"
+],
+"topic":"Legislative competence – water usage charges",
+"tag":"Water charges on hydropower under the J&K Water Resources Act, 2010 are in substance a tax on electricity generation beyond State competence; adoption by Parliament in 2019 cannot revive a law void at birth",
+"source":"https://www.livelaw.in/high-court/jammu-kashmir/legislation-ultra-vires-at-enactment-is-stillborn-and-cannot-be-validated-by-subsequent-adoption-by-parliament-jk-high-court-557018",
+"kind":"new",
+"year":2026,
+"id":"m-s-mass-n-ergy-v-union-of-india-2026",
+"added":"2026-11-04"
+},
+{
+"name":"Mayank Jain v. Union of India (Delhi HC, LinkedIn account restriction)",
+"date":"2026-11-03",
+"reported":"Reported 3 Nov 2026",
+"court":"Delhi High Court",
+"bench":"Amit Mahajan J",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Article 226 – private platforms",
+"tag":"LinkedIn performs no public or governmental function, so a writ does not lie against it or its grievance officer over account restriction; the user's remedy is a civil suit",
+"source":"https://www.barandbench.com/news/account-blocking-by-linkedin-to-be-challenged-through-civil-suit-not-writ-petition-delhi-high-court",
+"kind":"new",
+"year":2026,
+"id":"mayank-jain-v-union-of-india-delhi-hc-linkedin-2026",
+"added":"2026-11-04"
+},
+{
+"name":"Chaudhary Manish Singh v. State of U.P.",
+"cite":"2026:AHC:225827",
+"date":"2026-11-03",
+"reported":"Reported 3 Nov 2026",
+"court":"Allahabad High Court",
+"bench":"Praveen Kumar Giri J",
+"subjects":[
+"Family Law",
+"Criminal Procedure"
+],
+"topic":"Domestic violence – limitation",
+"tag":"A s.12 DV Act application seeks civil-type reliefs, not punishment, so the s.468 CrPC limitation bar does not apply; courts told to try to finish pending DV cases, including execution, within 60 days",
+"source":"https://www.verdictum.in/allahabad-high-court/chaudhary-manish-singh-v-state-of-up-and-another-2026ahc225827-case-disposal-1625076",
+"kind":"new",
+"year":2026,
+"id":"chaudhary-manish-singh-v-state-of-u-p-2026",
+"added":"2026-11-04"
+},
 {
 "name":"Susheela Kawar v. M. Pettu Lakshmi",
 "cite":"2026 LiveLaw (Mad) 523",
@@ -52,6 +141,78 @@
 "year":2026,
 "id":"godpower-media-pvt-ltd-v-john-does-2026",
 "added":"2026-11-03"
+},
+{
+"name":"Teerathraj v. State of U.P.",
+"cite":"2026:AHC-LKO:77354",
+"date":"2026-11-02",
+"reported":"Reported 2 Nov 2026",
+"court":"Allahabad High Court",
+"bench":"Subhash Vidyarthi J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Acid attack – s.326A IPC (s.124 BNS)",
+"tag":"Burns that healed in about two weeks leaving no marks or impairment lack the gravity s.326A IPC requires; conviction altered to s.324 IPC (voluntarily causing hurt by dangerous means)",
+"source":"https://www.verdictum.in/allahabad-high-court/teerathraj-v-state-of-up-2026ahc-lko77354-burn-injuries-marks-impairment-sec326-a-ipc-1625023",
+"kind":"new",
+"year":2026,
+"id":"teerathraj-v-state-of-u-p-2026",
+"added":"2026-11-04"
+},
+{
+"name":"Vijay Sonkar v. State of U.P.",
+"cite":"2026:AHC:225670",
+"date":"2026-11-02",
+"reported":"Reported 2 Nov 2026",
+"court":"Allahabad High Court",
+"bench":"Vinod Diwakar J",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Recruitment exams – defective questions",
+"tag":"When the examiner accepts two answers to a single-answer MCQ, the question has failed; it must be dropped with uniform benefit to all, though corrected results give no right to appointment (UPTET-2026)",
+"source":"https://www.verdictum.in/allahabad-high-court/vijay-sonkar-and-others-v-state-of-uttar-pradesh-and-others-2026ahc225670-1625016",
+"kind":"new",
+"year":2026,
+"id":"vijay-sonkar-v-state-of-u-p-2026",
+"added":"2026-11-04"
+},
+{
+"name":"Periyanambi Narasimha Gopalan v. Secretary to Government (Madras HC, temple staff wages)",
+"date":"2026-11-02",
+"reported":"Reported 2 Nov 2026",
+"court":"Madras High Court",
+"bench":"G.R. Swaminathan, P. Murugan JJ",
+"subjects":[
+"Labour Law",
+"Administrative Law"
+],
+"topic":"Living wage – HR&CE temple staff",
+"tag":"The HR&CE Department must secure a living wage for staff of public temples under it and cannot plead lack of funds, since it has means to raise them; action-taken report ordered in two months",
+"source":"https://www.verdictum.in/madras-high-court/periyanambi-narasimha-gopalan-v-the-secretary-to-government-living-wage-to-be-staff-public-temples-1625025",
+"kind":"new",
+"year":2026,
+"id":"periyanambi-narasimha-gopalan-v-secretary-to-gove-2026",
+"added":"2026-11-04"
+},
+{
+"name":"High Court of Karnataka v. Chethan Kumar",
+"cite":"2026:KHC:59694-DB",
+"date":"2026-11-02",
+"reported":"Reported 2 Nov 2026",
+"court":"Karnataka High Court",
+"bench":"D.K. Singh, H. Shanthi Bhushan JJ",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Criminal contempt – forged court order",
+"tag":"An advocate who doctored an interim order, changing its date and adding parties, committed criminal contempt under s.2(c) Contempt of Courts Act; sentenced to three months' simple imprisonment",
+"source":"https://www.verdictum.in/karnataka-high-court/2026-khc-59694-db-high-court-of-karnataka-v-chethan-kumar-1625021",
+"kind":"new",
+"year":2026,
+"id":"high-court-of-karnataka-v-chethan-kumar-2026",
+"added":"2026-11-04"
 },
 {
 "name":"Saeeda Fatima Ashraf v. State of U.P.",
@@ -521,6 +682,58 @@
 "added":"2026-10-29"
 },
 {
+"name":"Principal Commissioner of Income Tax, Bhubaneshwar v. Orissa Mining Corporation Ltd.",
+"cite":"2026 INSC 1171",
+"date":"2026-10-28",
+"court":"Supreme Court of India",
+"bench":"Sanjay Kumar, Sanjeev Sachdeva JJ",
+"subjects":[
+"Tax Law"
+],
+"topic":"Reassessment – s.143(2) notice",
+"tag":"A reassessment under s.143(3) read with s.147 Income Tax Act fails if no s.143(2) notice was issued; the assessee taking part in the proceedings does not cure the omission",
+"source":"https://www.verdictum.in/supreme-court/principal-commissioner-of-income-tax-bhubaneshwar-v-orissa-mining-corporation-ltd-2026-insc-1171-1624764",
+"kind":"new",
+"year":2026,
+"id":"principal-commissioner-of-income-tax-bhubaneshwar-2026",
+"added":"2026-11-04"
+},
+{
+"name":"Chetan Sabharwal v. Assistant Commissioner of Income Tax",
+"cite":"2026 INSC 1163",
+"date":"2026-10-28",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Tax Law"
+],
+"topic":"Reopening – s.148",
+"tag":"Reopening under s.148 is valid when founded on tangible material linked to escaped income; since a s.143(1) intimation is not an assessment, later investigation material is fresh and no 'change of opinion' arises",
+"source":"https://www.verdictum.in/supreme-court/chetan-sabharwal-v-assistant-commissioner-of-income-tax-2026-insc-1163-section-1431-intimations-assessments-1624747",
+"kind":"new",
+"year":2026,
+"id":"chetan-sabharwal-v-assistant-commissioner-of-inco-2026",
+"added":"2026-11-04"
+},
+{
+"name":"M/s Royal Construction Company Pvt. Ltd. v. M/s National Projects Construction Corporation",
+"cite":"2026 INSC 1167",
+"date":"2026-10-28",
+"court":"Supreme Court of India",
+"bench":"Vikram Nath, Sandeep Mehta, Aparesh Kumar Singh JJ",
+"subjects":[
+"Arbitration",
+"Civil Procedure"
+],
+"topic":"Execution of arbitral award – limits of 'clarification'",
+"tag":"Once the Supreme Court answers a certified question its jurisdiction ends; it will not supervise execution pending elsewhere under the label of clarification. Law Commission asked to study award enforcement delays",
+"source":"https://www.verdictum.in/supreme-court/ms-royal-construction-company-pvt-ltd-v-ms-national-projects-construction-corporation-2026-insc-1167-article-134-a-constitution-of-india-1624765",
+"kind":"new",
+"year":2026,
+"id":"m-s-royal-construction-company-pvt-ltd-v-m-s-na-2026",
+"added":"2026-11-04"
+},
+{
 "name":"Balakrishna (Dead) Thr. LRs v. G.N. Kanniah Naidu (Dead) Thr. LRs",
 "cite":"2026 LiveLaw (SC) 1089",
 "date":"2026-10-27",
@@ -677,6 +890,23 @@
 "year":2026,
 "id":"arun-thomas-ferreira-v-state-of-maharashtra-2026",
 "added":"2026-11-01"
+},
+{
+"name":"Hanuman Prasad @ Hanuta Ram v. State of Rajasthan",
+"cite":"2026 INSC 1180",
+"date":"2026-10-27",
+"court":"Supreme Court of India",
+"bench":"J.B. Pardiwala, K. Vinod Chandran JJ",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Suspension of sentence",
+"tag":"Delay in hearing an appeal is not on its own a ground to suspend the sentence of a convict in a heinous offence like murder where the prima facie evidence is strong; suspension cancelled",
+"source":"https://www.verdictum.in/supreme-court/hanuman-prasad-hanuta-ram-v-state-of-rajasthan-2026-insc-1180-release-convict-heinous-offences-1624885",
+"kind":"new",
+"year":2026,
+"id":"hanuman-prasad-hanuta-ram-v-state-of-rajasthan-2026",
+"added":"2026-11-04"
 },
 {
 "name":"Bank of India v. S.M. Kamal Pasha",
@@ -3030,6 +3260,19 @@
 "added":"2026-10-26"
 },
 {
+"name":"Raghunath Prasad v. Sarju Prasad",
+"year":1923,
+"court":"Privy Council",
+"subjects":[
+"Contract"
+],
+"topic":"Undue influence – s.16 Contract Act",
+"tag":"Undue influence is tested in stages: was one party able to dominate the other's will, did it use that position to get an unfair advantage, and only then does the burden shift to it to disprove influence",
+"kind":"landmark",
+"id":"raghunath-prasad-v-sarju-prasad-1923",
+"added":"2026-11-04"
+},
+{
 "name":"Barendra Kumar Ghosh v. Emperor",
 "cite":"AIR 1925 PC 1",
 "year":1924,
@@ -4004,6 +4247,20 @@
 "added":"2026-10-21"
 },
 {
+"name":"Nandini Satpathy v. P.L. Dani",
+"year":1978,
+"court":"Supreme Court of India",
+"subjects":[
+"Evidence",
+"Constitutional Law"
+],
+"topic":"Right against self-incrimination",
+"tag":"Article 20(3) and s.161(2) CrPC protect a suspect during police questioning, not only at trial; she may refuse answers that tend to incriminate her, though not every question",
+"kind":"landmark",
+"id":"nandini-satpathy-v-p-l-dani-1978",
+"added":"2026-11-04"
+},
+{
 "name":"Hussainara Khatoon v. State of Bihar",
 "cite":"(1980) 1 SCC 81",
 "year":1979,
@@ -4126,6 +4383,19 @@
 "kind":"landmark",
 "id":"municipal-council-ratlam-v-vardhichand-1980",
 "added":"2026-10-28"
+},
+{
+"name":"Prem Shankar Shukla v. Delhi Administration",
+"year":1980,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Handcuffing of prisoners",
+"tag":"Routine handcuffing of undertrials violates Article 21; restraints are allowed only where there is a real risk of escape, with reasons recorded and judicial oversight",
+"kind":"landmark",
+"id":"prem-shankar-shukla-v-delhi-administration-1980",
+"added":"2026-11-04"
 },
 {
 "name":"S.P. Gupta v. Union of India",
@@ -4564,6 +4834,19 @@
 "added":"2026-10-22"
 },
 {
+"name":"Ramesh Hirachand Kundanmal v. Municipal Corporation of Greater Bombay",
+"year":1992,
+"court":"Supreme Court of India",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Impleadment – Order I Rule 10",
+"tag":"A person may be added under Order I Rule 10 CPC only if their presence is needed to decide the controversy effectively, or their legal interest is directly affected; mere commercial interest is not enough",
+"kind":"landmark",
+"id":"ramesh-hirachand-kundanmal-v-municipal-corporatio-1992",
+"added":"2026-11-04"
+},
+{
 "name":"Supreme Court Advocates-on-Record Assn. v. Union of India",
 "cite":"(1993) 4 SCC 441",
 "year":1993,
@@ -4659,6 +4942,19 @@
 "kind":"landmark",
 "id":"kartar-singh-v-state-of-punjab-1994",
 "added":"2026-10-20"
+},
+{
+"name":"N. Nagendra Rao & Co. v. State of Andhra Pradesh",
+"year":1994,
+"court":"Supreme Court of India",
+"subjects":[
+"Torts"
+],
+"topic":"Sovereign immunity – State liability",
+"tag":"The State is vicariously liable for its officers' negligence in statutory functions like seizing goods; sovereign immunity covers only core functions such as defence and is out of step with modern welfare law",
+"kind":"landmark",
+"id":"n-nagendra-rao-co-v-state-of-andhra-pradesh-1994",
+"added":"2026-11-04"
 },
 {
 "name":"Indian Medical Association v. V.P. Shantha",
