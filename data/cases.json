@@ -1,6 +1,111 @@
 {
-"updated":"2026-11-04T07:21+05:30",
+"updated":"2026-11-05T07:18+05:30",
 "cases":[
+{
+"name":"Goverdhan v. State of Rajasthan",
+"cite":"2026 INSC 1190",
+"date":"2026-11-04",
+"court":"Supreme Court of India",
+"bench":"Sandeep Mehta, Devendra Kumar Upadhyaya JJ",
+"subjects":[
+"Criminal Law",
+"Evidence"
+],
+"topic":"Abetment of suicide; handwriting expert",
+"tag":"A handwriting expert's report cannot prove who wrote a suicide note unless the expert is examined and cross-examined; the letters in any case did not show abetment under s.107/306 IPC. Husband acquitted.",
+"source":"https://www.verdictum.in/supreme-court/goverdhan-v-the-state-of-rajasthan-2026-insc-1190-suicide-note-handwriting-expert-1625131",
+"kind":"new",
+"year":2026,
+"id":"goverdhan-v-state-of-rajasthan-2026",
+"added":"2026-11-05"
+},
+{
+"name":"Crystal Crop Protection Ltd. v. Dhanuka Agritech Ltd.",
+"cite":"2026 LiveLaw (SC) 1126",
+"date":"2026-11-04",
+"reported":"Supreme Court Daily Round-Up, 4 Nov 2026",
+"court":"Supreme Court of India",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Locus standi under the Insecticides Act",
+"tag":"A rival manufacturer has no standing to challenge the registration certificate granted to a competitor under the Insecticides Act.",
+"source":"https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1126-crystal-crop-protection-ltd-v-dhanuka-agritech-ltd-ors-557221",
+"kind":"new",
+"year":2026,
+"id":"crystal-crop-protection-ltd-v-dhanuka-agritech-l-2026",
+"added":"2026-11-05"
+},
+{
+"name":"State of Bihar v. Phulpari Kumari",
+"cite":"2026 LiveLaw (SC) 1128",
+"date":"2026-11-04",
+"reported":"Supreme Court Daily Round-Up, 4 Nov 2026",
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Disproportionate assets",
+"tag":"In a disproportionate assets case, pointing to government circulars on how much gold a family may hold does not by itself explain possession of that gold.",
+"source":"https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1128-state-of-bihar-vs-phulpari-kumari-557310",
+"kind":"new",
+"year":2026,
+"id":"state-of-bihar-v-phulpari-kumari-2026",
+"added":"2026-11-05"
+},
+{
+"name":"State of Uttarakhand v. M.C. Bhandari",
+"cite":"2026 LiveLaw (SC) 1131",
+"date":"2026-11-04",
+"reported":"Supreme Court Daily Round-Up, 4 Nov 2026",
+"court":"Supreme Court of India",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Pension and re-employment",
+"tag":"Upheld the rule deducting pension from the salary of retired government servants appointed as members of the Uttarakhand Public Service Commission.",
+"source":"https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1131-state-of-uttarakhand-thr-chief-secretary-and-others-versus-mc-bhandari-and-another-557362",
+"kind":"new",
+"year":2026,
+"id":"state-of-uttarakhand-v-m-c-bhandari-2026",
+"added":"2026-11-05"
+},
+{
+"name":"Gururaj Gantihole v. State of Karnataka",
+"date":"2026-11-04",
+"reported":"Reported 4 Nov 2026",
+"court":"Karnataka High Court",
+"bench":"D.K. Singh, H. Shanthi Bhushan JJ",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Statutory opinion; supplementing reasons by affidavit",
+"tag":"The State's opinion needed under s.94-A(2-A) Karnataka Land Revenue Act must appear in the notification or record at the time, not be added by affidavit; public office is no consolation prize for a losing politician.",
+"source":"https://www.verdictum.in/karnataka-high-court/gururaj-gantihole-v-state-of-karnataka-writ-appeal-no-2030-of-2026-section-94-a2-a-of-land-revenue-act-1625084",
+"kind":"new",
+"year":2026,
+"id":"gururaj-gantihole-v-state-of-karnataka-2026",
+"added":"2026-11-05"
+},
+{
+"name":"Sree Sankaracharya University of Sanskrit v. Archana P.S.",
+"cite":"2026:KER:83945",
+"date":"2026-11-04",
+"reported":"Reported 4 Nov 2026",
+"court":"Kerala High Court",
+"bench":"Anil K. Narendran, Muralee Krishna S. JJ",
+"subjects":[
+"Administrative Law",
+"Civil Procedure"
+],
+"topic":"Interim relief; university regulations",
+"tag":"Courts cannot direct a university to let suspended students sit exams contrary to its regulations; an interim order that grants the final relief needs a very strong prima facie case.",
+"source":"https://www.verdictum.in/kerala-high-court/sree-sankaracharya-university-of-sanskrit-v-archana-ps-2026ker83945-suspended-students-to-sit-for-examination-1625134",
+"kind":"new",
+"year":2026,
+"id":"sree-sankaracharya-university-of-sanskrit-v-archa-2026",
+"added":"2026-11-05"
+},
 {
 "name":"N. Sridhar Reddy v. State of Andhra Pradesh",
 "cite":"2026 LiveLaw (SC) 1125",
@@ -89,6 +194,95 @@
 "year":2026,
 "id":"chaudhary-manish-singh-v-state-of-u-p-2026",
 "added":"2026-11-04"
+},
+{
+"name":"Shekappa v. State of Karnataka",
+"cite":"2026 LiveLaw (SC) 1130; 2026 INSC 1189",
+"date":"2026-11-03",
+"court":"Supreme Court of India",
+"bench":"K.V. Viswanathan, Arun Palli JJ",
+"subjects":[
+"Criminal Law",
+"Evidence"
+],
+"topic":"Eyewitness testimony and medical opinion on time of death",
+"tag":"Speculation on time of death drawn from stomach contents cannot displace credible eyewitnesses; missing names in the inquest report, kinship and FIR delay did not dent the widows' evidence (s.302/149 IPC).",
+"source":"https://www.verdictum.in/supreme-court/shekappa-v-state-of-karnataka-2026-insc-1189-digestive-timing-eyewitnesses-names-inquest-report-1625126",
+"kind":"new",
+"year":2026,
+"id":"shekappa-v-state-of-karnataka-2026",
+"added":"2026-11-05"
+},
+{
+"name":"In re XXX, a Judicial Officer of the Rajasthan Judicial Service",
+"cite":"2026 LiveLaw (SC) 1124; 2026 INSC 1188",
+"date":"2026-11-03",
+"court":"Supreme Court of India",
+"bench":"Sandeep Mehta, Devendra Kumar Upadhyaya JJ",
+"subjects":[
+"Administrative Law",
+"Constitutional Law"
+],
+"topic":"Strictures against judicial officers",
+"tag":"A High Court must not pass adverse remarks against a trial judge on the judicial side without hearing her; minor typing errors are no ground for strictures, and concerns belong on the administrative side.",
+"source":"https://www.verdictum.in/supreme-court/in-re-xxx-a-judicial-officer-in-the-district-judge-cadre-of-rajasthan-judicial-services-2026-insc-1188-1625114",
+"kind":"new",
+"year":2026,
+"id":"in-re-xxx-a-judicial-officer-of-the-rajasthan-jud-2026",
+"added":"2026-11-05"
+},
+{
+"name":"In re Murder of Advocates Sriram V. and Manjunath (Karnataka HC, suo motu PIL)",
+"date":"2026-11-03",
+"court":"Karnataka High Court",
+"bench":"D.K. Singh, H. Shanthi Bhushan JJ",
+"subjects":[
+"Constitutional Law",
+"Criminal Procedure"
+],
+"topic":"Advocates' safety; police and civil disputes",
+"tag":"Registering a suo motu PIL, the court said advocates must be treated with respect at police stations and police stations cannot be used to settle civil disputes; sought uniform SOPs.",
+"source":"https://www.verdictum.in/karnataka-high-court/in-the-matter-of-murder-of-two-advocates-by-name-sriram-v-and-manjunath-and-attempt-to-murder-of-senior-advocate-venkataramanappa-sannakki-and-other-connected-matters-suo-motu-writ-petition-pil-1625135",
+"kind":"new",
+"year":2026,
+"id":"in-re-murder-of-advocates-sriram-v-and-manjunath-2026",
+"added":"2026-11-05"
+},
+{
+"name":"Thane Municipal Corporation v. Prabhakar Chango Shinde",
+"cite":"2026:BHC-AS:44652",
+"date":"2026-11-03",
+"reported":"Reported 3 Nov 2026",
+"court":"Bombay High Court",
+"bench":"Sandeep V. Marne J",
+"subjects":[
+"Labour Law"
+],
+"topic":"Departmental inquiry; admitted charge",
+"tag":"No formal inquiry is needed where the employee admits the charge in reply to the chargesheet, and industrial courts should not entertain complaints against a mere show cause notice on punishment (MRTU & PULP Act).",
+"source":"https://www.verdictum.in/bombay-high-court/thane-municipal-corporation-v-prabhakar-chango-shinde-2026bhc-as44652-year-reversion-misappropriation-funds-municipal-1625082",
+"kind":"new",
+"year":2026,
+"id":"thane-municipal-corporation-v-prabhakar-chango-sh-2026",
+"added":"2026-11-05"
+},
+{
+"name":"J.P. v. State (NCT of Delhi)",
+"cite":"2026:DHC:9647",
+"date":"2026-11-03",
+"reported":"Reported 3 Nov 2026",
+"court":"Delhi High Court",
+"bench":"Madhu Jain J",
+"subjects":[
+"Criminal Law"
+],
+"topic":"POCSO; plea of physical incapacity",
+"tag":"An accused's difficulty in standing or moving unaided does not, without further medical evidence, show he was incapable of the offence; 20-year sentence under s.6 POCSO upheld.",
+"source":"https://www.verdictum.in/delhi-high-court/jp-v-state-govt-of-nct-of-delhi-2026dhc9647-three-year-old-daughter-pocso-1625081",
+"kind":"new",
+"year":2026,
+"id":"j-p-v-state-nct-of-delhi-2026",
+"added":"2026-11-05"
 },
 {
 "name":"Susheela Kawar v. M. Pettu Lakshmi",
@@ -4456,6 +4650,20 @@
 "added":"2026-11-01"
 },
 {
+"name":"Swadeshi Cotton Mills v. Union of India",
+"cite":"(1981) 1 SCC 664",
+"year":1981,
+"court":"Supreme Court of India",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Audi alteram partem; post-decisional hearing",
+"tag":"Urgency under s.18AA IDRA did not exclude the duty to hear the company before takeover; where a prior hearing is impractical, a fair post-decisional hearing must follow.",
+"kind":"landmark",
+"id":"swadeshi-cotton-mills-v-union-of-india-1981",
+"added":"2026-11-05"
+},
+{
 "name":"Randhir Singh v. Union of India",
 "year":1982,
 "court":"Supreme Court of India",
@@ -4875,6 +5083,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"Renusagar Power Co. Ltd. v. General Electric Co.",
+"cite":"1994 Supp (1) SCC 644",
+"year":1993,
+"court":"Supreme Court of India",
+"subjects":[
+"Arbitration"
+],
+"topic":"Public policy and enforcement of foreign awards",
+"tag":"A foreign award is refused enforcement on public policy only if it offends the fundamental policy of Indian law, the interests of India, or justice or morality; courts do not review the merits.",
+"kind":"landmark",
+"id":"renusagar-power-co-ltd-v-general-electric-co-1993",
+"added":"2026-11-05"
+},
+{
 "name":"S.R. Bommai v. Union of India",
 "cite":"(1994) 3 SCC 1",
 "year":1994,
@@ -5279,6 +5501,21 @@
 "added":"2026-10-24"
 },
 {
+"name":"Shamim Ara v. State of U.P.",
+"cite":"(2002) 7 SCC 518",
+"year":2002,
+"court":"Supreme Court of India",
+"bench":"R.C. Lahoti, P. Venkatarama Reddi JJ",
+"subjects":[
+"Family Law"
+],
+"topic":"Talaq",
+"tag":"A bare plea of an earlier talaq in a written statement does not dissolve a Muslim marriage; talaq must be actually pronounced, for reasonable cause, and preceded by attempts at reconciliation.",
+"kind":"landmark",
+"id":"shamim-ara-v-state-of-u-p-2002",
+"added":"2026-11-05"
+},
+{
 "name":"ONGC v. Saw Pipes",
 "cite":"(2003) 5 SCC 705",
 "year":2003,
@@ -5675,6 +5912,20 @@
 "kind":"landmark",
 "id":"vodafone-international-holdings-b-v-v-union-of-i-2012",
 "added":"2026-11-03"
+},
+{
+"name":"Sahara India Real Estate Corp. Ltd. v. SEBI",
+"cite":"(2012) 10 SCC 603",
+"year":2012,
+"court":"Supreme Court of India",
+"subjects":[
+"Company Law"
+],
+"topic":"Public issue; SEBI jurisdiction",
+"tag":"OFCDs offered to fifty or more persons were a public issue under the Companies Act, 1956, so SEBI had jurisdiction; Sahara firms were ordered to refund investors with 15% interest.",
+"kind":"landmark",
+"id":"sahara-india-real-estate-corp-ltd-v-sebi-2012",
+"added":"2026-11-05"
 },
 {
 "name":"Lalita Kumari v. Government of Uttar Pradesh",
@@ -6299,6 +6550,21 @@
 "kind":"landmark",
 "id":"vidya-drolia-v-durga-trading-corporation-2020",
 "added":"2026-10-21"
+},
+{
+"name":"Vidya Devi v. State of Himachal Pradesh",
+"cite":"(2020) 2 SCC 569",
+"year":2020,
+"court":"Supreme Court of India",
+"subjects":[
+"Property Law",
+"Constitutional Law"
+],
+"topic":"Article 300A; adverse possession by the State",
+"tag":"The State cannot take a citizen's land without law and compensation and cannot claim adverse possession against her; the right to property under Art. 300A is a constitutional and human right.",
+"kind":"landmark",
+"id":"vidya-devi-v-state-of-himachal-pradesh-2020",
+"added":"2026-11-05"
 },
 {
 "name":"Tata Consultancy Services v. Cyrus Investments",
