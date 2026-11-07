@@ -1,6 +1,147 @@
 {
-"updated":"2026-11-05T07:18+05:30",
+"updated":"2026-11-07T07:19+05:30",
 "cases":[
+{
+"name":"Yusuf v. Vigyapan Loke Delhi Advertising CGHS Ltd.",
+"cite":"2026 INSC 1207",
+"date":"2026-11-06",
+"court":"Supreme Court of India",
+"bench":"Vikram Nath, Sandeep Mehta, Augustine George Masih JJ",
+"subjects":[
+"Civil Procedure",
+"Contract"
+],
+"topic":"Limitation: acknowledgment of liability (s. 18)",
+"tag":"Entries in a society's balance sheets, read with notes and audit report, can acknowledge a debt under s. 18 Limitation Act and restart limitation; limitation on such facts cannot be decided at the Order VII Rule 11 stage",
+"source":"https://www.advocatekhoj.com/library/judgments/index.php?go=2026%2Fnovember%2Fyusuf-vs-vigyapan-loke-delhi-advertising-cghs-ltd-21",
+"kind":"new",
+"year":2026,
+"id":"yusuf-v-vigyapan-loke-delhi-advertising-cghs-ltd-2026",
+"added":"2026-11-07"
+},
+{
+"name":"Chairman, National Book Trust, India v. A.R. Abdul Gaffar",
+"cite":"2026 INSC 1202",
+"date":"2026-11-06",
+"court":"Supreme Court of India",
+"bench":"Prashant Kumar Mishra, Augustine George Masih JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"'State' under Article 12",
+"tag":"National Book Trust is 'State' under Art. 12 because government control over it is deep and pervasive; being 'State' does not make its staff government servants protected by Arts. 309-311",
+"source":"https://theprint.in/india/sc-declares-national-book-trust-state-says-govt-exercises-pervasive-control/3092668/",
+"kind":"new",
+"year":2026,
+"id":"chairman-national-book-trust-india-v-a-r-abdul-2026",
+"added":"2026-11-07"
+},
+{
+"name":"Union of India v. Rohith Nathan (OBC creamy layer clarification)",
+"cite":"2026 INSC 1201",
+"date":"2026-11-06",
+"court":"Supreme Court of India",
+"bench":"P.S. Narasimha, R. Mahadevan JJ",
+"subjects":[
+"Constitutional Law",
+"Administrative Law"
+],
+"topic":"Reservation; scope of clarification applications",
+"tag":"Clarifying its March 2026 creamy-layer ruling, the Court said the Art. 141 principle differs from relief given to the parties; concluded selections and seniority are not reopened, and MAs cannot be used to rehear cases",
+"source":"https://www.livelaw.in/top-stories/supreme-court-clarifies-judgment-on-obc-creamy-layer-computation-557608",
+"kind":"new",
+"year":2026,
+"id":"union-of-india-v-rohith-nathan-obc-creamy-layer-2026",
+"added":"2026-11-07"
+},
+{
+"name":"Masoom Ali alias Kala v. Union Territory of J&K",
+"date":"2026-11-06",
+"court":"Jammu & Kashmir and Ladakh High Court",
+"bench":"Rahul Bharti J",
+"subjects":[
+"Constitutional Law",
+"Criminal Procedure"
+],
+"topic":"Preventive detention (PIT-NDPS Act)",
+"tag":"Preventive detention under the PIT-NDPS Act cannot be used as a counter to bail granted in ordinary cases; detention quashed where authorities had not even verified the status of the FIRs relied on",
+"source":"https://thechenabtimes.com/2026/11/06/jk-high-court-quashes-detention-of-samba-man-orders-immediate-release/",
+"kind":"new",
+"year":2026,
+"id":"masoom-ali-alias-kala-v-union-territory-of-j-k-2026",
+"added":"2026-11-07"
+},
+{
+"name":"Sujit Das v. Union of India",
+"cite":"2026 INSC 1195",
+"date":"2026-11-05",
+"court":"Supreme Court of India",
+"bench":"Ujjal Bhuyan, Atul S. Chandurkar JJ",
+"subjects":[
+"Criminal Procedure",
+"Constitutional Law"
+],
+"topic":"Production before magistrate (Art. 22(2), BNSS s. 58)",
+"tag":"The 24-hour limit for producing an arrested person before a magistrate starts when liberty is actually curtailed, not at formal arrest; only travel time is excluded, and an accused held beyond it must be released",
+"source":"https://lawchakra.in/supreme-court/24-hour-deadline-detention/",
+"kind":"new",
+"year":2026,
+"id":"sujit-das-v-union-of-india-2026",
+"added":"2026-11-07"
+},
+{
+"name":"Sau. Kamalbai Waman Patil v. State of Maharashtra",
+"cite":"2026 INSC 1196",
+"date":"2026-11-05",
+"court":"Supreme Court of India",
+"bench":"Ujjal Bhuyan, Atul S. Chandurkar JJ",
+"subjects":[
+"Criminal Law",
+"Evidence"
+],
+"topic":"Common intention; dying declarations",
+"tag":"Where all accused were charged only under IPC s. 302 r/w s. 34 (now BNS s. 103 r/w s. 3(5)) and the others were acquitted, the lone remaining accused cannot be convicted of murder simpliciter without a separate charge",
+"source":"https://www.advocatekhoj.com/library/judgments/index.php?go=2026%2Fnovember%2Fsau-kamalbai-waman-patil-vs-state-of-maharashtra-15",
+"kind":"new",
+"year":2026,
+"id":"sau-kamalbai-waman-patil-v-state-of-maharashtra-2026",
+"added":"2026-11-07"
+},
+{
+"name":"G. Pazhanivel v. S. Thilagavathy",
+"cite":"2026 INSC 1197",
+"date":"2026-11-05",
+"court":"Supreme Court of India",
+"bench":"Ujjal Bhuyan, Atul S. Chandurkar JJ",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Rejection of plaint (Order VII Rule 11)",
+"tag":"A plaint may be rejected even before registration, but only on reading it as a whole; likely failure at trial is no ground, and pre-registration rejections must still be entered in the register of suits (Order IV Rule 2)",
+"source":"https://www.advocatekhoj.com/library/judgments/index.php?go=2026%2Fnovember%2Fg-pazhanivel-vs-s-thilagavathy-14",
+"kind":"new",
+"year":2026,
+"id":"g-pazhanivel-v-s-thilagavathy-2026",
+"added":"2026-11-07"
+},
+{
+"name":"Rama Pandey v. Ram Lal (D) through LRs",
+"cite":"2026 INSC 1199",
+"date":"2026-11-05",
+"court":"Supreme Court of India",
+"bench":"S.V.N. Bhatti, N.V. Anjaria JJ",
+"subjects":[
+"Property Law",
+"Administrative Law"
+],
+"topic":"Consolidation of holdings (U.P.)",
+"tag":"In consolidation proceedings, valuable roadside land cannot be allotted to persons with no original right there in place of the original tenure holders without valid reasons",
+"source":"https://www.advocatekhoj.com/library/judgments/index.php?go=2026%2Fnovember%2Frama-pandey-vs-ram-lal-d-through-lr-17",
+"kind":"new",
+"year":2026,
+"id":"rama-pandey-v-ram-lal-d-through-lrs-2026",
+"added":"2026-11-07"
+},
 {
 "name":"Goverdhan v. State of Rajasthan",
 "cite":"2026 INSC 1190",
@@ -105,6 +246,25 @@
 "year":2026,
 "id":"sree-sankaracharya-university-of-sanskrit-v-archa-2026",
 "added":"2026-11-05"
+},
+{
+"name":"V. Nagalingam v. Superintendent of Police",
+"cite":"2026 LiveLaw (Mad) 530",
+"date":"2026-11-04",
+"reported":"Reported 4 Nov 2026",
+"court":"Madras High Court",
+"bench":"Krishnaswamy Govindarajan J",
+"subjects":[
+"Labour Law",
+"Administrative Law"
+],
+"topic":"Disciplinary proceedings; police association",
+"tag":"A policeman's representation seeking permission to form an association is not misconduct and cannot found a charge memo; proceedings pending for over two decades on flimsy charges quashed",
+"source":"https://www.dtnext.in/news/tamilnadu/madras-hc-quashes-disciplinary-proceedings-against-cop-for-seeking-to-form-association",
+"kind":"new",
+"year":2026,
+"id":"v-nagalingam-v-superintendent-of-police-2026",
+"added":"2026-11-07"
 },
 {
 "name":"N. Sridhar Reddy v. State of Andhra Pradesh",
@@ -283,6 +443,23 @@
 "year":2026,
 "id":"j-p-v-state-nct-of-delhi-2026",
 "added":"2026-11-05"
+},
+{
+"name":"ABD Maestro Pvt. Ltd. v. Great Galleon Ventures Ltd.",
+"date":"2026-11-03",
+"court":"Delhi High Court",
+"bench":"Purushaindra Kumar Kaurav J",
+"subjects":[
+"Intellectual Property",
+"Civil Procedure"
+],
+"topic":"Territorial jurisdiction in online IP suits",
+"tag":"A website or marketplace listing accessible in Delhi, or a test purchase delivered there, does not by itself give Delhi jurisdiction; purposeful targeting and real transactions in the forum must be shown",
+"source":"https://lawchakra.in/high-court/delhi-high-court/delhi-high-court-ip-suits/",
+"kind":"new",
+"year":2026,
+"id":"abd-maestro-pvt-ltd-v-great-galleon-ventures-lt-2026",
+"added":"2026-11-07"
 },
 {
 "name":"Susheela Kawar v. M. Pettu Lakshmi",
@@ -4199,6 +4376,19 @@
 "added":"2026-10-20"
 },
 {
+"name":"State of Orissa v. Sudhansu Sekhar Misra",
+"year":1968,
+"court":"Supreme Court of India",
+"subjects":[
+"Jurisprudence"
+],
+"topic":"Precedent: ratio decidendi",
+"tag":"A decision is binding only for what it actually decides; isolated observations or general expressions in a judgment are not precedent, and its ratio must be read in light of the facts",
+"kind":"landmark",
+"id":"state-of-orissa-v-sudhansu-sekhar-misra-1968",
+"added":"2026-11-07"
+},
+{
 "name":"A.K. Kraipak v. Union of India",
 "cite":"(1969) 2 SCC 262",
 "year":1969,
@@ -4355,6 +4545,19 @@
 "added":"2026-10-23"
 },
 {
+"name":"Indian Performing Right Society Ltd. v. Eastern Indian Motion Pictures Association",
+"year":1977,
+"court":"Supreme Court of India",
+"subjects":[
+"Intellectual Property"
+],
+"topic":"Copyright in film music",
+"tag":"A film producer who commissions lyrics and music for a film becomes first owner of copyright in them (absent contrary contract), so composers cannot separately license public performance of the film's songs",
+"kind":"landmark",
+"id":"indian-performing-right-society-ltd-v-eastern-in-1977",
+"added":"2026-11-07"
+},
+{
 "name":"Maneka Gandhi v. Union of India",
 "cite":"(1978) 1 SCC 248",
 "year":1978,
@@ -4453,6 +4656,19 @@
 "kind":"landmark",
 "id":"nandini-satpathy-v-p-l-dani-1978",
 "added":"2026-11-04"
+},
+{
+"name":"Hussainbhai v. Alath Factory Thozhilali Union",
+"year":1978,
+"court":"Supreme Court of India",
+"subjects":[
+"Labour Law"
+],
+"topic":"Employer-employee relationship",
+"tag":"The real employer is the one with economic control over the workers' livelihood; interposing contractors does not let the principal escape liability to workmen",
+"kind":"landmark",
+"id":"hussainbhai-v-alath-factory-thozhilali-union-1978",
+"added":"2026-11-07"
 },
 {
 "name":"Hussainara Khatoon v. State of Bihar",
@@ -4662,6 +4878,19 @@
 "kind":"landmark",
 "id":"swadeshi-cotton-mills-v-union-of-india-1981",
 "added":"2026-11-05"
+},
+{
+"name":"K.P. Varghese v. Income Tax Officer",
+"year":1981,
+"court":"Supreme Court of India",
+"subjects":[
+"Tax Law"
+],
+"topic":"Interpretation of taxing statutes (s. 52(2) IT Act)",
+"tag":"s. 52(2) IT Act applies only where the consideration declared on a transfer is shown to be understated; a literal reading taxing honest sellers was rejected as absurd and unjust",
+"kind":"landmark",
+"id":"k-p-varghese-v-income-tax-officer-1981",
+"added":"2026-11-07"
 },
 {
 "name":"Randhir Singh v. Union of India",
@@ -5456,6 +5685,20 @@
 "kind":"landmark",
 "id":"narmada-bachao-andolan-v-union-of-india-2000",
 "added":"2026-10-24"
+},
+{
+"name":"Church of God (Full Gospel) in India v. K.K.R. Majestic Colony Welfare Association",
+"year":2000,
+"court":"Supreme Court of India",
+"subjects":[
+"Environmental Law",
+"Constitutional Law"
+],
+"topic":"Noise pollution",
+"tag":"No religion requires prayers through loudspeakers or drums disturbing others; noise limits under the Noise Pollution Rules apply to places of worship and freedom from noise is part of Art. 21",
+"kind":"landmark",
+"id":"church-of-god-full-gospel-in-india-v-k-k-r-maj-2000",
+"added":"2026-11-07"
 },
 {
 "name":"Danial Latifi v. Union of India",
