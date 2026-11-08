@@ -1,6 +1,90 @@
 {
-"updated":"2026-11-07T07:19+05:30",
+"updated":"2026-11-08T07:18+05:30",
 "cases":[
+{
+"name":"Devsthan Inam land conversion case (Bombay HC)",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Bombay High Court",
+"bench":"Amit Borkar J",
+"subjects":[
+"Administrative Law"
+],
+"topic":"Ministerial interference with statutory discretion",
+"tag":"A Minister cannot take over a function the statute gives to a designated authority, nor direct that authority how to use its discretion; an order converting Devsthan Inam land to Class I tenure was quashed.",
+"source":"https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-quashes-state-minister-order-converting-devsthan-inam-land-557759",
+"kind":"new",
+"year":2026,
+"id":"devsthan-inam-land-conversion-case-bombay-hc-2026",
+"added":"2026-11-08"
+},
+{
+"name":"Written statement deadline and advocates' strike (J&K HC)",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Jammu & Kashmir and Ladakh High Court",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Time limit for written statement",
+"tag":"Lawyers' suspension of work is not an exceptional circumstance that can justify extending the outer 120-day limit for filing a written statement.",
+"source":"https://www.livelaw.in/high-court/jammu-kashmir/advocates-suspension-of-work-not-an-exceptional-ground-to-extend-120-day-deadline-for-filing-written-statement-jk-high-court-557768",
+"kind":"new",
+"year":2026,
+"id":"written-statement-deadline-and-advocates-strike-2026",
+"added":"2026-11-08"
+},
+{
+"name":"Specific performance suit restored (Andhra Pradesh HC, Order VII Rule 11)",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Andhra Pradesh High Court",
+"subjects":[
+"Civil Procedure",
+"Contract"
+],
+"topic":"Rejection of plaint",
+"tag":"A plaint cannot be rejected under Order VII Rule 11 CPC when the case turns on disputed facts such as whether a contract was concluded or one co-owner could bind the others; those need a trial.",
+"source":"https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-restores-specific-performance-suit-disputed-questions-decided-ordervii-rule11-cpc-557738",
+"kind":"new",
+"year":2026,
+"id":"specific-performance-suit-restored-andhra-pradesh-2026",
+"added":"2026-11-08"
+},
+{
+"name":"Impleading the State in central-agency prosecutions (Rajasthan HC)",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Rajasthan High Court",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Proper party in prosecutions by CBI/NCB",
+"tag":"The State Government should not be routinely made a party to criminal cases prosecuted by central agencies such as the CBI and NCB; the Court directed that the practice stop.",
+"source":"https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-directs-discontinuation-routine-impleadment-state-557734",
+"kind":"new",
+"year":2026,
+"id":"impleading-the-state-in-central-agency-prosecution-2026",
+"added":"2026-11-08"
+},
+{
+"name":"Rajouri land wrongly declared evacuee property (J&K HC)",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Jammu & Kashmir and Ladakh High Court",
+"bench":"M.A. Chowdhary J",
+"subjects":[
+"Property Law",
+"Constitutional Law"
+],
+"topic":"Evacuee property and compensation",
+"tag":"Owners whose land was wrongly treated as evacuee property and allotted to a displaced person are entitled to compensation at current market rates under s.14-A of the J&K Evacuees' Property Act.",
+"source":"https://www.livelaw.in/high-court/jammu-kashmir/after-45-years-jk-hc-orders-market-rate-compensation-for-rajouri-owners-whose-land-was-wrongly-declared-evacuee-property-and-allotted-to-a-displaced-person-557753",
+"kind":"new",
+"year":2026,
+"id":"rajouri-land-wrongly-declared-evacuee-property-j-2026",
+"added":"2026-11-08"
+},
 {
 "name":"Yusuf v. Vigyapan Loke Delhi Advertising CGHS Ltd.",
 "cite":"2026 INSC 1207",
@@ -584,6 +668,22 @@
 "year":2026,
 "id":"high-court-of-karnataka-v-chethan-kumar-2026",
 "added":"2026-11-04"
+},
+{
+"name":"Matin Shankarrao Bhosale v. State of Maharashtra",
+"cite":"2026 LiveLaw (SC) 1140",
+"date":"2026-11-02",
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Causing death by negligence",
+"tag":"A conviction for causing death by negligence (s.304A IPC, now s.106 BNS) needs proof that the death was the direct result of the accused's rash or negligent act, not a remote consequence of it.",
+"source":"https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1140-matin-shankarrao-bhosale-anr-versus-state-of-maharashtra-557540",
+"kind":"new",
+"year":2026,
+"id":"matin-shankarrao-bhosale-v-state-of-maharashtra-2026",
+"added":"2026-11-08"
 },
 {
 "name":"Saeeda Fatima Ashraf v. State of U.P.",
@@ -4021,6 +4121,20 @@
 "added":"2026-10-20"
 },
 {
+"name":"State of U.P. v. Deoman Upadhyaya",
+"cite":"AIR 1960 SC 1125",
+"year":1960,
+"court":"Supreme Court of India",
+"subjects":[
+"Evidence"
+],
+"topic":"Discovery statements under s.27",
+"tag":"Section 27 of the Evidence Act (now s.23 BSA proviso) does not offend Article 14; admitting the part of a custodial statement that leads to discovery of a fact rests on a reasonable classification.",
+"kind":"landmark",
+"id":"state-of-u-p-v-deoman-upadhyaya-1960",
+"added":"2026-11-08"
+},
+{
 "name":"K.M. Nanavati v. State of Maharashtra",
 "cite":"AIR 1962 SC 605",
 "year":1961,
@@ -4216,6 +4330,20 @@
 "kind":"landmark",
 "id":"fateh-chand-v-balkishan-das-1963",
 "added":"2026-10-23"
+},
+{
+"name":"Pyare Lal Bhargava v. State of Rajasthan",
+"cite":"AIR 1963 SC 1094",
+"year":1963,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Law"
+],
+"topic":"Theft and temporary removal",
+"tag":"Taking a government file out of the office to show it to someone and returning it later is still theft: temporary dispossession causes wrongful loss, so permanent deprivation is not needed.",
+"kind":"landmark",
+"id":"pyare-lal-bhargava-v-state-of-rajasthan-1963",
+"added":"2026-11-08"
 },
 {
 "name":"State of Maharashtra v. M.H. George",
@@ -5057,6 +5185,20 @@
 "kind":"landmark",
 "id":"rural-litigation-and-entitlement-kendra-v-state-o-1985",
 "added":"2026-10-21"
+},
+{
+"name":"Bhagwant Singh v. Commissioner of Police",
+"cite":"(1985) 2 SCC 537",
+"year":1985,
+"court":"Supreme Court of India",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Closure report and the informant",
+"tag":"Before accepting a police closure report and dropping proceedings, the Magistrate must notify the informant and give an opportunity to be heard.",
+"kind":"landmark",
+"id":"bhagwant-singh-v-commissioner-of-police-1985",
+"added":"2026-11-08"
 },
 {
 "name":"M.C. Mehta v. Union of India (Oleum Gas Leak)",
@@ -6597,6 +6739,34 @@
 "kind":"landmark",
 "id":"arcelormittal-india-pvt-ltd-v-satish-kumar-gupt-2018",
 "added":"2026-10-30"
+},
+{
+"name":"B.K. Educational Services Pvt. Ltd. v. Parag Gupta and Associates",
+"cite":"(2019) 11 SCC 633",
+"year":2018,
+"court":"Supreme Court of India",
+"subjects":[
+"Insolvency"
+],
+"topic":"Limitation for IBC applications",
+"tag":"The Limitation Act applies to applications under ss.7 and 9 IBC; Article 137 gives three years from the date of default, and the Code does not revive time-barred debts.",
+"kind":"landmark",
+"id":"b-k-educational-services-pvt-ltd-v-parag-gupta-2018",
+"added":"2026-11-08"
+},
+{
+"name":"Indian Young Lawyers Association v. State of Kerala (Sabarimala)",
+"cite":"(2019) 11 SCC 1",
+"year":2018,
+"court":"Supreme Court of India",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Freedom of religion and gender equality",
+"tag":"Barring women aged 10–50 from the Sabarimala temple was held to violate Article 25; the exclusion was not an essential religious practice and the enabling rule was struck down.",
+"kind":"landmark",
+"id":"indian-young-lawyers-association-v-state-of-keral-2018",
+"added":"2026-11-08"
 },
 {
 "name":"Ravinder Kaur Grewal v. Manjit Kaur",
