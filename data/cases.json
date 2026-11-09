@@ -1,5 +1,5 @@
 {
-"updated":"2026-11-08T07:18+05:30",
+"updated":"2026-11-09T07:17+05:30",
 "cases":[
 {
 "name":"Devsthan Inam land conversion case (Bombay HC)",
@@ -86,6 +86,94 @@
 "added":"2026-11-08"
 },
 {
+"name":"State of Himachal Pradesh v. Union of India (Bhakra-Beas power arrears)",
+"cite":"2026 INSC 1200",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Supreme Court of India",
+"bench":"Surya Kant CJI, Joymalya Bagchi, V. Mohana JJ",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Inter-state original suit (Article 131)",
+"tag":"Executing its 2011 decree, the Court rejected Punjab's bid to reopen settled issues and ordered Punjab and Haryana to supply about 11,973 MU to Himachal cashless over 20 lean seasons",
+"source":"https://www.verdictum.in/supreme-court/2026-insc-1200-state-of-himachal-pradesh-v-union-of-india-1625296",
+"kind":"new",
+"year":2026,
+"id":"state-of-himachal-pradesh-v-union-of-india-bhakr-2026",
+"added":"2026-11-09"
+},
+{
+"name":"Suvan Yaduvanshi v. University of Delhi",
+"cite":"2026 LiveLaw (Del) 1060",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Delhi High Court",
+"bench":"Jasmeet Singh J",
+"subjects":[
+"Constitutional Law"
+],
+"topic":"Right to education",
+"tag":"The right to education under Article 21 does not entitle a student to a seat in a course of choice without meeting eligibility; DU's CUET-UG subject-mapping criteria upheld",
+"source":"https://www.livelaw.in/high-court/delhi-high-court/livelaw-delhi-high-court-weekly-round-up-november-02-to-november-08-2026-557835",
+"kind":"new",
+"year":2026,
+"id":"suvan-yaduvanshi-v-university-of-delhi-2026",
+"added":"2026-11-09"
+},
+{
+"name":"Nillum Batra v. State (Delhi HC, discharge of husband)",
+"cite":"2026 LiveLaw (Del) 1063",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Delhi High Court",
+"bench":"Madhu Jain J",
+"subjects":[
+"Criminal Procedure"
+],
+"topic":"Discharge; cruelty and abetment of suicide",
+"tag":"Husband discharged of cruelty and abetment of suicide charges because the prosecution material did not disclose the essential ingredients of either offence",
+"source":"https://www.livelaw.in/high-court/delhi-high-court/livelaw-delhi-high-court-weekly-round-up-november-02-to-november-08-2026-557835",
+"kind":"new",
+"year":2026,
+"id":"nillum-batra-v-state-delhi-hc-discharge-of-husb-2026",
+"added":"2026-11-09"
+},
+{
+"name":"Amitabh Bachchan v. Rajat Negi",
+"cite":"2026 LiveLaw (Del) 1069",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Delhi High Court",
+"subjects":[
+"Intellectual Property"
+],
+"topic":"Personality rights",
+"tag":"Personality rights suit decreed: defendants permanently restrained from commercially using the actor's name, image, voice, likeness and other attributes of his persona without consent",
+"source":"https://www.livelaw.in/high-court/delhi-high-court/livelaw-delhi-high-court-weekly-round-up-november-02-to-november-08-2026-557835",
+"kind":"new",
+"year":2026,
+"id":"amitabh-bachchan-v-rajat-negi-2026",
+"added":"2026-11-09"
+},
+{
+"name":"Rekha Gupta v. Aam Aadmi Party",
+"cite":"2026 LiveLaw (Del) 1070",
+"date":"2026-11-08",
+"reported":"Week of 2–8 Nov 2026",
+"court":"Delhi High Court",
+"subjects":[
+"Torts"
+],
+"topic":"Defamation; AI deepfakes",
+"tag":"Ordered removal of AI-generated videos and posts depicting the Delhi Chief Minister in a defamatory manner; political satire cannot be used to attack a person's dignity",
+"source":"https://www.livelaw.in/high-court/delhi-high-court/livelaw-delhi-high-court-weekly-round-up-november-02-to-november-08-2026-557835",
+"kind":"new",
+"year":2026,
+"id":"rekha-gupta-v-aam-aadmi-party-2026",
+"added":"2026-11-09"
+},
+{
 "name":"Yusuf v. Vigyapan Loke Delhi Advertising CGHS Ltd.",
 "cite":"2026 INSC 1207",
 "date":"2026-11-06",
@@ -154,6 +242,22 @@
 "year":2026,
 "id":"masoom-ali-alias-kala-v-union-territory-of-j-k-2026",
 "added":"2026-11-07"
+},
+{
+"name":"A. John Kennedy v. State of Tamil Nadu (Megamalai forest rights)",
+"date":"2026-11-06",
+"court":"Supreme Court of India",
+"bench":"Vikram Nath, Sandeep Mehta JJ",
+"subjects":[
+"Environmental Law"
+],
+"topic":"Forest Rights Act, 2006",
+"tag":"Commercial silk cotton cultivation inside a forest is neither a forest right nor minor forest produce under the FRA; people living outside the forest who only cultivate inside it cannot claim forest-dweller status",
+"source":"https://courtbook.in/posts/commercial-crop-cultivation-cannot-be-recognised-as-forest-right-to-justify-occupation-of-forest-land-supreme-court",
+"kind":"new",
+"year":2026,
+"id":"a-john-kennedy-v-state-of-tamil-nadu-megamalai-2026",
+"added":"2026-11-09"
 },
 {
 "name":"Sujit Das v. Union of India",
@@ -1500,6 +1604,23 @@
 "year":2026,
 "id":"i-s-inbadurai-v-a-t-durai-kumar-2026",
 "added":"2026-10-28"
+},
+{
+"name":"In Re: 2 Million Lives at Risk, Contamination in Jojari River, Rajasthan (illegal bajri mining)",
+"cite":"2026 INSC 1203",
+"date":"2026-10-26",
+"court":"Supreme Court of India",
+"bench":"Vikram Nath, Sandeep Mehta JJ",
+"subjects":[
+"Environmental Law"
+],
+"topic":"Illegal riverbed mining",
+"tag":"A later mining lease does not cure earlier illegal riverbed mining; the Court ordered an IG-led SIT, a 100 m protective zone along the Luni, Jojari and Bandi rivers, and barred Red Category industries within 500 m",
+"source":"https://lawchakra.in/?p=325528",
+"kind":"new",
+"year":2026,
+"id":"in-re-2-million-lives-at-risk-contamination-in-j-2026",
+"added":"2026-11-09"
 },
 {
 "name":"Victim X v. State of U.P.",
@@ -3607,6 +3728,19 @@
 "added":"2026-10-20"
 },
 {
+"name":"Kedarnath Bhattacharji v. Gorie Mahomed",
+"year":1886,
+"court":"Calcutta High Court",
+"subjects":[
+"Contract"
+],
+"topic":"Consideration",
+"tag":"A promise to subscribe to a public building fund is enforceable once the promisee, relying on it, has incurred liability; that detriment is consideration",
+"kind":"landmark",
+"id":"kedarnath-bhattacharji-v-gorie-mahomed-1886",
+"added":"2026-11-09"
+},
+{
 "name":"Carlill v. Carbolic Smoke Ball Co",
 "cite":"[1893] 1 QB 256",
 "year":1892,
@@ -4615,6 +4749,19 @@
 "added":"2026-10-20"
 },
 {
+"name":"Pasupuleti Venkateswarlu v. Motor & General Traders",
+"year":1975,
+"court":"Supreme Court of India",
+"subjects":[
+"Civil Procedure"
+],
+"topic":"Subsequent events",
+"tag":"Courts, including appellate courts, may take notice of events after the suit was filed when they bear on the relief or make the original relief inappropriate",
+"kind":"landmark",
+"id":"pasupuleti-venkateswarlu-v-motor-general-trader-1975",
+"added":"2026-11-09"
+},
+{
 "name":"ADM Jabalpur v. Shivkant Shukla",
 "cite":"(1976) 2 SCC 521",
 "year":1976,
@@ -4641,6 +4788,19 @@
 "kind":"landmark",
 "id":"state-of-andhra-pradesh-v-rayavarapu-punnayya-1976",
 "added":"2026-10-20"
+},
+{
+"name":"Kale v. Deputy Director of Consolidation",
+"year":1976,
+"court":"Supreme Court of India",
+"subjects":[
+"Property Law"
+],
+"topic":"Family settlement",
+"tag":"A bona fide family settlement resolving disputes among members is binding and favoured by courts; an oral settlement or a memorandum of it needs no registration",
+"kind":"landmark",
+"id":"kale-v-deputy-director-of-consolidation-1976",
+"added":"2026-11-09"
 },
 {
 "name":"V. Tulasamma v. Sesha Reddy",
@@ -5757,6 +5917,19 @@
 "added":"2026-10-20"
 },
 {
+"name":"Klaus Mittelbachert v. East India Hotels Ltd.",
+"year":1997,
+"court":"Delhi High Court",
+"subjects":[
+"Torts"
+],
+"topic":"Occupier's liability; exemplary damages",
+"tag":"A five-star hotel owes guests a high duty of care for the safety of its premises; it was held liable, with exemplary damages, for a guest injured in a defective pool",
+"kind":"landmark",
+"id":"klaus-mittelbachert-v-east-india-hotels-ltd-1997",
+"added":"2026-11-09"
+},
+{
 "name":"Githa Hariharan v. Reserve Bank of India",
 "cite":"(1999) 2 SCC 228",
 "year":1999,
@@ -6083,6 +6256,19 @@
 "kind":"landmark",
 "id":"naveen-kohli-v-neelu-kohli-2006",
 "added":"2026-11-01"
+},
+{
+"name":"Seema v. Ashwani Kumar",
+"year":2006,
+"court":"Supreme Court of India",
+"subjects":[
+"Family Law"
+],
+"topic":"Registration of marriages",
+"tag":"Directed States to make registration of marriages of all citizens, whatever their religion, compulsory",
+"kind":"landmark",
+"id":"seema-v-ashwani-kumar-2006",
+"added":"2026-11-09"
 },
 {
 "name":"I.R. Coelho v. State of Tamil Nadu",
